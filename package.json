@@ -1,0 +1,28 @@
+{
+  "name": "dynamic-icon-lists",
+  "version": "1.0.0",
+  "description": "Always up to date list of icon names for Lucide.dev, Material Symbols(Icons)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kibermaks/icon-lists.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/kibermaks/icon-lists/issues"
+  },
+  "homepage": "https://github.com/kibermaks/icon-lists#readme",
+  "devDependencies": {
+    "ajv": "^8.17.1",
+    "brotli-cli": "^2.1.0",
+    "json-minify": "^1.0.0",
+    "node-fetch": "^3.3.2",
+    "svgo": "^3.3.2"
+  }
+}

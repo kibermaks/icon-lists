@@ -13,13 +13,14 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs",
+  "type": "module",
   "bugs": {
     "url": "https://github.com/kibermaks/icon-lists/issues"
   },
   "homepage": "https://github.com/kibermaks/icon-lists#readme",
   "devDependencies": {
     "ajv": "^8.17.1",
+    "ajv-cli": "^5.0.0",
     "brotli-cli": "^2.1.0",
     "json-minify": "^1.0.0",
     "node-fetch": "^3.3.2",

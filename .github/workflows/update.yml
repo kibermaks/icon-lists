@@ -17,10 +17,15 @@ jobs:
       - run: node src/update.js
 
       # Commit only if files changed
-      - name: Push if changed
+      - name: Push changes if needed
+        id: push_changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: 'chore: daily icon metadata refresh'
           branch: gh-pages
           create_branch: true
           push_options: --force
+      - name: Purge jsDelivr for all dist assets
+        if: steps.push_changes.outputs.changes_detected == 'true'
+        run: |
+          curl -sS "https://purge.jsdelivr.net/gh/${{ github.repository }}@gh-pages/dist"

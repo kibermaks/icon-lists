@@ -23,4 +23,4 @@ jobs:
           commit_message: 'chore: daily icon metadata refresh'
           branch: gh-pages
           create_branch: true
-          force_push: true
+          push_options: --force

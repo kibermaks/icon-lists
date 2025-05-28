@@ -17,10 +17,15 @@ jobs:
       - name: Clone lucide-icons repo
         run: |
           git clone https://github.com/lucide-icons/lucide.git
-      - name: Run migrateIconsToCategories script
+      - name: Use Node.js 23 for lucide
+        uses: actions/setup-node@v4
+        with:
+          node-version: 23
+
+      - name: Install and run migrateIconsToCategories
         run: |
           cd lucide
-          npm ci
+          npm install --omit=dev
           node scripts/migrateIconsToCategories.mjs
       - name: Copy categories.json to project
         run: |

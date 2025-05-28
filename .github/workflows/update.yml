@@ -29,6 +29,7 @@ jobs:
           node scripts/migrateIconsToCategories.mjs
       - name: Copy categories.json to project
         run: |
+          mkdir -p ./src/data
           cp lucide/categories.json ./src/data/categories.json
       - run: node src/update.js
 

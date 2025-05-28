@@ -1,84 +1,89 @@
-import { IconProcessor } from "./icon-processor.js";
+import { readFileSync } from "fs";
+import { readAllMetadata } from "./helpers/readAllMetadata.mjs";
+import { SetProcessor } from "./set-processor.js";
 
-const SOURCE_MATERIAL = "https://fonts.google.com/metadata/icons?&key=material_symbols&incomplete=true";
-const SOURCE_MATERIAL_SCHEMA = "src/material-schema.json";
+const ICONS_DIR = "lucide/icons";
+const CATEGORIES_DIR = "lucide/categories";
+const MATERIAL_DATA_PATH = "dist/material-combined-full.min.json";
 
-const OUTPUT_NAME_MATERIAL_ICONS = "material-icons";
-const OUTPUT_NAME_MATERIAL_SYMBOLS = "material-symbols";
+const OUTPUT_NAME_LUCIDE_ICONS = "lucide-icons";
 
-const CATEGORIES_MAPPING_MATERIAL_ICONS = {
-    "action": "Action",
-    "alert": "Alert",
-    "av": "Audio & Video",
-    "communication": "Communication",
-    "content": "Content",
-    "device": "Device",
-    "editor": "Editor",
-    "file": "File",
-    "hardware": "Hardware",
-    "home": "Home",
-    "image": "Image",
-    "maps": "Maps",
-    "navigation": "Navigation",
-    "notification": "Notification",
-    "places": "Places",
-    "search": "Search",
-    "social": "Social",
-    "toggle": "Toggle",
-};
-
-const CATEGORIES_MAPPING_MATERIAL_SYMBOLS = {
-    "Actions": "Actions",
-    "Activities": "Activities",
-    "Android": "Android",
-    "Audio&Video": "Audio & Video",
-    "Business": "Business",
-    "Communicate": "Communicate",
-    "Hardware": "Hardware",
-    "Home": "Home",
-    "Household": "Household",
-    "Images": "Images",
-    "Maps": "Maps",
-    "Privacy": "Privacy",
-    "Social": "Social",
-    "Text": "Text",
-    "Transit": "Transit",
-    "Travel": "Travel",
-    "UI actions": "UI actions",
-};
-
-export const MaterialProcessorType = {
-    ICONS: 'icons',
-    SYMBOLS: 'symbols',
-};
-Object.freeze(MaterialProcessorType); // Make it immutable
-
-export class MaterialProcessor extends IconProcessor {
-    constructor(type) {
-        let name;
-        let categoriesMapping;
-        let unsupportedFamiliesCount;
-
-        if (type === MaterialProcessorType.ICONS) {
-            name = OUTPUT_NAME_MATERIAL_ICONS;
-            categoriesMapping = CATEGORIES_MAPPING_MATERIAL_ICONS;
-            unsupportedFamiliesCount = 3;
-        } else if (type === MaterialProcessorType.SYMBOLS) {
-            name = OUTPUT_NAME_MATERIAL_SYMBOLS;
-            categoriesMapping = CATEGORIES_MAPPING_MATERIAL_SYMBOLS;
-            unsupportedFamiliesCount = 5;
-        } else {
-            throw new Error(`Unknown MaterialProcessor type: ${type}`);
-        }
-
-        super(name, SOURCE_MATERIAL, SOURCE_MATERIAL_SCHEMA, categoriesMapping);
-        this.unsupportedFamiliesCount = unsupportedFamiliesCount;
+export class LucideProcessor extends SetProcessor {
+    constructor() {
+        super();
+        this.categoriesMapping = {};
+        this.materialPopularity = {};
     }
 
-    filterIcons(allIcons) {
-        const filtered = allIcons.filter((i) => i.unsupported_families.length === this.unsupportedFamiliesCount);
-        console.log(`Total icons count from source for ${this.name}: ${allIcons.length}`);
-        console.log(`Icons filtered out for ${this.name}: ${allIcons.length - filtered.length}`);
-        return filtered;
+    async _fetchData() {
+        const iconsMetadata = await readAllMetadata(ICONS_DIR);
+        const lucideRawData = Object.keys(iconsMetadata).map((key) => {
+            return {
+                name: key,
+                categories: iconsMetadata[key].categories,
+                tags: iconsMetadata[key].tags,
+            };
+        });
+
+        const categories = await readAllMetadata(CATEGORIES_DIR);
+        this.categoriesMapping = Object.keys(categories).reduce((acc, key) => {
+            acc[key] = categories[key].title;
+            return acc;
+        }, {});
+
+        try {
+            const materialFileContent = readFileSync(MATERIAL_DATA_PATH, "utf-8");
+            const materialJson = JSON.parse(materialFileContent);
+            this.materialPopularity = materialJson.icons.sort((a, b) => b.p - a.p).reduce((acc, i) => {
+                i.t.forEach(t => {
+                    if (!acc[t]) {
+                        acc[t] = i.p;
+                    }
+                });
+                return acc;
+            }, {});
+        } catch (error) {
+            console.error(`LucideProcessor: Error reading or parsing ${MATERIAL_DATA_PATH}:`, error);
+            this.materialPopularity = {};
+        }
+
+        return lucideRawData;
+    }
+
+    _validateData(data) {
+        return null;
+    }
+
+    _transformData(data) {
+        console.log(`Lucide: Total icons count: ${data.length}`);
+
+        const icons = data.reduce((acc, i) => {
+            const friendlyName = i.name.replace(/-/g, " ");
+            const lucideOriginalTags = Array.isArray(i.tags) ? i.tags : [];
+            
+            i.categories = Array.isArray(i.categories) ? i.categories.map((c) => this.categoriesMapping[c] || c) : [];
+            i.tags = Array.from(new Set([friendlyName, ...lucideOriginalTags].map(t => String(t).toLowerCase()))).sort();
+
+            i.popularity = i.tags.reduce((maxPop, lTag) => {
+                const pop = this.materialPopularity[lTag] || 0;
+                if (pop > 0) {
+                    if (maxPop > 0) {
+                        maxPop = Math.round((maxPop + pop) / 2);
+                    }
+                    else {
+                        maxPop = pop;
+                    }
+                }
+                return maxPop;
+            }, 0);
+
+            acc.push(i);
+            return acc;
+        }, []);
+        return icons;
+    }
+
+    async _process(data) {
+        await this._layoutAndSaveIconsInSuitableFormats(data, OUTPUT_NAME_LUCIDE_ICONS);
     }
 } 

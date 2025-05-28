@@ -1,8 +1,11 @@
-import { IconProcessor } from "./icon-processor.js";
+import { readFileSync } from "fs";
+import fetch from "node-fetch";
+import { SetProcessor } from "./set-processor.js";
 
 const SOURCE_MATERIAL = "https://fonts.google.com/metadata/icons?&key=material_symbols&incomplete=true";
 const SOURCE_MATERIAL_SCHEMA = "src/material-schema.json";
 
+const OUTPUT_NAME_MATERIAL_COMBINED = "material-combined";
 const OUTPUT_NAME_MATERIAL_ICONS = "material-icons";
 const OUTPUT_NAME_MATERIAL_SYMBOLS = "material-symbols";
 
@@ -47,38 +50,52 @@ const CATEGORIES_MAPPING_MATERIAL_SYMBOLS = {
     "UI actions": "UI actions",
 };
 
-export const MaterialProcessorType = {
-    ICONS: 'icons',
-    SYMBOLS: 'symbols',
-};
-Object.freeze(MaterialProcessorType); // Make it immutable
-
-export class MaterialProcessor extends IconProcessor {
-    constructor(type) {
-        let name;
-        let categoriesMapping;
-        let unsupportedFamiliesCount;
-
-        if (type === MaterialProcessorType.ICONS) {
-            name = OUTPUT_NAME_MATERIAL_ICONS;
-            categoriesMapping = CATEGORIES_MAPPING_MATERIAL_ICONS;
-            unsupportedFamiliesCount = 3;
-        } else if (type === MaterialProcessorType.SYMBOLS) {
-            name = OUTPUT_NAME_MATERIAL_SYMBOLS;
-            categoriesMapping = CATEGORIES_MAPPING_MATERIAL_SYMBOLS;
-            unsupportedFamiliesCount = 5;
-        } else {
-            throw new Error(`Unknown MaterialProcessor type: ${type}`);
-        }
-
-        super(name, SOURCE_MATERIAL, SOURCE_MATERIAL_SCHEMA, categoriesMapping);
-        this.unsupportedFamiliesCount = unsupportedFamiliesCount;
+export class MaterialProcessor extends SetProcessor {
+    constructor() {
+        super();
+        this.combinedCategories = {
+			...CATEGORIES_MAPPING_MATERIAL_ICONS,
+			...CATEGORIES_MAPPING_MATERIAL_SYMBOLS,
+		};
     }
 
-    filterIcons(allIcons) {
-        const filtered = allIcons.filter((i) => i.unsupported_families.length === this.unsupportedFamiliesCount);
-        console.log(`Total icons count from source for ${this.name}: ${allIcons.length}`);
-        console.log(`Icons filtered out for ${this.name}: ${allIcons.length - filtered.length}`);
-        return filtered;
+    async _fetchData() {
+        const raw = await fetch(SOURCE_MATERIAL).then((r) => r.text());
+        return JSON.parse(raw.replace(/^[^\n]*\n/, ""));
+    }
+
+    _validateData(data) {
+        const validate = this.ajv.compile(JSON.parse(readFileSync(SOURCE_MATERIAL_SCHEMA, "utf-8")));
+        if (!validate(data)) {
+            console.error(validate.errors);
+            return new Error(`Schema validation failed for ${this.name}`);
+        }
+        return null;
+    }
+
+    _transformData(data) {
+        console.log(`Material: Total icons count: ${data.icons.length}`);
+
+        const icons = data.icons.reduce((acc, i) => {
+            if (i.unsupported_families.length === 3 || i.unsupported_families.length === 5) {
+                i.name = i.name.replace(/_/g, ' ').replace(/\b\w/g, l => l.toUpperCase());
+                i.categories = i.categories.map((c) => this.combinedCategories[c] || c);
+                i.tags = Array.from(new Set([i.name, ...i.tags].map(tag => tag.toLowerCase()))).sort();
+                acc.push(i);
+            }
+            return acc;
+        }, []);
+        return icons;
+    }
+
+    async _process(data) {
+        const icons = data.filter((i) => i.unsupported_families.length === 3);
+        const symbols = data.filter((i) => i.unsupported_families.length === 5);
+
+        await Promise.all([
+            this._layoutAndSaveIconsInSuitableFormats(data, OUTPUT_NAME_MATERIAL_COMBINED),
+            this._layoutAndSaveIconsInSuitableFormats(icons, OUTPUT_NAME_MATERIAL_ICONS),
+            this._layoutAndSaveIconsInSuitableFormats(symbols, OUTPUT_NAME_MATERIAL_SYMBOLS),
+        ]);
     }
 } 

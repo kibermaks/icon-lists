@@ -14,8 +14,12 @@ jobs:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
       - run: npm ci
-      - run: node src/update.js
-
+      - name: Clone lucide-icons repo
+        run: |
+          git clone https://github.com/lucide-icons/lucide.git
+      - name: Perform custom update script
+        run: |
+          node src/update.js
       # Commit only if files changed
       - name: Push changes if needed
         id: push_changes

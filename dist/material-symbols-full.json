@@ -1,7 +1,7 @@
 {
-  "countOfIcons": 3631,
+  "countOfIcons": 3636,
   "countOfCategories": 17,
-  "countOfTags": 127845,
+  "countOfTags": 128092,
   "categories": [
     {
       "n": "Actions",
@@ -13,7 +13,7 @@
     },
     {
       "n": "Android",
-      "c": 224
+      "c": 225
     },
     {
       "n": "Audio & Video",
@@ -41,7 +41,7 @@
     },
     {
       "n": "Images",
-      "c": 287
+      "c": 289
     },
     {
       "n": "Maps",
@@ -49,7 +49,7 @@
     },
     {
       "n": "Privacy",
-      "c": 40
+      "c": 41
     },
     {
       "n": "Social",
@@ -61,7 +61,7 @@
     },
     {
       "n": "Transit",
-      "c": 109
+      "c": 110
     },
     {
       "n": "Travel",
@@ -3352,7 +3352,7 @@
     },
     {
       "n": "Account Balance",
-      "p": 11427,
+      "p": 11428,
       "c": "Business",
       "t": [
         "account",
@@ -3518,7 +3518,7 @@
     },
     {
       "n": "Account Child Invert",
-      "p": 67,
+      "p": 68,
       "c": "Actions",
       "t": [
         "access",
@@ -3556,7 +3556,7 @@
     },
     {
       "n": "Account Circle",
-      "p": 67264,
+      "p": 67274,
       "c": "Actions",
       "t": [
         "account",
@@ -4062,7 +4062,7 @@
     },
     {
       "n": "Adaptive Audio Mic",
-      "p": 129,
+      "p": 130,
       "c": "Audio & Video",
       "t": [
         "account",
@@ -4226,7 +4226,7 @@
     },
     {
       "n": "Add",
-      "p": 72070,
+      "p": 72074,
       "c": "UI actions",
       "t": [
         "+",
@@ -4595,7 +4595,7 @@
     },
     {
       "n": "Add Chart",
-      "p": 928,
+      "p": 929,
       "c": "Business",
       "t": [
         "+",
@@ -4637,7 +4637,7 @@
     },
     {
       "n": "Add Circle",
-      "p": 40897,
+      "p": 40899,
       "c": "UI actions",
       "t": [
         "+",
@@ -5210,7 +5210,7 @@
     },
     {
       "n": "Add Road",
-      "p": 747,
+      "p": 748,
       "c": "Maps",
       "t": [
         "+",
@@ -5737,7 +5737,7 @@
     },
     {
       "n": "Admin Panel Settings",
-      "p": 7940,
+      "p": 7943,
       "c": "Privacy",
       "t": [
         "abstract person",
@@ -5781,7 +5781,7 @@
     },
     {
       "n": "Ads Click",
-      "p": 6892,
+      "p": 6897,
       "c": "Actions",
       "t": [
         "ad",
@@ -6489,7 +6489,7 @@
     },
     {
       "n": "Airplane Ticket",
-      "p": 1624,
+      "p": 1626,
       "c": "Travel",
       "t": [
         "air",
@@ -6985,7 +6985,7 @@
     },
     {
       "n": "Album",
-      "p": 1445,
+      "p": 1446,
       "c": "Audio & Video",
       "t": [
         "album",
@@ -8490,7 +8490,7 @@
     },
     {
       "n": "Analytics",
-      "p": 10647,
+      "p": 10649,
       "c": "Business",
       "t": [
         "analysis",
@@ -8567,7 +8567,7 @@
     },
     {
       "n": "Android",
-      "p": 3228,
+      "p": 3229,
       "c": "Android",
       "t": [
         "android",
@@ -8856,7 +8856,7 @@
     },
     {
       "n": "Api",
-      "p": 2734,
+      "p": 2735,
       "c": "Actions",
       "t": [
         "access",
@@ -9010,7 +9010,7 @@
     },
     {
       "n": "App Blocking",
-      "p": 360,
+      "p": 371,
       "c": "Hardware",
       "t": [
         "Android",
@@ -9745,7 +9745,7 @@
     },
     {
       "n": "Arrow Back",
-      "p": 53841,
+      "p": 53846,
       "c": "UI actions",
       "t": [
         "DISABLE_IOS",
@@ -10035,7 +10035,7 @@
     },
     {
       "n": "Arrow Circle Up",
-      "p": 4218,
+      "p": 4219,
       "c": "UI actions",
       "t": [
         "arrow",
@@ -10114,7 +10114,7 @@
     },
     {
       "n": "Arrow Downward",
-      "p": 11332,
+      "p": 11333,
       "c": "UI actions",
       "t": [
         "app",
@@ -10193,7 +10193,7 @@
     },
     {
       "n": "Arrow Drop Down",
-      "p": 32900,
+      "p": 32902,
       "c": "UI actions",
       "t": [
         "app",
@@ -10331,7 +10331,7 @@
     },
     {
       "n": "Arrow Forward",
-      "p": 35339,
+      "p": 35344,
       "c": "UI actions",
       "t": [
         "advance",
@@ -10377,7 +10377,7 @@
     },
     {
       "n": "Arrow Forward Ios",
-      "p": 45448,
+      "p": 45449,
       "c": "UI actions",
       "t": [
         "advance",
@@ -10648,7 +10648,7 @@
     },
     {
       "n": "Arrow Or Edge",
-      "p": 18,
+      "p": 19,
       "c": "UI actions",
       "t": [
         "angle",
@@ -10893,7 +10893,7 @@
     },
     {
       "n": "Arrow Split",
-      "p": 244,
+      "p": 246,
       "c": "UI actions",
       "t": [
         "arrow",
@@ -11219,7 +11219,7 @@
     },
     {
       "n": "Arrows Input",
-      "p": 21,
+      "p": 22,
       "c": "UI actions",
       "t": [
         "arrow",
@@ -11472,7 +11472,7 @@
     },
     {
       "n": "Article",
-      "p": 8858,
+      "p": 8860,
       "c": "Text",
       "t": [
         "article",
@@ -11601,7 +11601,7 @@
     },
     {
       "n": "Artist",
-      "p": 71,
+      "p": 72,
       "c": "Audio & Video",
       "t": [
         "account",
@@ -12517,7 +12517,7 @@
     },
     {
       "n": "Attach Money",
-      "p": 13555,
+      "p": 13558,
       "c": "Business",
       "t": [
         "accounting",
@@ -13180,7 +13180,7 @@
     },
     {
       "n": "Automation",
-      "p": 149,
+      "p": 152,
       "c": "Text",
       "t": [
         "ai",
@@ -13313,7 +13313,7 @@
     },
     {
       "n": "Autorenew",
-      "p": 12581,
+      "p": 12583,
       "c": "UI actions",
       "t": [
         "around",
@@ -13625,7 +13625,7 @@
     },
     {
       "n": "Award Star",
-      "p": 219,
+      "p": 221,
       "c": "Actions",
       "t": [
         "accomplishment",
@@ -14366,7 +14366,7 @@
     },
     {
       "n": "Balance",
-      "p": 2668,
+      "p": 2670,
       "c": "Hardware",
       "t": [
         "analyze",
@@ -15032,7 +15032,7 @@
     },
     {
       "n": "Battery 0 Bar",
-      "p": 1129,
+      "p": 1130,
       "c": "Android",
       "t": [
         "alert",
@@ -15350,7 +15350,7 @@
     },
     {
       "n": "Battery Android 1",
-      "p": 0,
+      "p": 1,
       "c": "Android",
       "t": [
         "alert",
@@ -15386,7 +15386,7 @@
     },
     {
       "n": "Battery Android 2",
-      "p": 0,
+      "p": 2,
       "c": "Android",
       "t": [
         "android",
@@ -15420,7 +15420,7 @@
     },
     {
       "n": "Battery Android 3",
-      "p": 0,
+      "p": 1,
       "c": "Android",
       "t": [
         "75%",
@@ -15453,7 +15453,7 @@
     },
     {
       "n": "Battery Android 4",
-      "p": 1,
+      "p": 2,
       "c": "Android",
       "t": [
         "android",
@@ -15488,7 +15488,7 @@
     },
     {
       "n": "Battery Android 5",
-      "p": 1,
+      "p": 3,
       "c": "Android",
       "t": [
         "android",
@@ -15523,7 +15523,7 @@
     },
     {
       "n": "Battery Android 6",
-      "p": 1,
+      "p": 6,
       "c": "Android",
       "t": [
         "alert",
@@ -15559,7 +15559,7 @@
     },
     {
       "n": "Battery Android Alert",
-      "p": 0,
+      "p": 1,
       "c": "Android",
       "t": [
         "!",
@@ -15602,7 +15602,7 @@
     },
     {
       "n": "Battery Android Bolt",
-      "p": 1,
+      "p": 2,
       "c": "Android",
       "t": [
         "android",
@@ -15640,7 +15640,7 @@
     },
     {
       "n": "Battery Android Full",
-      "p": 1,
+      "p": 2,
       "c": "Android",
       "t": [
         "android",
@@ -15709,7 +15709,7 @@
     },
     {
       "n": "Battery Android Question",
-      "p": 0,
+      "p": 2,
       "c": "Android",
       "t": [
         "?",
@@ -17935,7 +17935,7 @@
     },
     {
       "n": "Blur Circular",
-      "p": 435,
+      "p": 438,
       "c": "Images",
       "t": [
         "blur",
@@ -18100,7 +18100,7 @@
     },
     {
       "n": "Blur On",
-      "p": 1361,
+      "p": 1363,
       "c": "Images",
       "t": [
         "blur",
@@ -18348,7 +18348,7 @@
     },
     {
       "n": "Bolt",
-      "p": 15431,
+      "p": 15434,
       "c": "UI actions",
       "t": [
         "alert",
@@ -18593,7 +18593,7 @@
     },
     {
       "n": "Book 5",
-      "p": 49,
+      "p": 51,
       "c": "Text",
       "t": [
         "5",
@@ -18772,7 +18772,7 @@
     },
     {
       "n": "Bookmark",
-      "p": 13373,
+      "p": 13374,
       "c": "Actions",
       "t": [
         "add",
@@ -20386,7 +20386,7 @@
     },
     {
       "n": "Brand Awareness",
-      "p": 498,
+      "p": 499,
       "c": "Audio & Video",
       "t": [
         "advertising",
@@ -21581,7 +21581,7 @@
     },
     {
       "n": "Bubble Chart",
-      "p": 1317,
+      "p": 1318,
       "c": "Business",
       "t": [
         "analysis",
@@ -21668,7 +21668,7 @@
     },
     {
       "n": "Bug Report",
-      "p": 6264,
+      "p": 6271,
       "c": "Actions",
       "t": [
         "alert",
@@ -21705,7 +21705,7 @@
     },
     {
       "n": "Build",
-      "p": 8126,
+      "p": 8131,
       "c": "Actions",
       "t": [
         "adjust",
@@ -21946,7 +21946,7 @@
     },
     {
       "n": "Business Center",
-      "p": 5160,
+      "p": 5161,
       "c": "Maps",
       "t": [
         "bag",
@@ -22188,7 +22188,7 @@
     },
     {
       "n": "Cable Car",
-      "p": 1,
+      "p": 2,
       "c": "Transit",
       "t": [
         "aerial tramway",
@@ -22742,7 +22742,7 @@
     },
     {
       "n": "Call",
-      "p": 47924,
+      "p": 47926,
       "c": "Communicate",
       "t": [
         "alternative phone",
@@ -23090,7 +23090,7 @@
     },
     {
       "n": "Call Split",
-      "p": 912,
+      "p": 913,
       "c": "Communicate",
       "t": [
         "arrow",
@@ -23186,7 +23186,7 @@
     },
     {
       "n": "Camera",
-      "p": 2666,
+      "p": 2668,
       "c": "Images",
       "t": [
         "aperture",
@@ -23271,7 +23271,7 @@
     },
     {
       "n": "Camera Indoor",
-      "p": 398,
+      "p": 399,
       "c": "Household",
       "t": [
         "architecture",
@@ -23537,7 +23537,7 @@
     },
     {
       "n": "Campaign",
-      "p": 10241,
+      "p": 10246,
       "c": "Activities",
       "t": [
         "advertise",
@@ -23613,7 +23613,7 @@
     },
     {
       "n": "Cancel",
-      "p": 40789,
+      "p": 40790,
       "c": "UI actions",
       "t": [
         "cancel",
@@ -24906,7 +24906,7 @@
     },
     {
       "n": "Cardiology",
-      "p": 81,
+      "p": 83,
       "c": "Social",
       "t": [
         "cardiac",
@@ -25570,7 +25570,7 @@
     },
     {
       "n": "Castle",
-      "p": 698,
+      "p": 699,
       "c": "Maps",
       "t": [
         "ancient",
@@ -25696,7 +25696,7 @@
     },
     {
       "n": "Celebration",
-      "p": 5497,
+      "p": 5500,
       "c": "Actions",
       "t": [
         "achievement",
@@ -25848,7 +25848,7 @@
     },
     {
       "n": "Center Focus Strong",
-      "p": 1371,
+      "p": 1373,
       "c": "Images",
       "t": [
         "accuracy",
@@ -26246,7 +26246,7 @@
     },
     {
       "n": "Chat",
-      "p": 18251,
+      "p": 18254,
       "c": "Communicate",
       "t": [
         "blog",
@@ -26351,7 +26351,7 @@
     },
     {
       "n": "Chat Bubble",
-      "p": 10011,
+      "p": 10012,
       "c": "Communicate",
       "t": [
         "blog",
@@ -26579,7 +26579,7 @@
     },
     {
       "n": "Check",
-      "p": 30315,
+      "p": 30323,
       "c": "UI actions",
       "t": [
         "DISABLE_IOS",
@@ -26620,7 +26620,7 @@
     },
     {
       "n": "Check Box",
-      "p": 25363,
+      "p": 25372,
       "c": "UI actions",
       "t": [
         "accept",
@@ -26663,7 +26663,7 @@
     },
     {
       "n": "Check Box Outline Blank",
-      "p": 21804,
+      "p": 21805,
       "c": "UI actions",
       "t": [
         "blank",
@@ -26707,7 +26707,7 @@
     },
     {
       "n": "Check Circle",
-      "p": 83416,
+      "p": 83421,
       "c": "UI actions",
       "t": [
         "accept",
@@ -27400,7 +27400,7 @@
     },
     {
       "n": "Chevron Right",
-      "p": 51830,
+      "p": 51832,
       "c": "UI actions",
       "t": [
         "advance",
@@ -27849,7 +27849,7 @@
     },
     {
       "n": "Circle",
-      "p": 8268,
+      "p": 8270,
       "c": "Images",
       "t": [
         "abstract",
@@ -28331,7 +28331,7 @@
     },
     {
       "n": "Clinical Notes",
-      "p": 97,
+      "p": 99,
       "c": "Social",
       "t": [
         "access",
@@ -28693,7 +28693,7 @@
     },
     {
       "n": "Close",
-      "p": 134401,
+      "p": 134411,
       "c": "UI actions",
       "t": [
         "alert close",
@@ -29458,7 +29458,7 @@
     },
     {
       "n": "Code",
-      "p": 8578,
+      "p": 8579,
       "c": "Actions",
       "t": [
         "angle brackets",
@@ -29540,7 +29540,7 @@
     },
     {
       "n": "Code Off",
-      "p": 636,
+      "p": 638,
       "c": "Actions",
       "t": [
         "block",
@@ -29961,7 +29961,7 @@
     },
     {
       "n": "Combine Columns",
-      "p": 3,
+      "p": 4,
       "c": "Text",
       "t": [
         "+",
@@ -30057,7 +30057,7 @@
     },
     {
       "n": "Comic Bubble",
-      "p": 44,
+      "p": 45,
       "c": "Social",
       "t": [
         "alert",
@@ -30285,7 +30285,7 @@
     },
     {
       "n": "Communication",
-      "p": 2124,
+      "p": 2125,
       "c": "Social",
       "t": [
         "audio",
@@ -30449,7 +30449,7 @@
     },
     {
       "n": "Compare Arrows",
-      "p": 3549,
+      "p": 3551,
       "c": "UI actions",
       "t": [
         "alongside",
@@ -30534,7 +30534,7 @@
     },
     {
       "n": "Component Exchange",
-      "p": 1575,
+      "p": 1577,
       "c": "Actions",
       "t": [
         "circular",
@@ -30875,7 +30875,7 @@
     },
     {
       "n": "Confirmation Number",
-      "p": 4705,
+      "p": 4707,
       "c": "Activities",
       "t": [
         "access",
@@ -31085,7 +31085,7 @@
     },
     {
       "n": "Construction",
-      "p": 9460,
+      "p": 9463,
       "c": "Activities",
       "t": [
         "build",
@@ -31527,7 +31527,7 @@
     },
     {
       "n": "Content Copy",
-      "p": 20094,
+      "p": 20096,
       "c": "Text",
       "t": [
         "clipboard",
@@ -31567,7 +31567,7 @@
     },
     {
       "n": "Content Cut",
-      "p": 1796,
+      "p": 1797,
       "c": "Text",
       "t": [
         "action",
@@ -31853,7 +31853,7 @@
     },
     {
       "n": "Contract",
-      "p": 255,
+      "p": 256,
       "c": "Text",
       "t": [
         "agreement",
@@ -32287,7 +32287,7 @@
     },
     {
       "n": "Conversion Path",
-      "p": 2719,
+      "p": 2721,
       "c": "Business",
       "t": [
         "ads",
@@ -32667,7 +32667,7 @@
     },
     {
       "n": "Copyright",
-      "p": 2500,
+      "p": 2501,
       "c": "Business",
       "t": [
         "all rights reserved",
@@ -32874,7 +32874,7 @@
     },
     {
       "n": "Counter 1",
-      "p": 586,
+      "p": 587,
       "c": "Text",
       "t": [
         "1",
@@ -32911,7 +32911,7 @@
     },
     {
       "n": "Counter 2",
-      "p": 246,
+      "p": 247,
       "c": "Text",
       "t": [
         "2",
@@ -32951,7 +32951,7 @@
     },
     {
       "n": "Counter 3",
-      "p": 196,
+      "p": 197,
       "c": "Text",
       "t": [
         "3",
@@ -32990,7 +32990,7 @@
     },
     {
       "n": "Counter 4",
-      "p": 111,
+      "p": 112,
       "c": "Text",
       "t": [
         "4",
@@ -33297,7 +33297,7 @@
     },
     {
       "n": "Credit Card",
-      "p": 14509,
+      "p": 14510,
       "c": "Business",
       "t": [
         "account",
@@ -33643,7 +33643,7 @@
     },
     {
       "n": "Crisis Alert",
-      "p": 2217,
+      "p": 2218,
       "c": "Maps",
       "t": [
         "!",
@@ -33685,7 +33685,7 @@
     },
     {
       "n": "Crop",
-      "p": 1386,
+      "p": 1387,
       "c": "Images",
       "t": [
         "adjust",
@@ -34190,7 +34190,7 @@
     },
     {
       "n": "Crossword",
-      "p": 70,
+      "p": 71,
       "c": "Social",
       "t": [
         "blocks",
@@ -34404,7 +34404,7 @@
     },
     {
       "n": "Csv",
-      "p": 131,
+      "p": 132,
       "c": "Text",
       "t": [
         "acronym",
@@ -35150,7 +35150,7 @@
     },
     {
       "n": "Dark Mode",
-      "p": 11823,
+      "p": 11824,
       "c": "Android",
       "t": [
         "accessibility",
@@ -35278,7 +35278,7 @@
     },
     {
       "n": "Dashboard Customize",
-      "p": 2512,
+      "p": 2514,
       "c": "Text",
       "t": [
         "add",
@@ -35714,7 +35714,7 @@
     },
     {
       "n": "Data Thresholding",
-      "p": 1540,
+      "p": 1541,
       "c": "UI actions",
       "t": [
         "analysis",
@@ -35797,7 +35797,7 @@
     },
     {
       "n": "Database",
-      "p": 13067,
+      "p": 13076,
       "c": "Business",
       "t": [
         "analytics",
@@ -36265,7 +36265,7 @@
     },
     {
       "n": "Deck",
-      "p": 838,
+      "p": 839,
       "c": "Household",
       "t": [
         "awning",
@@ -36347,7 +36347,7 @@
     },
     {
       "n": "Delete",
-      "p": 70677,
+      "p": 70679,
       "c": "UI actions",
       "t": [
         "bin",
@@ -36803,7 +36803,7 @@
     },
     {
       "n": "Departure Board",
-      "p": 712,
+      "p": 713,
       "c": "Transit",
       "t": [
         "airport",
@@ -36846,7 +36846,7 @@
     },
     {
       "n": "Deployed Code",
-      "p": 480,
+      "p": 483,
       "c": "UI actions",
       "t": [
         "3d",
@@ -36887,7 +36887,7 @@
     },
     {
       "n": "Deployed Code Account",
-      "p": 53,
+      "p": 54,
       "c": "UI actions",
       "t": [
         "3d",
@@ -37121,7 +37121,7 @@
     },
     {
       "n": "Description",
-      "p": 34195,
+      "p": 34196,
       "c": "Text",
       "t": [
         "article",
@@ -37653,7 +37653,7 @@
     },
     {
       "n": "Desktop Windows",
-      "p": 5187,
+      "p": 5188,
       "c": "Hardware",
       "t": [
         "Android",
@@ -38093,7 +38093,7 @@
     },
     {
       "n": "Developer Board",
-      "p": 1676,
+      "p": 1677,
       "c": "Hardware",
       "t": [
         "board",
@@ -38129,7 +38129,7 @@
     },
     {
       "n": "Developer Board Off",
-      "p": 176,
+      "p": 177,
       "c": "Hardware",
       "t": [
         "arduino",
@@ -38171,7 +38171,7 @@
     },
     {
       "n": "Developer Guide",
-      "p": 265,
+      "p": 267,
       "c": "Actions",
       "t": [
         "agreement",
@@ -39095,7 +39095,7 @@
     },
     {
       "n": "Diamond",
-      "p": 4446,
+      "p": 4448,
       "c": "Social",
       "t": [
         "achievement",
@@ -39135,7 +39135,7 @@
     },
     {
       "n": "Diamond Shine",
-      "p": 12,
+      "p": 13,
       "c": "Social",
       "t": [
         "abstract",
@@ -39420,7 +39420,7 @@
     },
     {
       "n": "Digital Wellbeing",
-      "p": 213,
+      "p": 214,
       "c": "Social",
       "t": [
         "account",
@@ -39773,7 +39773,7 @@
     },
     {
       "n": "Directions Car",
-      "p": 10389,
+      "p": 10390,
       "c": "Transit",
       "t": [
         "arrival",
@@ -40014,7 +40014,7 @@
     },
     {
       "n": "Directions Walk",
-      "p": 4062,
+      "p": 4064,
       "c": "Transit",
       "t": [
         "body",
@@ -40520,7 +40520,7 @@
     },
     {
       "n": "Diversity 1",
-      "p": 3753,
+      "p": 3755,
       "c": "Social",
       "t": [
         "abstract people",
@@ -40613,7 +40613,7 @@
     },
     {
       "n": "Diversity 3",
-      "p": 7822,
+      "p": 7823,
       "c": "Social",
       "t": [
         "abstract people",
@@ -40653,7 +40653,7 @@
     },
     {
       "n": "Diversity 4",
-      "p": 246,
+      "p": 247,
       "c": "Social",
       "t": [
         "acceptance",
@@ -41089,7 +41089,7 @@
     },
     {
       "n": "Dock To Right",
-      "p": 51,
+      "p": 52,
       "c": "Android",
       "t": [
         "app layout",
@@ -41608,7 +41608,7 @@
     },
     {
       "n": "Domino Mask",
-      "p": 81,
+      "p": 82,
       "c": "Social",
       "t": [
         "anonymous",
@@ -41731,7 +41731,7 @@
     },
     {
       "n": "Donut Large",
-      "p": 1669,
+      "p": 1670,
       "c": "Business",
       "t": [
         "analytics",
@@ -42129,7 +42129,7 @@
     },
     {
       "n": "Double Arrow",
-      "p": 7876,
+      "p": 7877,
       "c": "UI actions",
       "t": [
         "advance",
@@ -42165,7 +42165,7 @@
     },
     {
       "n": "Downhill Skiing",
-      "p": 724,
+      "p": 725,
       "c": "Activities",
       "t": [
         "activity",
@@ -42206,7 +42206,7 @@
     },
     {
       "n": "Download",
-      "p": 18876,
+      "p": 18879,
       "c": "UI actions",
       "t": [
         "acquire",
@@ -42714,7 +42714,7 @@
     },
     {
       "n": "Draw",
-      "p": 5862,
+      "p": 5863,
       "c": "Text",
       "t": [
         "annotate",
@@ -43306,7 +43306,7 @@
     },
     {
       "n": "Dynamic Feed",
-      "p": 1932,
+      "p": 1933,
       "c": "Actions",
       "t": [
         "'mail_outline'",
@@ -43986,7 +43986,7 @@
     },
     {
       "n": "Ecg Heart",
-      "p": 228,
+      "p": 231,
       "c": "Activities",
       "t": [
         "beat",
@@ -44612,7 +44612,7 @@
     },
     {
       "n": "Edit Note",
-      "p": 14776,
+      "p": 14777,
       "c": "Text",
       "t": [
         "alter",
@@ -45690,7 +45690,7 @@
     },
     {
       "n": "Emergency Share",
-      "p": 329,
+      "p": 331,
       "c": "Household",
       "t": [
         "alert",
@@ -45909,7 +45909,7 @@
     },
     {
       "n": "Emoji Objects",
-      "p": 7382,
+      "p": 7383,
       "c": "Social",
       "t": [
         "bright",
@@ -45945,7 +45945,7 @@
     },
     {
       "n": "Emoji People",
-      "p": 3941,
+      "p": 3942,
       "c": "Social",
       "t": [
         "account",
@@ -46618,7 +46618,7 @@
     },
     {
       "n": "Engineering",
-      "p": 8352,
+      "p": 8353,
       "c": "Activities",
       "t": [
         "body",
@@ -46777,7 +46777,7 @@
     },
     {
       "n": "Enterprise",
-      "p": 184,
+      "p": 185,
       "c": "Business",
       "t": [
         "administration",
@@ -47678,7 +47678,7 @@
     },
     {
       "n": "Event Available",
-      "p": 6785,
+      "p": 6786,
       "c": "Actions",
       "t": [
         "accept",
@@ -47719,7 +47719,7 @@
     },
     {
       "n": "Event Busy",
-      "p": 2168,
+      "p": 2169,
       "c": "Actions",
       "t": [
         "appointment",
@@ -47918,7 +47918,7 @@
     },
     {
       "n": "Event Upcoming",
-      "p": 2733,
+      "p": 2734,
       "c": "Actions",
       "t": [
         "add to calendar",
@@ -48285,7 +48285,7 @@
     },
     {
       "n": "Expand Content",
-      "p": 690,
+      "p": 691,
       "c": "UI actions",
       "t": [
         "arrow",
@@ -48914,7 +48914,7 @@
     },
     {
       "n": "Extension",
-      "p": 4375,
+      "p": 4376,
       "c": "Actions",
       "t": [
         "add",
@@ -48954,7 +48954,7 @@
     },
     {
       "n": "Extension Off",
-      "p": 678,
+      "p": 679,
       "c": "UI actions",
       "t": [
         "addon",
@@ -49081,7 +49081,7 @@
     },
     {
       "n": "Eyeglasses 2",
-      "p": 21,
+      "p": 22,
       "c": "Social",
       "t": [
         "accessibility",
@@ -49272,7 +49272,7 @@
     },
     {
       "n": "Face 4",
-      "p": 1122,
+      "p": 1123,
       "c": "Social",
       "t": [
         "account",
@@ -49317,7 +49317,7 @@
     },
     {
       "n": "Face 5",
-      "p": 774,
+      "p": 775,
       "c": "Social",
       "t": [
         "abstract",
@@ -49752,7 +49752,7 @@
     },
     {
       "n": "Factory",
-      "p": 3988,
+      "p": 3989,
       "c": "Maps",
       "t": [
         "assembly",
@@ -50339,7 +50339,7 @@
     },
     {
       "n": "Favorite",
-      "p": 76730,
+      "p": 76734,
       "c": "UI actions",
       "t": [
         "add to favorites",
@@ -50565,7 +50565,7 @@
     },
     {
       "n": "Feedback",
-      "p": 1205,
+      "p": 1206,
       "c": "Actions",
       "t": [
         "!",
@@ -52238,7 +52238,7 @@
     },
     {
       "n": "Filter Alt Off",
-      "p": 2324,
+      "p": 2325,
       "c": "UI actions",
       "t": [
         "alt",
@@ -52371,7 +52371,7 @@
     },
     {
       "n": "Filter Center Focus",
-      "p": 907,
+      "p": 908,
       "c": "Images",
       "t": [
         "aim",
@@ -52891,7 +52891,7 @@
     },
     {
       "n": "Finance Mode",
-      "p": 310,
+      "p": 311,
       "c": "Business",
       "t": [
         "accounting",
@@ -53603,7 +53603,7 @@
     },
     {
       "n": "Flag",
-      "p": 9307,
+      "p": 9308,
       "c": "Maps",
       "t": [
         "achievement",
@@ -54249,7 +54249,7 @@
     },
     {
       "n": "Flight",
-      "p": 5910,
+      "p": 5912,
       "c": "Transit",
       "t": [
         "aeroplane",
@@ -54337,7 +54337,7 @@
     },
     {
       "n": "Flight Land",
-      "p": 1192,
+      "p": 1193,
       "c": "Transit",
       "t": [
         "air",
@@ -54383,7 +54383,7 @@
     },
     {
       "n": "Flight Takeoff",
-      "p": 3852,
+      "p": 3855,
       "c": "Transit",
       "t": [
         "above",
@@ -54650,7 +54650,7 @@
     },
     {
       "n": "Flip To Front",
-      "p": 399,
+      "p": 400,
       "c": "Text",
       "t": [
         "animation",
@@ -55234,7 +55234,7 @@
     },
     {
       "n": "Flyover",
-      "p": 42,
+      "p": 43,
       "c": "Transit",
       "t": [
         "autobahn",
@@ -55397,7 +55397,7 @@
     },
     {
       "n": "Folder",
-      "p": 10501,
+      "p": 10502,
       "c": "Text",
       "t": [
         "archive",
@@ -56009,7 +56009,7 @@
     },
     {
       "n": "Folder Open",
-      "p": 8974,
+      "p": 8975,
       "c": "Text",
       "t": [
         "access",
@@ -56221,7 +56221,7 @@
     },
     {
       "n": "Follow The Signs",
-      "p": 1051,
+      "p": 1052,
       "c": "Social",
       "t": [
         "arrow",
@@ -57067,7 +57067,7 @@
     },
     {
       "n": "Format Color Text",
-      "p": 1105,
+      "p": 1107,
       "c": "Text",
       "t": [
         "a",
@@ -58019,7 +58019,7 @@
     },
     {
       "n": "Format List Numbered Rtl",
-      "p": 671,
+      "p": 672,
       "c": "Text",
       "t": [
         "123",
@@ -58839,7 +58839,7 @@
     },
     {
       "n": "Fort",
-      "p": 309,
+      "p": 310,
       "c": "Maps",
       "t": [
         "ancient",
@@ -59828,7 +59828,7 @@
     },
     {
       "n": "Fullscreen",
-      "p": 6908,
+      "p": 6909,
       "c": "UI actions",
       "t": [
         "adjust",
@@ -60605,7 +60605,7 @@
     },
     {
       "n": "Gavel",
-      "p": 4790,
+      "p": 4792,
       "c": "Social",
       "t": [
         "agreement",
@@ -61720,7 +61720,7 @@
     },
     {
       "n": "Gradient",
-      "p": 464,
+      "p": 465,
       "c": "Images",
       "t": [
         "adjust",
@@ -61807,7 +61807,7 @@
     },
     {
       "n": "Grain",
-      "p": 802,
+      "p": 803,
       "c": "Images",
       "t": [
         "agriculture",
@@ -62016,7 +62016,7 @@
     },
     {
       "n": "Graph 5",
-      "p": 39,
+      "p": 40,
       "c": "Business",
       "t": [
         "analysis",
@@ -62590,7 +62590,7 @@
     },
     {
       "n": "Group",
-      "p": 37159,
+      "p": 37162,
       "c": "Social",
       "t": [
         "account",
@@ -62904,7 +62904,7 @@
     },
     {
       "n": "Groups",
-      "p": 22101,
+      "p": 22107,
       "c": "Social",
       "t": [
         "assembly",
@@ -63296,7 +63296,7 @@
     },
     {
       "n": "Hail",
-      "p": 1048,
+      "p": 1049,
       "c": "Transit",
       "t": [
         "bag",
@@ -63542,7 +63542,7 @@
     },
     {
       "n": "Handshake",
-      "p": 14349,
+      "p": 14351,
       "c": "Social",
       "t": [
         "agreement",
@@ -63578,7 +63578,7 @@
     },
     {
       "n": "Handyman",
-      "p": 4139,
+      "p": 4140,
       "c": "Maps",
       "t": [
         "build",
@@ -63817,7 +63817,7 @@
     },
     {
       "n": "Hardware",
-      "p": 548,
+      "p": 549,
       "c": "Household",
       "t": [
         "adjust",
@@ -64741,7 +64741,7 @@
     },
     {
       "n": "Health Cross",
-      "p": 1,
+      "p": 2,
       "c": "Social",
       "t": [
         "+",
@@ -64779,7 +64779,7 @@
     },
     {
       "n": "Health Metrics",
-      "p": 205,
+      "p": 206,
       "c": "Activities",
       "t": [
         "activity",
@@ -65223,7 +65223,7 @@
     },
     {
       "n": "Heart Broken",
-      "p": 1585,
+      "p": 1586,
       "c": "Social",
       "t": [
         "bad",
@@ -65588,7 +65588,7 @@
     },
     {
       "n": "Help",
-      "p": 32262,
+      "p": 32273,
       "c": "Actions",
       "t": [
         "?",
@@ -65630,7 +65630,7 @@
     },
     {
       "n": "Help Center",
-      "p": 3445,
+      "p": 3447,
       "c": "Actions",
       "t": [
         "?",
@@ -65878,7 +65878,7 @@
     },
     {
       "n": "Hide Image",
-      "p": 629,
+      "p": 630,
       "c": "Images",
       "t": [
         "block image",
@@ -66603,7 +66603,7 @@
     },
     {
       "n": "History Edu",
-      "p": 4694,
+      "p": 4695,
       "c": "Text",
       "t": [
         "academic",
@@ -66917,7 +66917,7 @@
     },
     {
       "n": "Home",
-      "p": 166448,
+      "p": 166454,
       "c": "UI actions",
       "t": [
         "address",
@@ -67350,7 +67350,7 @@
     },
     {
       "n": "Home Repair Service",
-      "p": 2447,
+      "p": 2448,
       "c": "Maps",
       "t": [
         "box",
@@ -67435,7 +67435,7 @@
     },
     {
       "n": "Home Storage",
-      "p": 368,
+      "p": 369,
       "c": "Home",
       "t": [
         "archive",
@@ -67770,7 +67770,7 @@
     },
     {
       "n": "Hotel Class",
-      "p": 2461,
+      "p": 2462,
       "c": "Actions",
       "t": [
         "accommodation",
@@ -67936,7 +67936,7 @@
     },
     {
       "n": "Hourglass Bottom",
-      "p": 2634,
+      "p": 2637,
       "c": "Communicate",
       "t": [
         "anticipation",
@@ -68020,7 +68020,7 @@
     },
     {
       "n": "Hourglass Empty",
-      "p": 4082,
+      "p": 4083,
       "c": "Actions",
       "t": [
         "anticipation",
@@ -68104,7 +68104,7 @@
     },
     {
       "n": "Hourglass Top",
-      "p": 2922,
+      "p": 2923,
       "c": "Communicate",
       "t": [
         "clock",
@@ -68141,7 +68141,7 @@
     },
     {
       "n": "House",
-      "p": 8883,
+      "p": 8884,
       "c": "Household",
       "t": [
         "architecture",
@@ -68385,7 +68385,7 @@
     },
     {
       "n": "How To Reg",
-      "p": 5083,
+      "p": 5084,
       "c": "Actions",
       "t": [
         "accept",
@@ -68591,7 +68591,7 @@
     },
     {
       "n": "Hub",
-      "p": 6621,
+      "p": 6624,
       "c": "Communicate",
       "t": [
         "branch",
@@ -69201,7 +69201,7 @@
     },
     {
       "n": "Iframe",
-      "p": 50,
+      "p": 52,
       "c": "UI actions",
       "t": [
         "code",
@@ -69281,7 +69281,7 @@
     },
     {
       "n": "Image",
-      "p": 17045,
+      "p": 17047,
       "c": "Images",
       "t": [
         "add",
@@ -69598,7 +69598,7 @@
     },
     {
       "n": "Important Devices",
-      "p": 958,
+      "p": 959,
       "c": "Hardware",
       "t": [
         "Android",
@@ -70098,7 +70098,7 @@
     },
     {
       "n": "Info",
-      "p": 56656,
+      "p": 56665,
       "c": "Actions",
       "t": [
         "about",
@@ -70663,7 +70663,7 @@
     },
     {
       "n": "Insert Chart",
-      "p": 3589,
+      "p": 3590,
       "c": "Business",
       "t": [
         "analysis",
@@ -70887,7 +70887,7 @@
     },
     {
       "n": "Integration Instructions",
-      "p": 2517,
+      "p": 2518,
       "c": "Text",
       "t": [
         "angle brackets",
@@ -70974,7 +70974,7 @@
     },
     {
       "n": "Interests",
-      "p": 3139,
+      "p": 3140,
       "c": "Actions",
       "t": [
         "activities",
@@ -71153,7 +71153,7 @@
     },
     {
       "n": "Invert Colors",
-      "p": 996,
+      "p": 997,
       "c": "Images",
       "t": [
         "adjust",
@@ -71953,7 +71953,7 @@
     },
     {
       "n": "Key",
-      "p": 11975,
+      "p": 11976,
       "c": "UI actions",
       "t": [
         "access",
@@ -72129,7 +72129,7 @@
     },
     {
       "n": "Keyboard",
-      "p": 3304,
+      "p": 3306,
       "c": "Hardware",
       "t": [
         "accessibility",
@@ -72204,7 +72204,7 @@
     },
     {
       "n": "Keyboard Arrow Down",
-      "p": 9486,
+      "p": 9489,
       "c": "Hardware",
       "t": [
         "arrow",
@@ -72241,7 +72241,7 @@
     },
     {
       "n": "Keyboard Arrow Left",
-      "p": 2126,
+      "p": 2128,
       "c": "Hardware",
       "t": [
         "angle",
@@ -72620,7 +72620,7 @@
     },
     {
       "n": "Keyboard Double Arrow Right",
-      "p": 6446,
+      "p": 6447,
       "c": "UI actions",
       "t": [
         "advance",
@@ -72659,7 +72659,7 @@
     },
     {
       "n": "Keyboard Double Arrow Up",
-      "p": 2663,
+      "p": 2664,
       "c": "UI actions",
       "t": [
         "arrow",
@@ -73647,7 +73647,7 @@
     },
     {
       "n": "Labs",
-      "p": 249,
+      "p": 250,
       "c": "Social",
       "t": [
         "analysis",
@@ -73720,7 +73720,7 @@
     },
     {
       "n": "Landscape",
-      "p": 2403,
+      "p": 2404,
       "c": "Images",
       "t": [
         "abstract",
@@ -74707,7 +74707,7 @@
     },
     {
       "n": "Laptop Chromebook",
-      "p": 2276,
+      "p": 2277,
       "c": "Hardware",
       "t": [
         "Android",
@@ -74749,7 +74749,7 @@
     },
     {
       "n": "Laptop Mac",
-      "p": 3079,
+      "p": 3080,
       "c": "Hardware",
       "t": [
         "Android",
@@ -74970,7 +74970,7 @@
     },
     {
       "n": "Layers",
-      "p": 3367,
+      "p": 3368,
       "c": "Maps",
       "t": [
         "arrange",
@@ -75104,7 +75104,7 @@
     },
     {
       "n": "Leaderboard",
-      "p": 3909,
+      "p": 3910,
       "c": "Business",
       "t": [
         "achievement",
@@ -75576,7 +75576,7 @@
     },
     {
       "n": "Library Books",
-      "p": 6601,
+      "p": 6603,
       "c": "Audio & Video",
       "t": [
         "add",
@@ -75651,7 +75651,7 @@
     },
     {
       "n": "License",
-      "p": 247,
+      "p": 248,
       "c": "Actions",
       "t": [
         "access",
@@ -75806,7 +75806,7 @@
     },
     {
       "n": "Light Mode",
-      "p": 11746,
+      "p": 11747,
       "c": "Android",
       "t": [
         "appearance",
@@ -75883,7 +75883,7 @@
     },
     {
       "n": "Lightbulb",
-      "p": 10806,
+      "p": 10808,
       "c": "Actions",
       "t": [
         "alert",
@@ -76820,7 +76820,7 @@
     },
     {
       "n": "Link Off",
-      "p": 2284,
+      "p": 2285,
       "c": "Communicate",
       "t": [
         "attach",
@@ -77022,7 +77022,7 @@
     },
     {
       "n": "List Alt",
-      "p": 9648,
+      "p": 9650,
       "c": "Text",
       "t": [
         "alt",
@@ -77246,7 +77246,7 @@
     },
     {
       "n": "Live Tv",
-      "p": 3156,
+      "p": 3157,
       "c": "Hardware",
       "t": [
         "Android",
@@ -77327,7 +77327,7 @@
     },
     {
       "n": "Local Activity",
-      "p": 3341,
+      "p": 3343,
       "c": "Maps",
       "t": [
         "access",
@@ -77364,7 +77364,7 @@
     },
     {
       "n": "Local Atm",
-      "p": 1841,
+      "p": 1843,
       "c": "Maps",
       "t": [
         "address",
@@ -77449,7 +77449,7 @@
     },
     {
       "n": "Local Cafe",
-      "p": 3501,
+      "p": 3502,
       "c": "Travel",
       "t": [
         "amenity",
@@ -77650,7 +77650,7 @@
     },
     {
       "n": "Local Fire Department",
-      "p": 6020,
+      "p": 6021,
       "c": "Maps",
       "t": [
         "911",
@@ -77836,7 +77836,7 @@
     },
     {
       "n": "Local Library",
-      "p": 3841,
+      "p": 3843,
       "c": "Maps",
       "t": [
         "academic",
@@ -78126,7 +78126,7 @@
     },
     {
       "n": "Local See",
-      "p": 354,
+      "p": 355,
       "c": "Maps",
       "t": [
         "camera",
@@ -78164,7 +78164,7 @@
     },
     {
       "n": "Local Shipping",
-      "p": 20238,
+      "p": 20239,
       "c": "Transit",
       "t": [
         "automobile",
@@ -78517,7 +78517,7 @@
     },
     {
       "n": "Location On",
-      "p": 18294,
+      "p": 18298,
       "c": "Maps",
       "t": [
         "address",
@@ -78598,7 +78598,7 @@
     },
     {
       "n": "Lock",
-      "p": 30361,
+      "p": 30363,
       "c": "Actions",
       "t": [
         "access",
@@ -78787,7 +78787,7 @@
     },
     {
       "n": "Lock Person",
-      "p": 1198,
+      "p": 1199,
       "c": "Actions",
       "t": [
         "access",
@@ -78865,7 +78865,7 @@
     },
     {
       "n": "Login",
-      "p": 20921,
+      "p": 20922,
       "c": "UI actions",
       "t": [
         "access",
@@ -79418,7 +79418,7 @@
     },
     {
       "n": "Loyalty",
-      "p": 2919,
+      "p": 2920,
       "c": "Business",
       "t": [
         "badge",
@@ -79744,7 +79744,7 @@
     },
     {
       "n": "Macro Auto",
-      "p": 19,
+      "p": 20,
       "c": "Images",
       "t": [
         "alphabet",
@@ -79971,7 +79971,7 @@
     },
     {
       "n": "Mail",
-      "p": 65891,
+      "p": 65895,
       "c": "Communicate",
       "t": [
         "communication",
@@ -80275,7 +80275,7 @@
     },
     {
       "n": "Manage Accounts",
-      "p": 16086,
+      "p": 16087,
       "c": "Actions",
       "t": [
         "account",
@@ -80485,7 +80485,7 @@
     },
     {
       "n": "Map",
-      "p": 13113,
+      "p": 13115,
       "c": "Maps",
       "t": [
         "adventure",
@@ -80772,7 +80772,7 @@
     },
     {
       "n": "Mark Email Read",
-      "p": 2509,
+      "p": 2510,
       "c": "Communicate",
       "t": [
         "accept",
@@ -80820,7 +80820,7 @@
     },
     {
       "n": "Mark Email Unread",
-      "p": 2951,
+      "p": 2955,
       "c": "Communicate",
       "t": [
         "alert",
@@ -81044,7 +81044,7 @@
     },
     {
       "n": "Markunread Mailbox",
-      "p": 808,
+      "p": 809,
       "c": "Communicate",
       "t": [
         "alert",
@@ -81476,7 +81476,7 @@
     },
     {
       "n": "Measuring Tape",
-      "p": 11,
+      "p": 12,
       "c": "Actions",
       "t": [
         "accuracy",
@@ -81740,7 +81740,7 @@
     },
     {
       "n": "Mediation",
-      "p": 782,
+      "p": 783,
       "c": "Business",
       "t": [
         "aggregation",
@@ -81780,7 +81780,7 @@
     },
     {
       "n": "Medical Information",
-      "p": 2486,
+      "p": 2487,
       "c": "Social",
       "t": [
         "access",
@@ -81855,7 +81855,7 @@
     },
     {
       "n": "Medical Services",
-      "p": 3381,
+      "p": 3383,
       "c": "Maps",
       "t": [
         "aid",
@@ -82169,7 +82169,7 @@
     },
     {
       "n": "Menu Book",
-      "p": 14642,
+      "p": 14644,
       "c": "Text",
       "t": [
         "book",
@@ -82457,7 +82457,7 @@
     },
     {
       "n": "Mic",
-      "p": 12941,
+      "p": 12947,
       "c": "Audio & Video",
       "t": [
         "audio",
@@ -84092,7 +84092,7 @@
     },
     {
       "n": "Mobile Chat",
-      "p": 1,
+      "p": 4,
       "c": "Hardware",
       "t": [
         "alert",
@@ -85042,7 +85042,7 @@
     },
     {
       "n": "Mobile Screen Share",
-      "p": 354,
+      "p": 355,
       "c": "Hardware",
       "t": [
         "Android",
@@ -85253,7 +85253,7 @@
     },
     {
       "n": "Mobile Share",
-      "p": 0,
+      "p": 1,
       "c": "Hardware",
       "t": [
         "Android",
@@ -85728,6 +85728,49 @@
         "vibration",
         "waves",
         "wireless"
+      ]
+    },
+    {
+      "n": "Mobile Wrench",
+      "p": 0,
+      "c": "Android",
+      "t": [
+        "adjust",
+        "build",
+        "call",
+        "cell",
+        "cellphone",
+        "chat",
+        "configuration",
+        "customize",
+        "device",
+        "device maintenance",
+        "device repair",
+        "device settings",
+        "fix",
+        "hardware",
+        "maintenance",
+        "mobile",
+        "mobile configuration",
+        "mobile repair",
+        "mobile settings",
+        "options",
+        "phone",
+        "phone configuration",
+        "phone repair",
+        "phone settings",
+        "rectangle",
+        "repair",
+        "service",
+        "settings",
+        "setup",
+        "smartphone",
+        "spanner",
+        "tablet",
+        "tool",
+        "tools",
+        "troubleshoot",
+        "wrench"
       ]
     },
     {
@@ -86281,7 +86324,7 @@
     },
     {
       "n": "Model Training",
-      "p": 2313,
+      "p": 2315,
       "c": "Actions",
       "t": [
         "ai",
@@ -86419,7 +86462,7 @@
     },
     {
       "n": "Money Bag",
-      "p": 65,
+      "p": 66,
       "c": "Business",
       "t": [
         "advance",
@@ -86557,7 +86600,7 @@
     },
     {
       "n": "Monitor Heart",
-      "p": 4174,
+      "p": 4176,
       "c": "Social",
       "t": [
         "activity",
@@ -86725,7 +86768,7 @@
     },
     {
       "n": "Monitoring",
-      "p": 18467,
+      "p": 18472,
       "c": "Business",
       "t": [
         "analysis",
@@ -86892,7 +86935,7 @@
     },
     {
       "n": "Mood Bad",
-      "p": 2063,
+      "p": 2064,
       "c": "Social",
       "t": [
         "avatar",
@@ -86985,7 +87028,7 @@
     },
     {
       "n": "Mop",
-      "p": 1619,
+      "p": 1620,
       "c": "Household",
       "t": [
         "bristles",
@@ -87150,7 +87193,7 @@
     },
     {
       "n": "More Horiz",
-      "p": 18943,
+      "p": 18945,
       "c": "UI actions",
       "t": [
         "3",
@@ -87202,7 +87245,7 @@
     },
     {
       "n": "More Time",
-      "p": 2086,
+      "p": 2087,
       "c": "Actions",
       "t": [
         "+",
@@ -87276,7 +87319,7 @@
     },
     {
       "n": "More Vert",
-      "p": 30769,
+      "p": 30770,
       "c": "UI actions",
       "t": [
         "3",
@@ -87448,7 +87491,7 @@
     },
     {
       "n": "Motion Photos Auto",
-      "p": 442,
+      "p": 443,
       "c": "Images",
       "t": [
         "A",
@@ -87789,7 +87832,7 @@
     },
     {
       "n": "Motion Sensor Urgent",
-      "p": 118,
+      "p": 119,
       "c": "Home",
       "t": [
         "!",
@@ -88563,7 +88606,7 @@
     },
     {
       "n": "Movie",
-      "p": 6161,
+      "p": 6162,
       "c": "Audio & Video",
       "t": [
         "cinema",
@@ -89415,7 +89458,7 @@
     },
     {
       "n": "My Location",
-      "p": 8100,
+      "p": 8101,
       "c": "Maps",
       "t": [
         "bullseye",
@@ -89456,7 +89499,7 @@
     },
     {
       "n": "Mystery",
-      "p": 174,
+      "p": 175,
       "c": "Social",
       "t": [
         "analysis",
@@ -89649,7 +89692,7 @@
     },
     {
       "n": "Near Me",
-      "p": 5831,
+      "p": 5832,
       "c": "Maps",
       "t": [
         "arrow",
@@ -90456,7 +90499,7 @@
     },
     {
       "n": "Nest Display",
-      "p": 431,
+      "p": 432,
       "c": "Home",
       "t": [
         "connected home",
@@ -90570,7 +90613,7 @@
     },
     {
       "n": "Nest Eco Leaf",
-      "p": 1098,
+      "p": 1099,
       "c": "Home",
       "t": [
         "automation",
@@ -92430,7 +92473,7 @@
     },
     {
       "n": "Neurology",
-      "p": 262,
+      "p": 263,
       "c": "Social",
       "t": [
         "anatomy",
@@ -92595,7 +92638,7 @@
     },
     {
       "n": "Newsmode",
-      "p": 273,
+      "p": 276,
       "c": "Text",
       "t": [
         "article",
@@ -92634,7 +92677,7 @@
     },
     {
       "n": "Newspaper",
-      "p": 5069,
+      "p": 5070,
       "c": "Text",
       "t": [
         "article",
@@ -94891,7 +94934,7 @@
     },
     {
       "n": "Notifications Active",
-      "p": 8939,
+      "p": 8944,
       "c": "Communicate",
       "t": [
         "active",
@@ -95430,7 +95473,7 @@
     },
     {
       "n": "On Device Training",
-      "p": 688,
+      "p": 689,
       "c": "Actions",
       "t": [
         "arrow",
@@ -95776,7 +95819,7 @@
     },
     {
       "n": "Open In New",
-      "p": 24833,
+      "p": 24839,
       "c": "UI actions",
       "t": [
         "app",
@@ -96770,7 +96813,7 @@
     },
     {
       "n": "Output",
-      "p": 1952,
+      "p": 1953,
       "c": "UI actions",
       "t": [
         "apply",
@@ -97258,7 +97301,7 @@
     },
     {
       "n": "Package 2",
-      "p": 215,
+      "p": 219,
       "c": "Maps",
       "t": [
         "3d",
@@ -97639,7 +97682,7 @@
     },
     {
       "n": "Paid",
-      "p": 10993,
+      "p": 10994,
       "c": "Business",
       "t": [
         "bill",
@@ -97682,7 +97725,7 @@
     },
     {
       "n": "Palette",
-      "p": 7446,
+      "p": 7447,
       "c": "Images",
       "t": [
         "art",
@@ -97916,7 +97959,7 @@
     },
     {
       "n": "Panorama Horizontal",
-      "p": 268,
+      "p": 269,
       "c": "Images",
       "t": [
         "360",
@@ -98504,7 +98547,7 @@
     },
     {
       "n": "Patient List",
-      "p": 75,
+      "p": 77,
       "c": "UI actions",
       "t": [
         "account",
@@ -98588,7 +98631,7 @@
     },
     {
       "n": "Pause",
-      "p": 8683,
+      "p": 8685,
       "c": "Audio & Video",
       "t": [
         "audio control",
@@ -98626,7 +98669,7 @@
     },
     {
       "n": "Pause Circle",
-      "p": 4392,
+      "p": 4393,
       "c": "Audio & Video",
       "t": [
         "audio",
@@ -98770,7 +98813,7 @@
     },
     {
       "n": "Payments",
-      "p": 20716,
+      "p": 20719,
       "c": "Business",
       "t": [
         "account",
@@ -99086,7 +99129,7 @@
     },
     {
       "n": "Pending",
-      "p": 5892,
+      "p": 5893,
       "c": "Actions",
       "t": [
         "circle",
@@ -99198,7 +99241,7 @@
     },
     {
       "n": "Percent",
-      "p": 3188,
+      "p": 3189,
       "c": "Text",
       "t": [
         "%",
@@ -99577,7 +99620,7 @@
     },
     {
       "n": "Person",
-      "p": 88960,
+      "p": 88973,
       "c": "Social",
       "t": [
         "account",
@@ -99987,7 +100030,7 @@
     },
     {
       "n": "Person Celebrate",
-      "p": 155,
+      "p": 156,
       "c": "Activities",
       "t": [
         "abstract person",
@@ -100030,7 +100073,7 @@
     },
     {
       "n": "Person Check",
-      "p": 154,
+      "p": 155,
       "c": "Social",
       "t": [
         "accept",
@@ -100383,7 +100426,7 @@
     },
     {
       "n": "Person Search",
-      "p": 5448,
+      "p": 5449,
       "c": "Communicate",
       "t": [
         "account",
@@ -100426,7 +100469,7 @@
     },
     {
       "n": "Person Shield",
-      "p": 30,
+      "p": 31,
       "c": "Privacy",
       "t": [
         "access",
@@ -100791,7 +100834,7 @@
     },
     {
       "n": "Pets",
-      "p": 6833,
+      "p": 6834,
       "c": "Social",
       "t": [
         "adoption",
@@ -100826,7 +100869,7 @@
     },
     {
       "n": "Phishing",
-      "p": 787,
+      "p": 788,
       "c": "Activities",
       "t": [
         "account takeover",
@@ -101680,7 +101723,7 @@
     },
     {
       "n": "Photo Camera",
-      "p": 18344,
+      "p": 18349,
       "c": "Images",
       "t": [
         "cam",
@@ -102148,7 +102191,7 @@
     },
     {
       "n": "Picture As Pdf",
-      "p": 8913,
+      "p": 8915,
       "c": "Images",
       "t": [
         "acrobat",
@@ -102588,7 +102631,7 @@
     },
     {
       "n": "Pie Chart",
-      "p": 2880,
+      "p": 2881,
       "c": "Business",
       "t": [
         "analysis",
@@ -103244,7 +103287,7 @@
     },
     {
       "n": "Plagiarism",
-      "p": 1553,
+      "p": 1554,
       "c": "Text",
       "t": [
         "academic",
@@ -103283,6 +103326,54 @@
         "search",
         "see",
         "verify"
+      ]
+    },
+    {
+      "n": "Plane Contrails",
+      "p": 0,
+      "c": "Transit",
+      "t": [
+        "air",
+        "air travel",
+        "aircraft",
+        "airline",
+        "airliner",
+        "airplane",
+        "airplanes",
+        "airport",
+        "arrival",
+        "aviation",
+        "contrail",
+        "departure",
+        "flight",
+        "flights",
+        "fly",
+        "flying",
+        "geometric",
+        "icon",
+        "jet",
+        "journey",
+        "lines",
+        "location",
+        "map",
+        "mode",
+        "mode of transport",
+        "navigation",
+        "on",
+        "plane",
+        "planes",
+        "signal",
+        "soaring",
+        "symbol",
+        "three lines",
+        "tourism",
+        "tracking",
+        "trail",
+        "transportation",
+        "travel",
+        "trip",
+        "vacation",
+        "vapor trail"
       ]
     },
     {
@@ -103399,7 +103490,7 @@
     },
     {
       "n": "Play Arrow",
-      "p": 26522,
+      "p": 26523,
       "c": "Audio & Video",
       "t": [
         "advance",
@@ -103449,7 +103540,7 @@
     },
     {
       "n": "Play Circle",
-      "p": 23810,
+      "p": 23814,
       "c": "Audio & Video",
       "t": [
         "arrow",
@@ -104241,7 +104332,7 @@
     },
     {
       "n": "Policy",
-      "p": 4405,
+      "p": 4407,
       "c": "Privacy",
       "t": [
         "analysis",
@@ -104285,7 +104376,7 @@
     },
     {
       "n": "Policy Alert",
-      "p": 70,
+      "p": 71,
       "c": "Privacy",
       "t": [
         "!",
@@ -104660,7 +104751,7 @@
     },
     {
       "n": "Post",
-      "p": 15,
+      "p": 16,
       "c": "Text",
       "t": [
         "add",
@@ -104935,7 +105026,7 @@
     },
     {
       "n": "Power Settings New",
-      "p": 6366,
+      "p": 6368,
       "c": "Actions",
       "t": [
         "activate",
@@ -105054,7 +105145,7 @@
     },
     {
       "n": "Pregnancy",
-      "p": 15,
+      "p": 16,
       "c": "Social",
       "t": [
         "abdomen",
@@ -105139,7 +105230,7 @@
     },
     {
       "n": "Preliminary",
-      "p": 101,
+      "p": 102,
       "c": "UI actions",
       "t": [
         "accept",
@@ -105223,7 +105314,7 @@
     },
     {
       "n": "Present To All",
-      "p": 975,
+      "p": 977,
       "c": "Communicate",
       "t": [
         "all",
@@ -105266,7 +105357,7 @@
     },
     {
       "n": "Preview",
-      "p": 5717,
+      "p": 5718,
       "c": "Actions",
       "t": [
         "check",
@@ -105767,7 +105858,7 @@
     },
     {
       "n": "Priority High",
-      "p": 8512,
+      "p": 8513,
       "c": "Actions",
       "t": [
         "!",
@@ -105944,7 +106035,7 @@
     },
     {
       "n": "Problem",
-      "p": 244,
+      "p": 245,
       "c": "Actions",
       "t": [
         "!",
@@ -106075,7 +106166,7 @@
     },
     {
       "n": "Production Quantity Limits",
-      "p": 1661,
+      "p": 1662,
       "c": "Business",
       "t": [
         "!",
@@ -106208,7 +106299,7 @@
     },
     {
       "n": "Prompt Suggestion",
-      "p": 233,
+      "p": 234,
       "c": "UI actions",
       "t": [
         "action",
@@ -106333,7 +106424,7 @@
     },
     {
       "n": "Psychiatry",
-      "p": 331,
+      "p": 332,
       "c": "Social",
       "t": [
         "brain health",
@@ -106371,7 +106462,7 @@
     },
     {
       "n": "Psychology",
-      "p": 8078,
+      "p": 8079,
       "c": "Social",
       "t": [
         "ability",
@@ -106418,7 +106509,7 @@
     },
     {
       "n": "Psychology Alt",
-      "p": 2923,
+      "p": 2925,
       "c": "Social",
       "t": [
         "?",
@@ -106474,7 +106565,7 @@
     },
     {
       "n": "Public",
-      "p": 18114,
+      "p": 18116,
       "c": "Social",
       "t": [
         "access",
@@ -106561,7 +106652,7 @@
     },
     {
       "n": "Publish",
-      "p": 3367,
+      "p": 3370,
       "c": "UI actions",
       "t": [
         "above",
@@ -106959,7 +107050,7 @@
     },
     {
       "n": "Query Stats",
-      "p": 9870,
+      "p": 9875,
       "c": "Business",
       "t": [
         "analysis",
@@ -107006,7 +107097,7 @@
     },
     {
       "n": "Question Exchange",
-      "p": 137,
+      "p": 138,
       "c": "UI actions",
       "t": [
         "answer",
@@ -107246,7 +107337,7 @@
     },
     {
       "n": "Quick Reference All",
-      "p": 366,
+      "p": 367,
       "c": "UI actions",
       "t": [
         "all",
@@ -107456,7 +107547,7 @@
     },
     {
       "n": "Radar",
-      "p": 1271,
+      "p": 1272,
       "c": "Android",
       "t": [
         "antenna",
@@ -107496,7 +107587,7 @@
     },
     {
       "n": "Radio",
-      "p": 1375,
+      "p": 1376,
       "c": "Audio & Video",
       "t": [
         "am",
@@ -107540,31 +107631,29 @@
       "p": 18456,
       "c": "UI actions",
       "t": [
-        "activated",
         "active",
         "app",
         "application",
         "bullet",
         "button",
         "checked",
-        "checked radio button",
+        "checked button",
         "choice",
-        "choose",
         "circle",
         "components",
         "concentric circles",
         "design",
-        "dot",
-        "filled circle",
         "form",
         "form element",
+        "indicator",
         "input",
+        "interactive",
         "interface",
         "off",
         "on",
         "option",
-        "pick",
         "point",
+        "preference",
         "radio",
         "radio button",
         "radiobutton",
@@ -107572,13 +107661,15 @@
         "screen",
         "select",
         "selected",
-        "selection control",
+        "selection",
         "settings",
         "site",
+        "target",
+        "three circles",
         "toggle",
         "ui",
         "ui control",
-        "user interface",
+        "user input",
         "ux",
         "web",
         "website"
@@ -107586,10 +107677,9 @@
     },
     {
       "n": "Radio Button Partial",
-      "p": 68,
+      "p": 69,
       "c": "UI actions",
       "t": [
-        "50%",
         "app",
         "application",
         "bullet",
@@ -107597,41 +107687,47 @@
         "checked",
         "choice",
         "circle",
+        "circular",
         "components",
         "control",
         "design",
+        "divided",
         "form",
         "form element",
         "half",
-        "halfway",
+        "in progress",
         "incomplete",
         "indeterminate",
-        "indicator",
-        "inner circle",
         "input",
         "interface",
+        "intermediate state",
         "loading",
         "off",
         "on",
+        "on/off",
         "option",
-        "outer circle",
         "partial",
+        "pending",
         "point",
-        "preferences",
         "progress",
         "radio",
         "radio button",
+        "radio button indeterminate",
+        "radio button partial",
         "record",
-        "ring",
+        "round",
         "screen",
         "select",
         "selected",
         "selection control",
+        "semicircle",
         "settings",
         "site",
+        "split",
+        "switch",
         "toggle",
-        "two circles",
         "ui",
+        "uncertain",
         "user input",
         "ux",
         "web",
@@ -107640,37 +107736,39 @@
     },
     {
       "n": "Radio Button Unchecked",
-      "p": 19123,
+      "p": 19124,
       "c": "UI actions",
       "t": [
         "bullet",
         "button",
         "choice",
         "circle",
+        "control",
+        "customization",
+        "deactivate",
         "deselect",
         "deselected",
+        "disable",
         "empty",
         "false",
         "form",
-        "inactive",
+        "form element",
         "input",
-        "null",
         "off",
         "on",
-        "open circle",
         "option",
-        "outline",
         "point",
         "preferences",
         "radio",
         "radio button",
-        "radiobutton",
         "record",
         "ring",
+        "round",
         "select",
         "selection",
         "settings",
         "toggle",
+        "ui widget",
         "unchecked",
         "unselected",
         "zero"
@@ -108395,7 +108493,7 @@
     },
     {
       "n": "Real Estate Agent",
-      "p": 4131,
+      "p": 4132,
       "c": "Activities",
       "t": [
         "agent",
@@ -108437,7 +108535,7 @@
     },
     {
       "n": "Rear Camera",
-      "p": 84,
+      "p": 85,
       "c": "Hardware",
       "t": [
         "Android",
@@ -108525,7 +108623,7 @@
     },
     {
       "n": "Rebase Edit",
-      "p": 268,
+      "p": 273,
       "c": "UI actions",
       "t": [
         "adjust",
@@ -109001,7 +109099,7 @@
     },
     {
       "n": "Redeem",
-      "p": 6756,
+      "p": 6760,
       "c": "Business",
       "t": [
         "bill",
@@ -109426,7 +109524,7 @@
     },
     {
       "n": "Remove",
-      "p": 16699,
+      "p": 16700,
       "c": "UI actions",
       "t": [
         "backspace",
@@ -110355,7 +110453,7 @@
     },
     {
       "n": "Reply",
-      "p": 6290,
+      "p": 6291,
       "c": "UI actions",
       "t": [
         "answer",
@@ -111190,7 +111288,7 @@
     },
     {
       "n": "Restart Alt",
-      "p": 10549,
+      "p": 10550,
       "c": "UI actions",
       "t": [
         "alt",
@@ -111230,7 +111328,7 @@
     },
     {
       "n": "Restaurant",
-      "p": 9357,
+      "p": 9358,
       "c": "Maps",
       "t": [
         "breakfast",
@@ -111873,7 +111971,7 @@
     },
     {
       "n": "Robot 2",
-      "p": 322,
+      "p": 326,
       "c": "Hardware",
       "t": [
         "ai",
@@ -111952,7 +112050,7 @@
     },
     {
       "n": "Rocket Launch",
-      "p": 11387,
+      "p": 11389,
       "c": "Social",
       "t": [
         "adventure",
@@ -112231,7 +112329,7 @@
     },
     {
       "n": "Rotate 90 Degrees Ccw",
-      "p": 503,
+      "p": 504,
       "c": "Images",
       "t": [
         "90",
@@ -112272,7 +112370,7 @@
     },
     {
       "n": "Rotate 90 Degrees Cw",
-      "p": 432,
+      "p": 433,
       "c": "Images",
       "t": [
         "90",
@@ -112567,7 +112665,7 @@
     },
     {
       "n": "Route",
-      "p": 2463,
+      "p": 2464,
       "c": "Hardware",
       "t": [
         "adventure",
@@ -112605,7 +112703,7 @@
     },
     {
       "n": "Router",
-      "p": 1653,
+      "p": 1654,
       "c": "Hardware",
       "t": [
         "access point",
@@ -112901,7 +112999,7 @@
     },
     {
       "n": "Rubric",
-      "p": 97,
+      "p": 98,
       "c": "Text",
       "t": [
         "academic",
@@ -113774,7 +113872,7 @@
     },
     {
       "n": "Savings",
-      "p": 8963,
+      "p": 8964,
       "c": "Business",
       "t": [
         "account",
@@ -114072,7 +114170,7 @@
     },
     {
       "n": "Schedule",
-      "p": 36052,
+      "p": 36054,
       "c": "Actions",
       "t": [
         "access time",
@@ -114107,7 +114205,7 @@
     },
     {
       "n": "Schedule Send",
-      "p": 1498,
+      "p": 1499,
       "c": "Communicate",
       "t": [
         "calendar",
@@ -114194,7 +114292,7 @@
     },
     {
       "n": "School",
-      "p": 19797,
+      "p": 19799,
       "c": "Activities",
       "t": [
         "academic",
@@ -114414,7 +114512,7 @@
     },
     {
       "n": "Scoreboard",
-      "p": 717,
+      "p": 718,
       "c": "Activities",
       "t": [
         "0",
@@ -114860,7 +114958,7 @@
     },
     {
       "n": "Screenshot",
-      "p": 469,
+      "p": 470,
       "c": "Hardware",
       "t": [
         "Android",
@@ -115459,7 +115557,7 @@
     },
     {
       "n": "Search",
-      "p": 180505,
+      "p": 180515,
       "c": "UI actions",
       "t": [
         "all",
@@ -115590,7 +115688,7 @@
     },
     {
       "n": "Search Check 2",
-      "p": 53,
+      "p": 54,
       "c": "UI actions",
       "t": [
         "accept",
@@ -116005,7 +116103,7 @@
     },
     {
       "n": "Security",
-      "p": 5706,
+      "p": 5707,
       "c": "Privacy",
       "t": [
         "access",
@@ -116394,7 +116492,7 @@
     },
     {
       "n": "Select Window",
-      "p": 133,
+      "p": 134,
       "c": "Actions",
       "t": [
         "activate window",
@@ -116578,7 +116676,7 @@
     },
     {
       "n": "Self Improvement",
-      "p": 3529,
+      "p": 3530,
       "c": "Activities",
       "t": [
         "body",
@@ -116619,7 +116717,7 @@
     },
     {
       "n": "Sell",
-      "p": 11971,
+      "p": 11974,
       "c": "Business",
       "t": [
         "badge",
@@ -116665,7 +116763,7 @@
     },
     {
       "n": "Send",
-      "p": 21923,
+      "p": 21927,
       "c": "Communicate",
       "t": [
         "arrow",
@@ -116826,7 +116924,7 @@
     },
     {
       "n": "Send To Mobile",
-      "p": 1019,
+      "p": 1021,
       "c": "Hardware",
       "t": [
         "Android",
@@ -117762,7 +117860,7 @@
     },
     {
       "n": "Service Toolbox",
-      "p": 169,
+      "p": 170,
       "c": "Activities",
       "t": [
         "box",
@@ -117801,7 +117899,7 @@
     },
     {
       "n": "Set Meal",
-      "p": 648,
+      "p": 649,
       "c": "Maps",
       "t": [
         "chopsticks",
@@ -117839,7 +117937,7 @@
     },
     {
       "n": "Settings",
-      "p": 118579,
+      "p": 118590,
       "c": "UI actions",
       "t": [
         "adjust",
@@ -118009,7 +118107,7 @@
     },
     {
       "n": "Settings Applications",
-      "p": 3477,
+      "p": 3478,
       "c": "UI actions",
       "t": [
         "adjust",
@@ -119210,7 +119308,7 @@
     },
     {
       "n": "Shadow",
-      "p": 32,
+      "p": 33,
       "c": "Actions",
       "t": [
         "2d",
@@ -119419,7 +119517,7 @@
     },
     {
       "n": "Share",
-      "p": 22004,
+      "p": 22007,
       "c": "Social",
       "t": [
         "DISABLE_IOS",
@@ -120021,7 +120119,7 @@
     },
     {
       "n": "Shield Person",
-      "p": 269,
+      "p": 270,
       "c": "Privacy",
       "t": [
         "access",
@@ -120110,6 +120208,110 @@
         "verification",
         "verified",
         "vulnerability"
+      ]
+    },
+    {
+      "n": "Shield Toggle",
+      "p": 0,
+      "c": "Privacy",
+      "t": [
+        "2fa",
+        "access control",
+        "access control mode",
+        "account security",
+        "activate",
+        "activate deactivate",
+        "active",
+        "antivirus",
+        "antivirus mode",
+        "authentication",
+        "authorization",
+        "authorization mode",
+        "certified",
+        "components",
+        "configuration",
+        "control",
+        "control panel",
+        "data protection",
+        "data protection mode",
+        "deactivate",
+        "disable",
+        "enable",
+        "enable disable",
+        "firewall",
+        "firewall mode",
+        "inable",
+        "inactive",
+        "insecure",
+        "insecure mode",
+        "interface",
+        "network security",
+        "network security mode",
+        "off",
+        "on",
+        "on off",
+        "options",
+        "permissions",
+        "permissions mode",
+        "preferences",
+        "privacy",
+        "privacy mode",
+        "private",
+        "protect",
+        "protection",
+        "protection active",
+        "protection configuration",
+        "protection controls",
+        "protection inactive",
+        "protection management",
+        "protection off",
+        "protection on",
+        "protection options",
+        "protection switch",
+        "protection toggle",
+        "safe",
+        "safe mode",
+        "secure",
+        "secure mode",
+        "security",
+        "security active",
+        "security configuration",
+        "security controls",
+        "security inactive",
+        "security management",
+        "security off",
+        "security on",
+        "security options",
+        "security settings",
+        "security switch",
+        "security toggle",
+        "selection",
+        "settings",
+        "shield",
+        "shield configuration",
+        "shield control",
+        "shield icon",
+        "shield management",
+        "shield settings",
+        "shield toggle",
+        "site",
+        "slider",
+        "switch",
+        "toggle",
+        "toggle configuration",
+        "toggle control",
+        "toggle icon",
+        "toggle management",
+        "toggle settings",
+        "two factor authentication",
+        "ui",
+        "unsafe",
+        "unsafe mode",
+        "user security",
+        "ux",
+        "verified",
+        "web",
+        "website"
       ]
     },
     {
@@ -120444,7 +120646,7 @@
     },
     {
       "n": "Shopping Bag",
-      "p": 18389,
+      "p": 18390,
       "c": "Business",
       "t": [
         "add to bag",
@@ -120541,7 +120743,7 @@
     },
     {
       "n": "Shopping Basket",
-      "p": 5343,
+      "p": 5344,
       "c": "Business",
       "t": [
         "add",
@@ -120638,7 +120840,7 @@
     },
     {
       "n": "Shopping Cart Checkout",
-      "p": 9572,
+      "p": 9573,
       "c": "UI actions",
       "t": [
         "arrow",
@@ -120731,7 +120933,7 @@
     },
     {
       "n": "Shoppingmode",
-      "p": 391,
+      "p": 392,
       "c": "Business",
       "t": [
         "badge",
@@ -121325,7 +121527,7 @@
     },
     {
       "n": "Signal Cellular 1 Bar",
-      "p": 358,
+      "p": 359,
       "c": "Android",
       "t": [
         "1",
@@ -122278,7 +122480,7 @@
     },
     {
       "n": "Signpost",
-      "p": 1323,
+      "p": 1326,
       "c": "Maps",
       "t": [
         "arrow",
@@ -123444,7 +123646,7 @@
     },
     {
       "n": "Smart Display",
-      "p": 4914,
+      "p": 4915,
       "c": "Hardware",
       "t": [
         "airplay",
@@ -123575,7 +123777,7 @@
     },
     {
       "n": "Smart Toy",
-      "p": 4087,
+      "p": 4088,
       "c": "Hardware",
       "t": [
         "ai",
@@ -123613,7 +123815,7 @@
     },
     {
       "n": "Smartphone",
-      "p": 11511,
+      "p": 11517,
       "c": "Hardware",
       "t": [
         "Android",
@@ -123843,7 +124045,7 @@
     },
     {
       "n": "Sms",
-      "p": 7428,
+      "p": 7429,
       "c": "Communicate",
       "t": [
         "3",
@@ -124236,7 +124438,7 @@
     },
     {
       "n": "Social Leaderboard",
-      "p": 254,
+      "p": 256,
       "c": "Social",
       "t": [
         "achievement",
@@ -124313,7 +124515,7 @@
     },
     {
       "n": "Sort",
-      "p": 11025,
+      "p": 11027,
       "c": "UI actions",
       "t": [
         "alphabetical",
@@ -124389,7 +124591,7 @@
     },
     {
       "n": "Sos",
-      "p": 494,
+      "p": 495,
       "c": "Maps",
       "t": [
         "911",
@@ -127635,7 +127837,7 @@
     },
     {
       "n": "Sports Score",
-      "p": 1822,
+      "p": 1827,
       "c": "Activities",
       "t": [
         "achievement",
@@ -128025,7 +128227,7 @@
     },
     {
       "n": "Stack",
-      "p": 202,
+      "p": 205,
       "c": "UI actions",
       "t": [
         "archive",
@@ -128137,7 +128339,7 @@
     },
     {
       "n": "Stack Off",
-      "p": 30,
+      "p": 31,
       "c": "UI actions",
       "t": [
         "arrange",
@@ -128369,7 +128571,7 @@
     },
     {
       "n": "Stacks",
-      "p": 251,
+      "p": 252,
       "c": "UI actions",
       "t": [
         "abstract",
@@ -128574,7 +128776,7 @@
     },
     {
       "n": "Star",
-      "p": 52993,
+      "p": 52998,
       "c": "UI actions",
       "t": [
         "add to favorites",
@@ -128611,7 +128813,7 @@
     },
     {
       "n": "Star Half",
-      "p": 6463,
+      "p": 6464,
       "c": "UI actions",
       "t": [
         "2.5 stars",
@@ -128660,7 +128862,7 @@
     },
     {
       "n": "Star Rate",
-      "p": 1194,
+      "p": 1197,
       "c": "UI actions",
       "t": [
         "5 star",
@@ -128785,7 +128987,7 @@
     },
     {
       "n": "Stars",
-      "p": 5681,
+      "p": 5682,
       "c": "Actions",
       "t": [
         "achievement",
@@ -129924,7 +130126,7 @@
     },
     {
       "n": "Storage",
-      "p": 2882,
+      "p": 2884,
       "c": "Android",
       "t": [
         "archive",
@@ -129962,7 +130164,7 @@
     },
     {
       "n": "Store",
-      "p": 8784,
+      "p": 8785,
       "c": "Business",
       "t": [
         "awning",
@@ -130010,7 +130212,7 @@
     },
     {
       "n": "Storefront",
-      "p": 12238,
+      "p": 12239,
       "c": "Business",
       "t": [
         "awning",
@@ -131188,7 +131390,7 @@
     },
     {
       "n": "Subtitles",
-      "p": 1593,
+      "p": 1594,
       "c": "Audio & Video",
       "t": [
         "accessibility",
@@ -131624,7 +131826,7 @@
     },
     {
       "n": "Supervisor Account",
-      "p": 7252,
+      "p": 7254,
       "c": "Actions",
       "t": [
         "access",
@@ -132070,7 +132272,7 @@
     },
     {
       "n": "Swap Vert",
-      "p": 4747,
+      "p": 4748,
       "c": "UI actions",
       "t": [
         "arrange",
@@ -132150,7 +132352,7 @@
     },
     {
       "n": "Sweep",
-      "p": 85,
+      "p": 86,
       "c": "UI actions",
       "t": [
         "action",
@@ -132187,7 +132389,7 @@
     },
     {
       "n": "Swipe",
-      "p": 1650,
+      "p": 1651,
       "c": "Actions",
       "t": [
         "arc",
@@ -133117,7 +133319,7 @@
     },
     {
       "n": "Sword Rose",
-      "p": 33,
+      "p": 34,
       "c": "Social",
       "t": [
         "badge",
@@ -133155,7 +133357,7 @@
     },
     {
       "n": "Swords",
-      "p": 770,
+      "p": 773,
       "c": "Activities",
       "t": [
         "attack",
@@ -133270,7 +133472,7 @@
     },
     {
       "n": "Sync",
-      "p": 11460,
+      "p": 11462,
       "c": "UI actions",
       "t": [
         "360",
@@ -133314,7 +133516,7 @@
     },
     {
       "n": "Sync Alt",
-      "p": 7734,
+      "p": 7737,
       "c": "UI actions",
       "t": [
         "alt",
@@ -133600,7 +133802,7 @@
     },
     {
       "n": "Sync Problem",
-      "p": 2608,
+      "p": 2610,
       "c": "UI actions",
       "t": [
         "!",
@@ -134845,7 +135047,7 @@
     },
     {
       "n": "Tablet",
-      "p": 813,
+      "p": 814,
       "c": "Hardware",
       "t": [
         "Android",
@@ -135063,7 +135265,7 @@
     },
     {
       "n": "Tactic",
-      "p": 452,
+      "p": 453,
       "c": "Social",
       "t": [
         "adapt",
@@ -135262,7 +135464,7 @@
     },
     {
       "n": "Tap And Play",
-      "p": 396,
+      "p": 397,
       "c": "Hardware",
       "t": [
         "Android",
@@ -135351,7 +135553,7 @@
     },
     {
       "n": "Target",
-      "p": 1244,
+      "p": 1248,
       "c": "Actions",
       "t": [
         "accuracy",
@@ -135389,7 +135591,7 @@
     },
     {
       "n": "Task",
-      "p": 6888,
+      "p": 6889,
       "c": "Text",
       "t": [
         "accept",
@@ -135438,7 +135640,7 @@
     },
     {
       "n": "Task Alt",
-      "p": 14665,
+      "p": 14666,
       "c": "Actions",
       "t": [
         "accept",
@@ -135717,7 +135919,7 @@
     },
     {
       "n": "Tenancy",
-      "p": 1567,
+      "p": 1570,
       "c": "Business",
       "t": [
         "affiliation",
@@ -137586,7 +137788,7 @@
     },
     {
       "n": "Thumb Down",
-      "p": 5204,
+      "p": 5207,
       "c": "Social",
       "t": [
         "against",
@@ -137630,7 +137832,7 @@
     },
     {
       "n": "Thumb Up",
-      "p": 21912,
+      "p": 21914,
       "c": "Social",
       "t": [
         "accept",
@@ -138130,7 +138332,7 @@
     },
     {
       "n": "Timer",
-      "p": 11826,
+      "p": 11828,
       "c": "Images",
       "t": [
         "alarm",
@@ -138167,6 +138369,46 @@
         "wait",
         "watch",
         "workout"
+      ]
+    },
+    {
+      "n": "Timer 1",
+      "p": 0,
+      "c": "Images",
+      "t": [
+        "1",
+        "angle",
+        "app",
+        "application",
+        "beginning",
+        "clock",
+        "corner",
+        "count",
+        "countdown",
+        "digit",
+        "digits",
+        "duration",
+        "first",
+        "geometric",
+        "initial",
+        "l shape",
+        "letter l",
+        "number",
+        "numbers",
+        "numeral",
+        "one",
+        "right angle",
+        "schedule",
+        "seconds",
+        "shape",
+        "single",
+        "solo",
+        "start",
+        "stopwatch",
+        "symbol",
+        "time",
+        "timer",
+        "wait"
       ]
     },
     {
@@ -138303,6 +138545,46 @@
         "time limit",
         "timer",
         "type"
+      ]
+    },
+    {
+      "n": "Timer 2",
+      "p": 0,
+      "c": "Images",
+      "t": [
+        "2",
+        "competition",
+        "count",
+        "countdown",
+        "digit",
+        "digits",
+        "duration",
+        "game",
+        "hour",
+        "interval",
+        "level",
+        "list",
+        "minute",
+        "number",
+        "numbers",
+        "numeral",
+        "order",
+        "position",
+        "progress",
+        "queue",
+        "round",
+        "schedule",
+        "second",
+        "seconds",
+        "sequence",
+        "sports",
+        "stage",
+        "step",
+        "stopwatch",
+        "time",
+        "timer",
+        "two",
+        "wait"
       ]
     },
     {
@@ -138989,7 +139271,7 @@
     },
     {
       "n": "Toggle Off",
-      "p": 14482,
+      "p": 14483,
       "c": "UI actions",
       "t": [
         "active",
@@ -139035,7 +139317,7 @@
     },
     {
       "n": "Toggle On",
-      "p": 23725,
+      "p": 23727,
       "c": "UI actions",
       "t": [
         "activate",
@@ -139082,7 +139364,7 @@
     },
     {
       "n": "Token",
-      "p": 3066,
+      "p": 3067,
       "c": "UI actions",
       "t": [
         "3d",
@@ -139848,7 +140130,7 @@
     },
     {
       "n": "Touch App",
-      "p": 6385,
+      "p": 6387,
       "c": "Actions",
       "t": [
         "activate",
@@ -140691,7 +140973,7 @@
     },
     {
       "n": "Transcribe",
-      "p": 921,
+      "p": 922,
       "c": "UI actions",
       "t": [
         "audio",
@@ -141026,7 +141308,7 @@
     },
     {
       "n": "Transition Fade",
-      "p": 28,
+      "p": 29,
       "c": "Images",
       "t": [
         "animation",
@@ -141253,7 +141535,7 @@
     },
     {
       "n": "Travel",
-      "p": 334,
+      "p": 335,
       "c": "Travel",
       "t": [
         "air",
@@ -141293,7 +141575,7 @@
     },
     {
       "n": "Travel Explore",
-      "p": 6977,
+      "p": 6980,
       "c": "Social",
       "t": [
         "adventure",
@@ -141379,7 +141661,7 @@
     },
     {
       "n": "Trending Down",
-      "p": 2507,
+      "p": 2508,
       "c": "Business",
       "t": [
         "analytics",
@@ -141463,7 +141745,7 @@
     },
     {
       "n": "Trending Up",
-      "p": 12587,
+      "p": 12589,
       "c": "Business",
       "t": [
         "analytics",
@@ -141692,7 +141974,7 @@
     },
     {
       "n": "Troubleshoot",
-      "p": 494,
+      "p": 497,
       "c": "Business",
       "t": [
         "analytics",
@@ -141904,7 +142186,7 @@
     },
     {
       "n": "Turn Left",
-      "p": 479,
+      "p": 480,
       "c": "Transit",
       "t": [
         "90 degrees",
@@ -141982,7 +142264,7 @@
     },
     {
       "n": "Turn Sharp Left",
-      "p": 199,
+      "p": 200,
       "c": "Transit",
       "t": [
         "arrow",
@@ -142061,7 +142343,7 @@
     },
     {
       "n": "Turn Slight Left",
-      "p": 261,
+      "p": 262,
       "c": "Transit",
       "t": [
         "angle",
@@ -142222,7 +142504,7 @@
     },
     {
       "n": "Tv Gen",
-      "p": 748,
+      "p": 749,
       "c": "Household",
       "t": [
         "antenna",
@@ -142615,7 +142897,7 @@
     },
     {
       "n": "Two Pager",
-      "p": 50,
+      "p": 51,
       "c": "Text",
       "t": [
         "book",
@@ -143080,7 +143362,7 @@
     },
     {
       "n": "Unfold Less",
-      "p": 2343,
+      "p": 2344,
       "c": "UI actions",
       "t": [
         "accordion",
@@ -143167,7 +143449,7 @@
     },
     {
       "n": "Unfold More",
-      "p": 5857,
+      "p": 5858,
       "c": "UI actions",
       "t": [
         "accordion",
@@ -143935,7 +144217,7 @@
     },
     {
       "n": "Upgrade",
-      "p": 2334,
+      "p": 2336,
       "c": "Actions",
       "t": [
         "advance",
@@ -144024,7 +144306,7 @@
     },
     {
       "n": "Upload",
-      "p": 3688,
+      "p": 3689,
       "c": "UI actions",
       "t": [
         "arrow",
@@ -144776,7 +145058,7 @@
     },
     {
       "n": "Verified",
-      "p": 17233,
+      "p": 17236,
       "c": "Actions",
       "t": [
         "accept",
@@ -144876,7 +145158,7 @@
     },
     {
       "n": "Verified User",
-      "p": 11228,
+      "p": 11234,
       "c": "Privacy",
       "t": [
         "accept",
@@ -144919,7 +145201,7 @@
     },
     {
       "n": "Vertical Align Bottom",
-      "p": 1111,
+      "p": 1112,
       "c": "Text",
       "t": [
         "align",
@@ -145549,7 +145831,7 @@
     },
     {
       "n": "Video File",
-      "p": 682,
+      "p": 684,
       "c": "Text",
       "t": [
         "camcorder",
@@ -146808,7 +147090,7 @@
     },
     {
       "n": "View Quilt",
-      "p": 856,
+      "p": 857,
       "c": "Text",
       "t": [
         "arrangement",
@@ -146968,7 +147250,7 @@
     },
     {
       "n": "View Timeline",
-      "p": 2771,
+      "p": 2772,
       "c": "UI actions",
       "t": [
         "activity",
@@ -147174,7 +147456,7 @@
     },
     {
       "n": "Visibility",
-      "p": 47462,
+      "p": 47466,
       "c": "Actions",
       "t": [
         "display",
@@ -147377,7 +147659,7 @@
     },
     {
       "n": "Voice Chat",
-      "p": 810,
+      "p": 812,
       "c": "Communicate",
       "t": [
         "audio",
@@ -147474,7 +147756,7 @@
     },
     {
       "n": "Voice Selection",
-      "p": 313,
+      "p": 314,
       "c": "Audio & Video",
       "t": [
         "audio",
@@ -148406,7 +148688,7 @@
     },
     {
       "n": "Wallet",
-      "p": 3574,
+      "p": 3579,
       "c": "Business",
       "t": [
         "account",
@@ -148641,7 +148923,7 @@
     },
     {
       "n": "Warehouse",
-      "p": 2594,
+      "p": 2595,
       "c": "Maps",
       "t": [
         "building",
@@ -148679,7 +148961,7 @@
     },
     {
       "n": "Warning",
-      "p": 32698,
+      "p": 32701,
       "c": "Actions",
       "t": [
         "!",
@@ -150209,7 +150491,7 @@
     },
     {
       "n": "Wc",
-      "p": 2952,
+      "p": 2954,
       "c": "Social",
       "t": [
         "accessibility",
@@ -150406,7 +150688,7 @@
     },
     {
       "n": "Web Asset",
-      "p": 2398,
+      "p": 2400,
       "c": "Actions",
       "t": [
         "-website",
@@ -150496,7 +150778,7 @@
     },
     {
       "n": "Web Stories",
-      "p": 819,
+      "p": 822,
       "c": "Images",
       "t": [
         "archive",
@@ -150693,7 +150975,7 @@
     },
     {
       "n": "West",
-      "p": 2001,
+      "p": 2002,
       "c": "Maps",
       "t": [
         "arrow",
@@ -150731,7 +151013,7 @@
     },
     {
       "n": "Whatshot",
-      "p": 1497,
+      "p": 1498,
       "c": "Social",
       "t": [
         "activity",
@@ -150808,7 +151090,7 @@
     },
     {
       "n": "Where To Vote",
-      "p": 5381,
+      "p": 5382,
       "c": "Maps",
       "t": [
         "approve",
@@ -150948,7 +151230,7 @@
     },
     {
       "n": "Widget Width",
-      "p": 10,
+      "p": 11,
       "c": "UI actions",
       "t": [
         "adjust",
@@ -150994,7 +151276,7 @@
     },
     {
       "n": "Widgets",
-      "p": 4628,
+      "p": 4632,
       "c": "Android",
       "t": [
         "app",
@@ -151309,7 +151591,7 @@
     },
     {
       "n": "Wifi Calling",
-      "p": 279,
+      "p": 280,
       "c": "Communicate",
       "t": [
         "audio",
@@ -152454,7 +152736,7 @@
     },
     {
       "n": "Work Alert",
-      "p": 25,
+      "p": 26,
       "c": "Business",
       "t": [
         "!",
@@ -152603,7 +152885,7 @@
     },
     {
       "n": "Workspace Premium",
-      "p": 8740,
+      "p": 8741,
       "c": "Social",
       "t": [
         "achievement",
@@ -152798,7 +153080,7 @@
     },
     {
       "n": "Wrong Location",
-      "p": 808,
+      "p": 809,
       "c": "Maps",
       "t": [
         "bad location",
@@ -153295,7 +153577,7 @@
     },
     {
       "n": "Zoom Out Map",
-      "p": 2256,
+      "p": 2257,
       "c": "Maps",
       "t": [
         "aerial",

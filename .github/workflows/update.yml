@@ -16,7 +16,10 @@ jobs:
       - run: npm ci
       - name: Clone lucide-icons repo
         run: |
-          git clone https://github.com/lucide-icons/lucide.git
+          git clone --depth=0 https://github.com/lucide-icons/lucide.git
+      - name: List lucide/icons contents
+        run: |
+          ls -R lucide/icons
       - name: Use Node.js 23 for lucide
         uses: actions/setup-node@v4
         with:

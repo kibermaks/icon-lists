@@ -1,6 +1,6 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "title": "Google Fonts – /metadata/icons response",
+  "title": "Google Fonts",
   "type": "object",
   "required": ["host", "asset_url_pattern", "families", "icons"],
   "additionalProperties": false,

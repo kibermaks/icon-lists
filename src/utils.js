@@ -1,3 +1,6 @@
+// Dynamic Icon Lists. Copyright (C) 2025 Maksym Grigorash (@kibermaks).
+// Licensed under the GNU GPL, Version 3 or later. See LICENSE file in root.
+
 import { exec } from 'child_process';
 import { existsSync, mkdirSync, writeFileSync } from "fs";
 import { promisify } from 'util';

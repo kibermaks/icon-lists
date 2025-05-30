@@ -1,3 +1,6 @@
+// Dynamic Icon Lists. Copyright (C) 2025 Maksym Grigorash (@kibermaks).
+// Licensed under the GNU GPL, Version 3 or later. See LICENSE file in root.
+
 import Ajv2020 from "ajv/dist/2020.js";
 import { ALPHABETICAL_SUFFIX, DIST_DIR, FULL_SUFFIX, saveToFiles } from "./utils.js";
 

@@ -1,3 +1,6 @@
+// Dynamic Icon Lists. Copyright (C) 2025 Maksym Grigorash (@kibermaks).
+// Licensed under the GNU GPL, Version 3 or later. See LICENSE file in root.
+
 import { LucideProcessor } from "./lucide-processor.js";
 import { MaterialProcessor } from "./material-processor.js";
 import { ensureDistDir } from "./utils.js";

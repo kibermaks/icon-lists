@@ -4,6 +4,7 @@
 import { LucideProcessor } from "./lucide-processor.js";
 import { MaterialProcessor } from "./material-processor.js";
 import { PhosphorProcessor } from "./phosphor-processor.js";
+import { UltimateProcessor } from "./ultimate-processor.js";
 import { ensureDistDir } from "./utils.js";
 
 async function main() {
@@ -13,6 +14,7 @@ async function main() {
     const materialProcessor = new MaterialProcessor();
     const lucideIconsProcessor = new LucideProcessor();
     const phosphorProcessor = new PhosphorProcessor();
+    const ultimateProcessor = new UltimateProcessor();
 
     console.log("Starting icon processing...");
 
@@ -39,6 +41,13 @@ async function main() {
         const phosphorResult = results[1];
         if (phosphorResult.status === 'rejected' || (phosphorResult.status === 'fulfilled' && !phosphorResult.value.success)) {
             console.error("Error: Phosphor icon processing failed.", phosphorResult.status === 'rejected' ? phosphorResult.reason : phosphorResult.value.error);
+            overallSuccess = false;
+        }
+
+        // Ultimate Processor
+        const ultimateResult = await ultimateProcessor.execute();
+        if (!ultimateResult.success) {
+            console.error("Error: Ultimate icon processing failed.");
             overallSuccess = false;
         }
 

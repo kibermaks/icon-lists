@@ -16,6 +16,8 @@ This project automatically fetches and processes icon data from popular icon lib
   - Popular React/Vue icon library
 - **Phosphor Icons** (~1,512 icons)
   - Flexible icon family
+- **Ultimate Icons** (~8,900 icons)
+  - Combined icon libraries listed above
 
 ## Generated Output Files
 

@@ -37,3 +37,6 @@ yarn-error.log*
 next-env.d.ts
 
 certificates
+AGENT_CONTEXT_SUMMARY.md
+.gitignore
+PLUGIN_INTEGRATION_GUIDE.md

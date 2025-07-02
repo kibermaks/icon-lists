@@ -10,14 +10,16 @@ This project automatically fetches and processes icon data from popular icon lib
 
 - **Material Icons & Symbols** (~5,875 icons)
   - Material Icons (filled style)
-  - Material Symbols (outlined style)
+  - Material Symbols (outlined style)  
   - Combined dataset
 - **Lucide Icons** (~1,597 icons)
   - Popular React/Vue icon library
 - **Phosphor Icons** (~1,512 icons)
   - Flexible icon family
-- **Ultimate Icons** (~8,900 icons)
-  - Combined icon libraries listed above
+- **Ultimate Icons** (~8,907 icons) **NEW!**
+  - Combined dataset with unified naming: `icon-name:library-code`
+  - Cross-library standardization with set abbreviations
+  - Category mapping and deduplication
 
 ## Generated Output Files
 
@@ -86,10 +88,34 @@ The project generates multiple formats for each icon library in the `dist/` dire
 
 **Field Descriptions:**
 
-- `n` - Icon name
+- `n` - Icon name (for Ultimate Icons: `name:code` format)
+- `s` - Set abbreviation (Ultimate Icons only: `mi`, `ms`, `lc`, `ph`)
 - `p` - Popularity score (0-100)
 - `c` - Categories array
 - `t` - Tags array (searchable keywords)
+
+### Ultimate Icons Format (NEW)
+
+The Ultimate Icons dataset combines all libraries with unified naming:
+
+**Icon Name Format:** `{original-name}:{library-code}`
+
+**Examples:**
+- `search:mi` (Material Icons)
+- `home:lc` (Lucide Icons)
+- `arrow-right:ph` (Phosphor Icons)
+- `account-circle:ms` (Material Symbols)
+
+**Set Codes:**
+- `mi` = Material Icons
+- `ms` = Material Symbols
+- `lc` = Lucide Icons
+- `ph` = Phosphor Icons
+
+**Additional Features:**
+- Merged similar categories (e.g., "Device" + "Devices" → "Devices")
+- Cross-library category standardization
+- Set statistics and counts
 
 ## Local Development
 
@@ -140,6 +166,8 @@ Lucide: Total icons count: 1597
 Processing 1597 icons to lucide-icons...
 Phosphor: Total icons count from _fetchData: 1512
 Processing 1512 icons to phosphor-icons...
+Ultimate: Total icons count from all sets: 8907
+Processing 8907 icons to ultimate-icons...
 All icon sets processed successfully.
 ```
 
@@ -151,6 +179,7 @@ src/
 ├── material-processor.js  # Material Icons/Symbols processor
 ├── lucide-processor.js    # Lucide Icons processor  
 ├── phosphor-processor.js  # Phosphor Icons processor
+├── ultimate-processor.js  # Ultimate Icons combined processor (NEW)
 ├── set-processor.js       # Base processor class
 ├── utils.js              # File I/O and compression utilities
 ├── material-schema.json  # JSON schema for Material icons validation

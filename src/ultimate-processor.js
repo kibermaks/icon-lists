@@ -132,7 +132,79 @@ export class UltimateProcessor extends SetProcessor {
     _transformData(data) {
         console.log(`Ultimate: Total icons count from all sets: ${data.length}`);
         
-        const transformedIcons = data.map(icon => {
+        // Separate icons by set for deduplication
+        const materialIcons = data.filter(icon => icon.set === 'mi');
+        const materialSymbols = data.filter(icon => icon.set === 'ms');
+        const otherIcons = data.filter(icon => icon.set !== 'mi' && icon.set !== 'ms');
+        
+        // Create maps for fast lookup
+        const materialIconsMap = new Map();
+        const materialSymbolsMap = new Map();
+        
+        materialIcons.forEach(icon => materialIconsMap.set(icon.n, icon));
+        materialSymbols.forEach(icon => materialSymbolsMap.set(icon.n, icon));
+        
+        // Find duplicates and merge
+        const finalIcons = [];
+        const processedNames = new Set();
+        
+        // Process Material Symbols first (preferred version)
+        materialSymbols.forEach(msIcon => {
+            const miIcon = materialIconsMap.get(msIcon.n);
+            let finalIcon = msIcon;
+            
+            if (miIcon) {
+                // Merge categories and tags from both versions
+                const mergedCategories = this._mergeCategories([
+                    ...(msIcon.c || []),
+                    ...(miIcon.c || [])
+                ]);
+                
+                const mergedTags = [
+                    ...(Array.isArray(msIcon.t) ? msIcon.t : []),
+                    ...(Array.isArray(miIcon.t) ? miIcon.t : [])
+                ].filter((tag, index, arr) => arr.indexOf(tag) === index); // remove duplicates
+                
+                // Use higher popularity score
+                const popularity = Math.max(msIcon.p || 0, miIcon.p || 0);
+                
+                finalIcon = {
+                    ...msIcon,
+                    c: mergedCategories,
+                    t: mergedTags,
+                    p: popularity
+                };
+            }
+            
+            processedNames.add(msIcon.n);
+            finalIcons.push(finalIcon);
+        });
+        
+        // Add unique Material Icons (no Material Symbols counterpart)
+        materialIcons.forEach(miIcon => {
+            if (!processedNames.has(miIcon.n)) {
+                finalIcons.push(miIcon);
+            }
+        });
+        
+        // Add all other icons (Lucide, Phosphor)
+        finalIcons.push(...otherIcons);
+        
+        console.log(`Ultimate: After deduplication: ${finalIcons.length} icons (reduced from ${data.length})`);
+        
+        // Update set statistics with actual counts after deduplication
+        const actualCounts = finalIcons.reduce((acc, icon) => {
+            acc[icon.set] = (acc[icon.set] || 0) + 1;
+            return acc;
+        }, {});
+        
+        // Update setStats with actual counts
+        Object.keys(this.setStats).forEach(setCode => {
+            this.setStats[setCode].count = actualCounts[setCode] || 0;
+        });
+        
+        // Transform all icons to final format
+        const transformedIcons = finalIcons.map(icon => {
             // Create new name format: 'icon-name:[set-code]'
             const newName = `${icon.n}:${icon.set}`;
             
@@ -179,17 +251,28 @@ export class UltimateProcessor extends SetProcessor {
         });
 
         let countOfTags = 0;
-        const countByCategories = iconsObject.reduce((acc, i) => {
+        const countByCategories = {};
+        const countByCategoriesAndSets = {};
+
+        // Count categories and track by set
+        iconsObject.forEach((i) => {
             i.c.forEach((c) => {
-                acc[c] = (acc[c] || 0) + 1;
+                // Total count per category
+                countByCategories[c] = (countByCategories[c] || 0) + 1;
+                
+                // Count by set per category
+                if (!countByCategoriesAndSets[c]) {
+                    countByCategoriesAndSets[c] = {};
+                }
+                countByCategoriesAndSets[c][i.s] = (countByCategoriesAndSets[c][i.s] || 0) + 1;
             });
             countOfTags += i.t.length;
-            return acc;
-        }, {});
+        });
 
         const categories = Object.entries(countByCategories).map(([category, count]) => ({
             n: category,
             c: count,
+            cs: countByCategoriesAndSets[category], // Count by set
         })).sort((a, b) => a.n.localeCompare(b.n));
 
         // Create sets structure with icon counts

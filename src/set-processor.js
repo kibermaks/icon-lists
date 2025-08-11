@@ -58,8 +58,6 @@ export class SetProcessor {
                 ...(this.includePopularity ? { p: i.popularity } : {}),
                 c: i.categories,
                 t: i.tags,
-                // cn: Canonical Name - unified format in lowercase with spaces instead of hyphens or underscores
-                cn: i.canName,
             }
         });
 

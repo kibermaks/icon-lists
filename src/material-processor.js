@@ -5,9 +5,6 @@ import { readFileSync } from "fs";
 import fetch from "node-fetch";
 import { SetProcessor } from "./set-processor.js";
 
-const CAN_NAME_SYMBOLS_PREFIX = ":ms";
-const CAN_NAME_ICONS_PREFIX = ":mi";
-
 const SOURCE_MATERIAL = "https://fonts.google.com/metadata/icons?&key=material_symbols&incomplete=true";
 const SOURCE_MATERIAL_SCHEMA = "src/material-schema.json";
 
@@ -84,11 +81,9 @@ export class MaterialProcessor extends SetProcessor {
 
         const icons = data.icons.reduce((acc, i) => {
             if (i.unsupported_families.length === 3 || i.unsupported_families.length === 5) {
-                const friendlyName = i.name.replace(/_/g, ' ')
-                i.name = friendlyName.replace(/\b\w/g, l => l.toUpperCase());
+                i.name = i.name.replace(/_/g, ' ').replace(/\b\w/g, l => l.toUpperCase());
                 i.categories = i.categories.map((c) => this.combinedCategories[c] || c);
                 i.tags = Array.from(new Set([i.name, ...i.tags].map(tag => tag.toLowerCase()))).sort();
-                i.canName = `${friendlyName}${i.unsupported_families.length === 3 ? CAN_NAME_ICONS_PREFIX : CAN_NAME_SYMBOLS_PREFIX}`;
                 acc.push(i);
             }
             return acc;

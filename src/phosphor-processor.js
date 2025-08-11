@@ -4,7 +4,6 @@
 import { readFileSync } from "fs";
 import { SetProcessor } from "./set-processor.js";
 
-const CAN_NAME_PREFIX = ":ph";
 const PHOSPHOR_DATA_URL = "https://cdn.jsdelivr.net/gh/phosphor-icons/core@main/src/icons.ts";
 const MATERIAL_DATA_PATH = "dist/material-combined-full.min.json";
 const OUTPUT_NAME_PHOSPHOR_ICONS = "phosphor-icons";
@@ -155,7 +154,6 @@ export class PhosphorProcessor extends SetProcessor {
 
             acc.push({
                 name: i.name,
-                canName: `${friendlyName}${CAN_NAME_PREFIX}`,
                 categories: processedCategories,
                 tags: allTags,
                 popularity: popularity,

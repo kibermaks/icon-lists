@@ -80,8 +80,7 @@ The project generates multiple formats for each icon library in the `dist/` dire
       "n": "home",
       "p": 95,
       "c": ["Navigation"],
-      "t": ["home", "house", "building"],
-      "cn": "home:lc"
+      "t": ["home", "house", "building"]
     }
   ]
 }
@@ -94,7 +93,6 @@ The project generates multiple formats for each icon library in the `dist/` dire
 - `p` - Popularity score (0-100)
 - `c` - Categories array
 - `t` - Tags array (searchable keywords)
-- `cn` - Canonical Name: unified format in lowercase with spaces instead of hyphens or underscores and library code.
 
 ### Ultimate Icons Format (NEW)
 
@@ -103,21 +101,18 @@ The Ultimate Icons dataset combines all libraries with unified naming:
 **Icon Name Format:** `{original-name}:{library-code}`
 
 **Examples:**
-
 - `search:mi` (Material Icons)
 - `home:lc` (Lucide Icons)
 - `arrow-right:ph` (Phosphor Icons)
 - `account-circle:ms` (Material Symbols)
 
 **Set Codes:**
-
 - `mi` = Material Icons
 - `ms` = Material Symbols
 - `lc` = Lucide Icons
 - `ph` = Phosphor Icons
 
 **Additional Features:**
-
 - Merged similar categories (e.g., "Device" + "Devices" → "Devices")
 - Cross-library category standardization
 - Set statistics and counts

@@ -9,6 +9,7 @@ export const execAsync = promisify(exec);
 
 export const DIST_DIR = "dist";
 export const FULL_SUFFIX = "-full";
+export const BASIC_SUFFIX = "-basic";
 export const ALPHABETICAL_SUFFIX = "-a";
 export const FORMAT_JSON = ".json";
 export const FORMAT_JSON_MINIFIED = ".min.json";

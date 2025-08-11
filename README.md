@@ -33,6 +33,12 @@ The project generates multiple formats for each icon library in the `dist/` dire
 - Perfect for basic icon lists, autocomplete, or lightweight applications
 - Sorted by **popularity** (most used icons first) or **alphabetically** (with `-a` suffix)
 
+**Basic Files (with `-basic`)**:
+
+- Contain **minimal icon objects** with just the name field
+- Include count statistics but no categories, tags, or popularity data
+- Ideal for applications that need icon names in object format without extra metadata
+
 **Full Metadata Files (with `-full`)**:
 
 - Contain **rich JSON objects** with complete metadata
@@ -45,6 +51,8 @@ The project generates multiple formats for each icon library in the `dist/` dire
 - `{library-name}.min.json` - Minified JSON, sorted by popularity  
 - `{library-name}-a.json` - Pretty formatted JSON, sorted alphabetically
 - `{library-name}-a.min.json` - Minified JSON, sorted alphabetically
+- `{library-name}-basic.json` - Minimal icon objects with names only
+- `{library-name}-basic.min.json` - Minified basic format
 - `{library-name}-full.json` - Complete metadata including categories and tags
 - `{library-name}-full.min.json` - Minified complete metadata
 - `*.br` - Brotli compressed versions (≈80% smaller)
@@ -62,6 +70,22 @@ The project generates multiple formats for each icon library in the `dist/` dire
 
 ```json
 ["icon-name-1", "icon-name-2", "icon-name-3"]
+```
+
+**Basic Format:**
+
+```json
+{
+  "countOfIcons": 1597,
+  "countOfCategories": 0,
+  "countOfTags": 0,
+  "categories": [],
+  "icons": [
+    {"n": "icon-name-1"},
+    {"n": "icon-name-2"},
+    {"n": "icon-name-3"}
+  ]
+}
 ```
 
 **Full Format:**
@@ -101,18 +125,21 @@ The Ultimate Icons dataset combines all libraries with unified naming:
 **Icon Name Format:** `{original-name}:{library-code}`
 
 **Examples:**
+
 - `search:mi` (Material Icons)
 - `home:lc` (Lucide Icons)
 - `arrow-right:ph` (Phosphor Icons)
 - `account-circle:ms` (Material Symbols)
 
 **Set Codes:**
+
 - `mi` = Material Icons
 - `ms` = Material Symbols
 - `lc` = Lucide Icons
 - `ph` = Phosphor Icons
 
 **Additional Features:**
+
 - Merged similar categories (e.g., "Device" + "Devices" → "Devices")
 - Cross-library category standardization
 - Set statistics and counts

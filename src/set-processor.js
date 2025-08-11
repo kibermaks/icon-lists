@@ -2,7 +2,7 @@
 // Licensed under the GNU GPL, Version 3 or later. See LICENSE file in root.
 
 import Ajv2020 from "ajv/dist/2020.js";
-import { ALPHABETICAL_SUFFIX, DIST_DIR, FULL_SUFFIX, saveToFiles } from "./utils.js";
+import { ALPHABETICAL_SUFFIX, BASIC_SUFFIX, DIST_DIR, FULL_SUFFIX, saveToFiles } from "./utils.js";
 
 
 export class SetProcessor {
@@ -85,15 +85,29 @@ export class SetProcessor {
         const normalOutput = iconsObject.map((i) => (i.n));   
 
         let popularityOutput = [];
+        let basicIcons = [];
         if (this.includePopularity) {
             const iconsByPopularity = [...iconsObject].sort((a, b) => b.p - a.p || a.n.localeCompare(b.n));
             popularityOutput = iconsByPopularity.map((i) => (i.n));
+            basicIcons = iconsByPopularity.map((i) => ({n: i.n}));
         }
+        else {
+            popularityOutput = normalOutput;
+            basicIcons = iconsObject.map((i) => ({n: i.n}));
+        }
+        const basicOutput = {
+            countOfIcons: icons.length,
+            countOfCategories: 0,
+            countOfTags: 0,
+            categories: [],
+            icons: basicIcons,
+        };
 
         await Promise.all([
             saveToFiles(DIST_DIR, fileName + FULL_SUFFIX, fullOutput, fullOutput),
             ...(this.includePopularity ? [saveToFiles(DIST_DIR, fileName, popularityOutput, popularityOutput)] : []),
-            saveToFiles(DIST_DIR, fileName + ALPHABETICAL_SUFFIX, normalOutput, normalOutput)
+            saveToFiles(DIST_DIR, fileName + ALPHABETICAL_SUFFIX, normalOutput, normalOutput),
+            saveToFiles(DIST_DIR, fileName + BASIC_SUFFIX, basicOutput, basicOutput)
         ]);
     }
 }

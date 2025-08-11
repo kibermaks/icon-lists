@@ -213,6 +213,7 @@ export class UltimateProcessor extends SetProcessor {
             
             return {
                 name: newName,
+                canName: icon.cn,
                 originalName: icon.n,
                 set: icon.set,
                 setName: icon.setName,
@@ -247,6 +248,7 @@ export class UltimateProcessor extends SetProcessor {
                 ...(this.includePopularity ? { p: i.popularity } : {}),
                 c: i.categories,
                 t: i.tags,
+                cn: i.canName,
             }
         });
 

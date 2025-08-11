@@ -5,6 +5,7 @@ import { readFileSync } from "fs";
 import { readAllMetadata } from "./helpers/readAllMetadata.mjs";
 import { SetProcessor } from "./set-processor.js";
 
+const CAN_NAME_PREFIX = ":lc";
 const ICONS_DIR = "lucide/icons";
 const CATEGORIES_DIR = "lucide/categories";
 const MATERIAL_DATA_PATH = "dist/material-combined-full.min.json";
@@ -66,7 +67,7 @@ export class LucideProcessor extends SetProcessor {
             
             i.categories = Array.isArray(i.categories) ? i.categories.map((c) => this.categoriesMapping[c] || c) : [];
             i.tags = Array.from(new Set([friendlyName, ...lucideOriginalTags].map(t => String(t).toLowerCase()))).sort();
-
+            i.canName = `${friendlyName}${CAN_NAME_PREFIX}`;
             i.popularity = i.tags.reduce((maxPop, lTag) => {
                 const pop = this.materialPopularity[lTag] || 0;
                 if (pop > 0) {

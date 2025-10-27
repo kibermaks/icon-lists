@@ -1,7 +1,8 @@
-name: Daily metadata refresh
+name: Daily metadata refresh and CDN warmup
 on:
   schedule:
     - cron:  '5 0 * * *'   # 00:05 UTC every day
+    - cron:  '15 0 * * *'  # 00:15 UTC every day (CDN warmup, 10 min after build)
   workflow_dispatch:
 
 jobs:
@@ -33,3 +34,42 @@ jobs:
         if: steps.push_changes.outputs.changes_detected == 'true'
         run: |
           curl -sS "https://purge.jsdelivr.net/gh/${{ github.repository }}@gh-pages/dist"
+
+  cdn-warmup:
+    name: Warm up CDN cache
+    runs-on: ubuntu-latest
+    steps:
+      - name: Warm up CDN cache
+        run: |
+          # CDN base URL and data revision
+          CDN_BASE_URL="https://cdn.jsdelivr.net/gh/kibermaks/icon-lists@gh-pages/dist/"
+          DATA_REVISION="2025-08-12"
+          
+          # Calculate day for cache-busting (changes every 24 hours)
+          DAY=$(expr $(date +%s) / 86400)
+          
+          # Icon set files to warm up
+          FILES=(
+            "material-combined.min.json"
+            "material-combined-full.min.json"
+            "material-icons.min.json"
+            "material-icons-full.min.json"
+            "material-symbols.min.json"
+            "material-symbols-full.min.json"
+            "lucide-icons.min.json"
+            "lucide-icons-full.min.json"
+            "phosphor-icons.min.json"
+            "phosphor-icons-full.min.json"
+            "ultimate-icons.min.json"
+            "ultimate-icons-full.min.json"
+          )
+          
+          echo "Warming up CDN cache for ${#FILES[@]} files..."
+          
+          for file in "${FILES[@]}"; do
+            URL="${CDN_BASE_URL}${file}?v=${DAY}&r=${DATA_REVISION}"
+            echo "Requesting: $URL"
+            curl -sS "$URL" > /dev/null
+          done
+          
+          echo "CDN warmup complete!"

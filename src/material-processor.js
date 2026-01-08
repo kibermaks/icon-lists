@@ -51,6 +51,7 @@ const CATEGORIES_MAPPING_MATERIAL_SYMBOLS = {
     "Transit": "Transit",
     "Travel": "Travel",
     "UI actions": "UI actions",
+    "Others": "Others",
 };
 
 export class MaterialProcessor extends SetProcessor {

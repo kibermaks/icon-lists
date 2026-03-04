@@ -38,6 +38,7 @@ const CATEGORIES_MAPPING_MATERIAL_SYMBOLS = {
     "Activities": "Activities",
     "Android": "Android",
     "Audio&Video": "Audio & Video",
+    "Brand": "Brand",
     "Business": "Business",
     "Communicate": "Communicate",
     "Hardware": "Hardware",

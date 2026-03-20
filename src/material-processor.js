@@ -65,6 +65,18 @@ export class MaterialProcessor extends SetProcessor {
 		};
     }
 
+    /**
+     * Auto-generate a display name for an unknown category.
+     * e.g. "audio&video" → "Audio & Video", "ui actions" → "UI Actions"
+     */
+    static _autoDisplayName(raw) {
+        return raw
+            .replace(/&/g, ' & ')
+            .replace(/\b\w/g, l => l.toUpperCase())
+            .replace(/\s+/g, ' ')
+            .trim();
+    }
+
     async _fetchData() {
         const raw = await fetch(SOURCE_MATERIAL).then((r) => r.text());
         return JSON.parse(raw.replace(/^[^\n]*\n/, ""));
@@ -82,10 +94,26 @@ export class MaterialProcessor extends SetProcessor {
     _transformData(data) {
         console.log(`Material: Total icons count: ${data.icons.length}`);
 
+        // Auto-discover new categories from the API data
+        const knownCategories = this.combinedCategories;
+        const newCategories = new Set();
+        for (const icon of data.icons) {
+            for (const cat of icon.categories) {
+                if (!knownCategories[cat]) {
+                    newCategories.add(cat);
+                    // Auto-register with generated display name
+                    knownCategories[cat] = MaterialProcessor._autoDisplayName(cat);
+                }
+            }
+        }
+        if (newCategories.size > 0) {
+            console.log(`Material: Auto-discovered ${newCategories.size} new category(ies): ${[...newCategories].join(', ')}`);
+        }
+
         const icons = data.icons.reduce((acc, i) => {
             if (i.unsupported_families.length === 3 || i.unsupported_families.length === 5) {
                 i.name = i.name.replace(/_/g, ' ').replace(/\b\w/g, l => l.toUpperCase());
-                i.categories = i.categories.map((c) => this.combinedCategories[c] || c);
+                i.categories = i.categories.map((c) => knownCategories[c] || c);
                 i.tags = Array.from(new Set([i.name, ...i.tags].map(tag => tag.toLowerCase()))).sort();
                 acc.push(i);
             }

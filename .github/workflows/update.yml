@@ -21,15 +21,23 @@ jobs:
       - name: Perform custom update script
         run: |
           node src/update.js
-      # Commit only if files changed
-      - name: Push changes if needed
+      # dist/ is in .gitignore (for main branch), but gh-pages needs it
+      - name: Push to gh-pages
         id: push_changes
-        uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: 'chore: daily icon metadata refresh'
-          branch: gh-pages
-          create_branch: true
-          push_options: --force
+        run: |
+          # Remove /dist from .gitignore so git sees the built files
+          sed -i '/^\/dist$/d' .gitignore
+          git add -A
+          if git diff --cached --quiet HEAD; then
+            echo "No changes detected"
+            echo "changes_detected=false" >> "$GITHUB_OUTPUT"
+          else
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git commit -m "chore: daily icon metadata refresh"
+            git push --force origin HEAD:gh-pages
+            echo "changes_detected=true" >> "$GITHUB_OUTPUT"
+          fi
       - name: Purge jsDelivr for all dist assets
         if: steps.push_changes.outputs.changes_detected == 'true'
         run: |

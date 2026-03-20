@@ -36,6 +36,7 @@ const CATEGORIES_MAPPING_MATERIAL_ICONS = {
 const CATEGORIES_MAPPING_MATERIAL_SYMBOLS = {
     "Actions": "Actions",
     "Activities": "Activities",
+    "AI": "AI",
     "Android": "Android",
     "Audio&Video": "Audio & Video",
     "Brand": "Brand",

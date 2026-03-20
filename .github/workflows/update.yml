@@ -38,10 +38,22 @@ jobs:
             git push --force origin HEAD:gh-pages
             echo "changes_detected=true" >> "$GITHUB_OUTPUT"
           fi
-      - name: Purge jsDelivr for all dist assets
+      - name: Purge jsDelivr cache for each dist file
         if: steps.push_changes.outputs.changes_detected == 'true'
         run: |
-          curl -sS "https://purge.jsdelivr.net/gh/${{ github.repository }}@gh-pages/dist"
+          REPO="${{ github.repository }}"
+          FILES=(
+            material-combined.min.json material-combined-full.min.json
+            material-icons.min.json material-icons-full.min.json
+            material-symbols.min.json material-symbols-full.min.json
+            lucide-icons.min.json lucide-icons-full.min.json
+            phosphor-icons.min.json phosphor-icons-full.min.json
+            ultimate-icons.min.json ultimate-icons-full.min.json
+          )
+          for f in "${FILES[@]}"; do
+            echo "Purging $f..."
+            curl -sS "https://purge.jsdelivr.net/gh/${REPO}@gh-pages/dist/${f}" | grep -o '"status":"[^"]*"' || true
+          done
 
   cdn-warmup:
     name: Warm up CDN cache

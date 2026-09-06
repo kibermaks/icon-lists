@@ -1,0 +1,5447 @@
+{
+  "countOfIcons": 1813,
+  "countOfCategories": 0,
+  "countOfTags": 0,
+  "categories": [],
+  "icons": [
+    {
+      "n": "tangent"
+    },
+    {
+      "n": "layout-grid"
+    },
+    {
+      "n": "squircle"
+    },
+    {
+      "n": "menu"
+    },
+    {
+      "n": "view"
+    },
+    {
+      "n": "search"
+    },
+    {
+      "n": "layout-panel-left"
+    },
+    {
+      "n": "square-menu"
+    },
+    {
+      "n": "search-alert"
+    },
+    {
+      "n": "list"
+    },
+    {
+      "n": "user"
+    },
+    {
+      "n": "search-slash"
+    },
+    {
+      "n": "search-x"
+    },
+    {
+      "n": "mail-search"
+    },
+    {
+      "n": "dome"
+    },
+    {
+      "n": "birdhouse"
+    },
+    {
+      "n": "house"
+    },
+    {
+      "n": "search-check"
+    },
+    {
+      "n": "settings"
+    },
+    {
+      "n": "user-pen"
+    },
+    {
+      "n": "user-round-pen"
+    },
+    {
+      "n": "folder-cog"
+    },
+    {
+      "n": "file-cog"
+    },
+    {
+      "n": "user-cog"
+    },
+    {
+      "n": "user-round-cog"
+    },
+    {
+      "n": "circle-user"
+    },
+    {
+      "n": "circle-user-round"
+    },
+    {
+      "n": "square-user"
+    },
+    {
+      "n": "square-user-round"
+    },
+    {
+      "n": "user-round"
+    },
+    {
+      "n": "circle-chevron-up"
+    },
+    {
+      "n": "file-sliders"
+    },
+    {
+      "n": "search-code"
+    },
+    {
+      "n": "square-chevron-down"
+    },
+    {
+      "n": "square-dashed"
+    },
+    {
+      "n": "scan-eye"
+    },
+    {
+      "n": "list-indent-decrease"
+    },
+    {
+      "n": "list-indent-increase"
+    },
+    {
+      "n": "house-plug"
+    },
+    {
+      "n": "spline"
+    },
+    {
+      "n": "cog"
+    },
+    {
+      "n": "frame"
+    },
+    {
+      "n": "square-dashed-text"
+    },
+    {
+      "n": "list-filter-plus"
+    },
+    {
+      "n": "funnel-x"
+    },
+    {
+      "n": "house-plus"
+    },
+    {
+      "n": "badge-check"
+    },
+    {
+      "n": "text-cursor-input"
+    },
+    {
+      "n": "circle-chevron-down"
+    },
+    {
+      "n": "folder-search"
+    },
+    {
+      "n": "folder-search-2"
+    },
+    {
+      "n": "funnel"
+    },
+    {
+      "n": "house-heart"
+    },
+    {
+      "n": "corner-down-right"
+    },
+    {
+      "n": "contact"
+    },
+    {
+      "n": "book-user"
+    },
+    {
+      "n": "layout-panel-top"
+    },
+    {
+      "n": "contact-round"
+    },
+    {
+      "n": "folder-dot"
+    },
+    {
+      "n": "blinds"
+    },
+    {
+      "n": "smartphone-nfc"
+    },
+    {
+      "n": "rectangle-horizontal"
+    },
+    {
+      "n": "package-search"
+    },
+    {
+      "n": "funnel-plus"
+    },
+    {
+      "n": "metronome"
+    },
+    {
+      "n": "arrow-right-to-line"
+    },
+    {
+      "n": "scan-search"
+    },
+    {
+      "n": "fullscreen"
+    },
+    {
+      "n": "picture-in-picture-2"
+    },
+    {
+      "n": "file-question-mark"
+    },
+    {
+      "n": "picture-in-picture"
+    },
+    {
+      "n": "scan-face"
+    },
+    {
+      "n": "database-check"
+    },
+    {
+      "n": "panels-top-left"
+    },
+    {
+      "n": "smartphone-charging"
+    },
+    {
+      "n": "laptop-minimal"
+    },
+    {
+      "n": "robot-vacuum"
+    },
+    {
+      "n": "circle-play"
+    },
+    {
+      "n": "iteration-ccw"
+    },
+    {
+      "n": "list-filter"
+    },
+    {
+      "n": "user-shield"
+    },
+    {
+      "n": "building"
+    },
+    {
+      "n": "laptop"
+    },
+    {
+      "n": "alarm-clock-minus"
+    },
+    {
+      "n": "bookmark-minus"
+    },
+    {
+      "n": "image-minus"
+    },
+    {
+      "n": "package-minus"
+    },
+    {
+      "n": "package-x"
+    },
+    {
+      "n": "layout-template"
+    },
+    {
+      "n": "mouse-pointer-2-off"
+    },
+    {
+      "n": "chart-network"
+    },
+    {
+      "n": "chevrons-left-right-ellipsis"
+    },
+    {
+      "n": "ethernet-port"
+    },
+    {
+      "n": "banknote-check"
+    },
+    {
+      "n": "octagon"
+    },
+    {
+      "n": "triangle-dashed"
+    },
+    {
+      "n": "gamepad-directional"
+    },
+    {
+      "n": "circle-equal"
+    },
+    {
+      "n": "mail-open"
+    },
+    {
+      "n": "log-in"
+    },
+    {
+      "n": "package-check"
+    },
+    {
+      "n": "grid-2x2"
+    },
+    {
+      "n": "grid-3x2"
+    },
+    {
+      "n": "x"
+    },
+    {
+      "n": "circle-small"
+    },
+    {
+      "n": "mail-minus"
+    },
+    {
+      "n": "mail-x"
+    },
+    {
+      "n": "hexagon"
+    },
+    {
+      "n": "octagon-x"
+    },
+    {
+      "n": "pentagon"
+    },
+    {
+      "n": "globe-check"
+    },
+    {
+      "n": "text-align-justify"
+    },
+    {
+      "n": "shield-user"
+    },
+    {
+      "n": "sticky-note-check"
+    },
+    {
+      "n": "file-minus"
+    },
+    {
+      "n": "bolt"
+    },
+    {
+      "n": "settings-2"
+    },
+    {
+      "n": "users-round"
+    },
+    {
+      "n": "webhook-off"
+    },
+    {
+      "n": "file-symlink"
+    },
+    {
+      "n": "copy-x"
+    },
+    {
+      "n": "square-chevron-left"
+    },
+    {
+      "n": "square-x"
+    },
+    {
+      "n": "file-pen-line"
+    },
+    {
+      "n": "sliders-vertical"
+    },
+    {
+      "n": "badge-info"
+    },
+    {
+      "n": "badge-question-mark"
+    },
+    {
+      "n": "regex"
+    },
+    {
+      "n": "panel-left-open"
+    },
+    {
+      "n": "line-squiggle"
+    },
+    {
+      "n": "user-round-arrow-left"
+    },
+    {
+      "n": "monitor-check"
+    },
+    {
+      "n": "folder-minus"
+    },
+    {
+      "n": "folder-x"
+    },
+    {
+      "n": "map-pin-house"
+    },
+    {
+      "n": "badge-minus"
+    },
+    {
+      "n": "heart-plus"
+    },
+    {
+      "n": "mail-plus"
+    },
+    {
+      "n": "mail-question-mark"
+    },
+    {
+      "n": "circle-euro"
+    },
+    {
+      "n": "file-user"
+    },
+    {
+      "n": "map"
+    },
+    {
+      "n": "navigation"
+    },
+    {
+      "n": "printer-check"
+    },
+    {
+      "n": "sliders-horizontal"
+    },
+    {
+      "n": "square-exclamation-point"
+    },
+    {
+      "n": "grip-horizontal"
+    },
+    {
+      "n": "grip-vertical"
+    },
+    {
+      "n": "remove-formatting"
+    },
+    {
+      "n": "corner-left-down"
+    },
+    {
+      "n": "corner-left-up"
+    },
+    {
+      "n": "corner-right-down"
+    },
+    {
+      "n": "corner-right-up"
+    },
+    {
+      "n": "corner-up-left"
+    },
+    {
+      "n": "corner-up-right"
+    },
+    {
+      "n": "move-down-left"
+    },
+    {
+      "n": "move-down-right"
+    },
+    {
+      "n": "move-up-left"
+    },
+    {
+      "n": "move-up-right"
+    },
+    {
+      "n": "circle-chevron-left"
+    },
+    {
+      "n": "grip"
+    },
+    {
+      "n": "user-lock"
+    },
+    {
+      "n": "map-minus"
+    },
+    {
+      "n": "mail-badge"
+    },
+    {
+      "n": "list-collapse"
+    },
+    {
+      "n": "chevron-left"
+    },
+    {
+      "n": "badge-plus"
+    },
+    {
+      "n": "alarm-clock-plus"
+    },
+    {
+      "n": "bookmark-plus"
+    },
+    {
+      "n": "merge"
+    },
+    {
+      "n": "package-plus"
+    },
+    {
+      "n": "badge"
+    },
+    {
+      "n": "pi"
+    },
+    {
+      "n": "square-pi"
+    },
+    {
+      "n": "tool-case"
+    },
+    {
+      "n": "app-window-mac"
+    },
+    {
+      "n": "badge-x"
+    },
+    {
+      "n": "cylinder"
+    },
+    {
+      "n": "trash"
+    },
+    {
+      "n": "mail-warning"
+    },
+    {
+      "n": "file-plus"
+    },
+    {
+      "n": "file-plus-corner"
+    },
+    {
+      "n": "user-key"
+    },
+    {
+      "n": "user-round-key"
+    },
+    {
+      "n": "badge-alert"
+    },
+    {
+      "n": "monitor-cog"
+    },
+    {
+      "n": "printer-x"
+    },
+    {
+      "n": "map-plus"
+    },
+    {
+      "n": "file-exclamation-point"
+    },
+    {
+      "n": "shredder"
+    },
+    {
+      "n": "shield-check"
+    },
+    {
+      "n": "delete"
+    },
+    {
+      "n": "lock-keyhole-open"
+    },
+    {
+      "n": "panel-left-dashed"
+    },
+    {
+      "n": "panel-top-bottom-dashed"
+    },
+    {
+      "n": "flag"
+    },
+    {
+      "n": "bookmark"
+    },
+    {
+      "n": "user-round-search"
+    },
+    {
+      "n": "type-outline"
+    },
+    {
+      "n": "mail"
+    },
+    {
+      "n": "columns-3-cog"
+    },
+    {
+      "n": "alarm-clock-check"
+    },
+    {
+      "n": "check"
+    },
+    {
+      "n": "check-line"
+    },
+    {
+      "n": "circle-check"
+    },
+    {
+      "n": "circle-check-big"
+    },
+    {
+      "n": "clipboard-check"
+    },
+    {
+      "n": "square-check"
+    },
+    {
+      "n": "square-check-big"
+    },
+    {
+      "n": "user-check"
+    },
+    {
+      "n": "user-round-check"
+    },
+    {
+      "n": "tag-x"
+    },
+    {
+      "n": "laptop-minimal-check"
+    },
+    {
+      "n": "georgian-lari"
+    },
+    {
+      "n": "japanese-yen"
+    },
+    {
+      "n": "pound-sterling"
+    },
+    {
+      "n": "russian-ruble"
+    },
+    {
+      "n": "saudi-riyal"
+    },
+    {
+      "n": "swiss-franc"
+    },
+    {
+      "n": "shopping-cart"
+    },
+    {
+      "n": "star-x"
+    },
+    {
+      "n": "panel-right-open"
+    },
+    {
+      "n": "file-key"
+    },
+    {
+      "n": "clipboard-x"
+    },
+    {
+      "n": "file-check"
+    },
+    {
+      "n": "file-check-corner"
+    },
+    {
+      "n": "file-input"
+    },
+    {
+      "n": "file-minus-corner"
+    },
+    {
+      "n": "file-output"
+    },
+    {
+      "n": "vibrate-off"
+    },
+    {
+      "n": "panel-top-open"
+    },
+    {
+      "n": "fingerprint-pattern"
+    },
+    {
+      "n": "at-sign"
+    },
+    {
+      "n": "rectangle-vertical"
+    },
+    {
+      "n": "folder-plus"
+    },
+    {
+      "n": "landmark"
+    },
+    {
+      "n": "calendar-search"
+    },
+    {
+      "n": "mail-pen"
+    },
+    {
+      "n": "file-x"
+    },
+    {
+      "n": "file-x-corner"
+    },
+    {
+      "n": "align-end-vertical"
+    },
+    {
+      "n": "align-horizontal-distribute-end"
+    },
+    {
+      "n": "align-horizontal-justify-end"
+    },
+    {
+      "n": "radical"
+    },
+    {
+      "n": "square-radical"
+    },
+    {
+      "n": "mail-check"
+    },
+    {
+      "n": "panel-right-dashed"
+    },
+    {
+      "n": "play-off"
+    },
+    {
+      "n": "locate"
+    },
+    {
+      "n": "rotate-cw"
+    },
+    {
+      "n": "database-x"
+    },
+    {
+      "n": "square-play"
+    },
+    {
+      "n": "circle-pause"
+    },
+    {
+      "n": "octagon-pause"
+    },
+    {
+      "n": "square-pause"
+    },
+    {
+      "n": "variable"
+    },
+    {
+      "n": "text-align-end"
+    },
+    {
+      "n": "corner-down-left"
+    },
+    {
+      "n": "iteration-cw"
+    },
+    {
+      "n": "move"
+    },
+    {
+      "n": "shopping-bag"
+    },
+    {
+      "n": "play"
+    },
+    {
+      "n": "eraser"
+    },
+    {
+      "n": "panel-bottom-dashed"
+    },
+    {
+      "n": "shopping-cart-plus"
+    },
+    {
+      "n": "circle-alert"
+    },
+    {
+      "n": "octagon-alert"
+    },
+    {
+      "n": "triangle-alert"
+    },
+    {
+      "n": "clock-plus"
+    },
+    {
+      "n": "eye-closed"
+    },
+    {
+      "n": "eye-off"
+    },
+    {
+      "n": "eye-dashed"
+    },
+    {
+      "n": "airplay"
+    },
+    {
+      "n": "server-cog"
+    },
+    {
+      "n": "triangle"
+    },
+    {
+      "n": "chevrons-left-right"
+    },
+    {
+      "n": "bitcoin"
+    },
+    {
+      "n": "save-plus"
+    },
+    {
+      "n": "banknote"
+    },
+    {
+      "n": "circle"
+    },
+    {
+      "n": "log-out"
+    },
+    {
+      "n": "megaphone"
+    },
+    {
+      "n": "badge-percent"
+    },
+    {
+      "n": "circle-percent"
+    },
+    {
+      "n": "diamond-percent"
+    },
+    {
+      "n": "square-percent"
+    },
+    {
+      "n": "dollar-sign"
+    },
+    {
+      "n": "file"
+    },
+    {
+      "n": "users"
+    },
+    {
+      "n": "engine"
+    },
+    {
+      "n": "highlighter"
+    },
+    {
+      "n": "folder-key"
+    },
+    {
+      "n": "folder-lock"
+    },
+    {
+      "n": "text-align-start"
+    },
+    {
+      "n": "mouse-pointer"
+    },
+    {
+      "n": "mouse-pointer-2"
+    },
+    {
+      "n": "mouse-pointer-click"
+    },
+    {
+      "n": "panel-top-dashed"
+    },
+    {
+      "n": "alarm-smoke"
+    },
+    {
+      "n": "clipboard-minus"
+    },
+    {
+      "n": "shelving-unit"
+    },
+    {
+      "n": "folder-check"
+    },
+    {
+      "n": "euro"
+    },
+    {
+      "n": "square"
+    },
+    {
+      "n": "calendar-cog"
+    },
+    {
+      "n": "indian-rupee"
+    },
+    {
+      "n": "component"
+    },
+    {
+      "n": "square-arrow-right-enter"
+    },
+    {
+      "n": "form"
+    },
+    {
+      "n": "eye"
+    },
+    {
+      "n": "circle-dollar-sign"
+    },
+    {
+      "n": "inbox"
+    },
+    {
+      "n": "file-lock"
+    },
+    {
+      "n": "trash-off"
+    },
+    {
+      "n": "lasso"
+    },
+    {
+      "n": "lasso-select"
+    },
+    {
+      "n": "check-check"
+    },
+    {
+      "n": "speech"
+    },
+    {
+      "n": "clock-arrow-down"
+    },
+    {
+      "n": "clock-arrow-up"
+    },
+    {
+      "n": "link"
+    },
+    {
+      "n": "flag-off"
+    },
+    {
+      "n": "list-check"
+    },
+    {
+      "n": "message-circle-dashed-check"
+    },
+    {
+      "n": "ticket-x"
+    },
+    {
+      "n": "option"
+    },
+    {
+      "n": "clock-1"
+    },
+    {
+      "n": "clock-10"
+    },
+    {
+      "n": "clock-11"
+    },
+    {
+      "n": "clock-2"
+    },
+    {
+      "n": "clock-3"
+    },
+    {
+      "n": "clock-4"
+    },
+    {
+      "n": "clock-5"
+    },
+    {
+      "n": "clock-6"
+    },
+    {
+      "n": "clock-7"
+    },
+    {
+      "n": "clock-8"
+    },
+    {
+      "n": "clock-9"
+    },
+    {
+      "n": "clock-check"
+    },
+    {
+      "n": "clock-fading"
+    },
+    {
+      "n": "clock"
+    },
+    {
+      "n": "watch"
+    },
+    {
+      "n": "pause"
+    },
+    {
+      "n": "list-chevrons-down-up"
+    },
+    {
+      "n": "list-chevrons-up-down"
+    },
+    {
+      "n": "currency"
+    },
+    {
+      "n": "circle-pound-sterling"
+    },
+    {
+      "n": "music-4"
+    },
+    {
+      "n": "lock"
+    },
+    {
+      "n": "radius"
+    },
+    {
+      "n": "rotate-cw-fading-clock"
+    },
+    {
+      "n": "credit-card-check"
+    },
+    {
+      "n": "vector-polygon"
+    },
+    {
+      "n": "person-standing"
+    },
+    {
+      "n": "square-text"
+    },
+    {
+      "n": "reply"
+    },
+    {
+      "n": "arrow-down-z-a"
+    },
+    {
+      "n": "arrow-up-z-a"
+    },
+    {
+      "n": "user-plus"
+    },
+    {
+      "n": "user-round-plus"
+    },
+    {
+      "n": "arrow-down-a-z"
+    },
+    {
+      "n": "arrow-down-narrow-wide"
+    },
+    {
+      "n": "arrow-down-wide-narrow"
+    },
+    {
+      "n": "arrow-up-a-z"
+    },
+    {
+      "n": "arrow-up-narrow-wide"
+    },
+    {
+      "n": "arrow-up-wide-narrow"
+    },
+    {
+      "n": "clock-arrow-right"
+    },
+    {
+      "n": "sticky-note-x"
+    },
+    {
+      "n": "sticky-note-minus"
+    },
+    {
+      "n": "telescope"
+    },
+    {
+      "n": "clipboard-type"
+    },
+    {
+      "n": "shopping-cart-minus"
+    },
+    {
+      "n": "line-style"
+    },
+    {
+      "n": "credit-card"
+    },
+    {
+      "n": "chevrons-up-down"
+    },
+    {
+      "n": "lock-keyhole"
+    },
+    {
+      "n": "square-dashed-bottom"
+    },
+    {
+      "n": "square-dashed-bottom-code"
+    },
+    {
+      "n": "bell-dot"
+    },
+    {
+      "n": "text-cursor"
+    },
+    {
+      "n": "box"
+    },
+    {
+      "n": "flashlight"
+    },
+    {
+      "n": "flashlight-off"
+    },
+    {
+      "n": "list-start"
+    },
+    {
+      "n": "layers-minus"
+    },
+    {
+      "n": "spline-pointer"
+    },
+    {
+      "n": "vote"
+    },
+    {
+      "n": "send-horizontal"
+    },
+    {
+      "n": "panel-right-close"
+    },
+    {
+      "n": "circle-x"
+    },
+    {
+      "n": "squircle-dashed"
+    },
+    {
+      "n": "folder-symlink"
+    },
+    {
+      "n": "clock-arrow-left"
+    },
+    {
+      "n": "scan-box"
+    },
+    {
+      "n": "id-card-lanyard"
+    },
+    {
+      "n": "id-card"
+    },
+    {
+      "n": "step-back"
+    },
+    {
+      "n": "shopping-basket"
+    },
+    {
+      "n": "whole-word"
+    },
+    {
+      "n": "bookmark-check"
+    },
+    {
+      "n": "message-circle-question-mark"
+    },
+    {
+      "n": "sticky-note-plus"
+    },
+    {
+      "n": "copy-slash"
+    },
+    {
+      "n": "sticky-note-off"
+    },
+    {
+      "n": "file-clock"
+    },
+    {
+      "n": "save-check"
+    },
+    {
+      "n": "panel-bottom-open"
+    },
+    {
+      "n": "server-plus"
+    },
+    {
+      "n": "biohazard"
+    },
+    {
+      "n": "shirt"
+    },
+    {
+      "n": "list-sort-ascending"
+    },
+    {
+      "n": "list-sort-descending"
+    },
+    {
+      "n": "panel-left-right-dashed"
+    },
+    {
+      "n": "glass-water"
+    },
+    {
+      "n": "pin"
+    },
+    {
+      "n": "message-square-dot"
+    },
+    {
+      "n": "omega"
+    },
+    {
+      "n": "train-track"
+    },
+    {
+      "n": "cloud-check"
+    },
+    {
+      "n": "locate-fixed"
+    },
+    {
+      "n": "locate-off"
+    },
+    {
+      "n": "chevrons-down-up"
+    },
+    {
+      "n": "list-checks"
+    },
+    {
+      "n": "list-todo"
+    },
+    {
+      "n": "baggage-claim"
+    },
+    {
+      "n": "shield-alert"
+    },
+    {
+      "n": "a-arrow-up"
+    },
+    {
+      "n": "bell"
+    },
+    {
+      "n": "bell-check"
+    },
+    {
+      "n": "bell-ring"
+    },
+    {
+      "n": "land-plot"
+    },
+    {
+      "n": "phi"
+    },
+    {
+      "n": "panel-right"
+    },
+    {
+      "n": "arrow-down-0-1"
+    },
+    {
+      "n": "arrow-down-1-0"
+    },
+    {
+      "n": "arrow-up-0-1"
+    },
+    {
+      "n": "arrow-up-1-0"
+    },
+    {
+      "n": "bookmark-x"
+    },
+    {
+      "n": "a-large-small"
+    },
+    {
+      "n": "git-pull-request-closed"
+    },
+    {
+      "n": "clock-12"
+    },
+    {
+      "n": "user-star"
+    },
+    {
+      "n": "wine"
+    },
+    {
+      "n": "rectangle-circle"
+    },
+    {
+      "n": "circle-chevron-right"
+    },
+    {
+      "n": "clipboard-plus"
+    },
+    {
+      "n": "baseline"
+    },
+    {
+      "n": "folder"
+    },
+    {
+      "n": "info"
+    },
+    {
+      "n": "copy-plus"
+    },
+    {
+      "n": "map-pin-check"
+    },
+    {
+      "n": "map-pin-check-inside"
+    },
+    {
+      "n": "image-plus"
+    },
+    {
+      "n": "send"
+    },
+    {
+      "n": "file-text"
+    },
+    {
+      "n": "panel-bottom-close"
+    },
+    {
+      "n": "unfold-vertical"
+    },
+    {
+      "n": "upload"
+    },
+    {
+      "n": "scan-text"
+    },
+    {
+      "n": "text-initial"
+    },
+    {
+      "n": "folder-clock"
+    },
+    {
+      "n": "presentation"
+    },
+    {
+      "n": "summary"
+    },
+    {
+      "n": "truck"
+    },
+    {
+      "n": "stamp"
+    },
+    {
+      "n": "monitor-play"
+    },
+    {
+      "n": "folder-bookmark"
+    },
+    {
+      "n": "arrow-big-right"
+    },
+    {
+      "n": "calendar-minus"
+    },
+    {
+      "n": "calendar-minus-2"
+    },
+    {
+      "n": "calendar-off"
+    },
+    {
+      "n": "hand-heart"
+    },
+    {
+      "n": "circle-stop"
+    },
+    {
+      "n": "square-stop"
+    },
+    {
+      "n": "wine-off"
+    },
+    {
+      "n": "key-round"
+    },
+    {
+      "n": "space"
+    },
+    {
+      "n": "briefcase"
+    },
+    {
+      "n": "sticky-note"
+    },
+    {
+      "n": "mail-clock"
+    },
+    {
+      "n": "key"
+    },
+    {
+      "n": "club"
+    },
+    {
+      "n": "square-dashed-kanban"
+    },
+    {
+      "n": "keyboard"
+    },
+    {
+      "n": "clock-alert"
+    },
+    {
+      "n": "navigation-2"
+    },
+    {
+      "n": "navigation-2-off"
+    },
+    {
+      "n": "webcam-off"
+    },
+    {
+      "n": "receipt-euro"
+    },
+    {
+      "n": "receipt-indian-rupee"
+    },
+    {
+      "n": "receipt-japanese-yen"
+    },
+    {
+      "n": "receipt-swiss-franc"
+    },
+    {
+      "n": "arrow-right"
+    },
+    {
+      "n": "hdmi-port"
+    },
+    {
+      "n": "file-heart"
+    },
+    {
+      "n": "calendar-x-2"
+    },
+    {
+      "n": "chevrons-right-left"
+    },
+    {
+      "n": "keyboard-off"
+    },
+    {
+      "n": "download"
+    },
+    {
+      "n": "truck-electric"
+    },
+    {
+      "n": "key-square"
+    },
+    {
+      "n": "eclipse"
+    },
+    {
+      "n": "case-lower"
+    },
+    {
+      "n": "case-sensitive"
+    },
+    {
+      "n": "case-upper"
+    },
+    {
+      "n": "scan-square"
+    },
+    {
+      "n": "stone"
+    },
+    {
+      "n": "calendar-x"
+    },
+    {
+      "n": "layers-plus"
+    },
+    {
+      "n": "rotate-ccw-key"
+    },
+    {
+      "n": "bridge"
+    },
+    {
+      "n": "rotate-ccw"
+    },
+    {
+      "n": "bell-minus"
+    },
+    {
+      "n": "layers"
+    },
+    {
+      "n": "timer"
+    },
+    {
+      "n": "timer-reset"
+    },
+    {
+      "n": "can-soda"
+    },
+    {
+      "n": "folder-closed"
+    },
+    {
+      "n": "list-x"
+    },
+    {
+      "n": "message-circle-more"
+    },
+    {
+      "n": "message-square-more"
+    },
+    {
+      "n": "copy-check"
+    },
+    {
+      "n": "forward"
+    },
+    {
+      "n": "banknote-arrow-up"
+    },
+    {
+      "n": "paintbrush"
+    },
+    {
+      "n": "paintbrush-vertical"
+    },
+    {
+      "n": "calendar-check-2"
+    },
+    {
+      "n": "ticket-check"
+    },
+    {
+      "n": "calendar-check"
+    },
+    {
+      "n": "clipboard-clock"
+    },
+    {
+      "n": "wifi-cog"
+    },
+    {
+      "n": "message-circle-plus"
+    },
+    {
+      "n": "message-square-plus"
+    },
+    {
+      "n": "pencil-sparkles"
+    },
+    {
+      "n": "chevron-first"
+    },
+    {
+      "n": "image-down"
+    },
+    {
+      "n": "lamp-desk"
+    },
+    {
+      "n": "fold-horizontal"
+    },
+    {
+      "n": "fold-vertical"
+    },
+    {
+      "n": "unfold-horizontal"
+    },
+    {
+      "n": "folder-heart"
+    },
+    {
+      "n": "container"
+    },
+    {
+      "n": "webhook"
+    },
+    {
+      "n": "a-arrow-down"
+    },
+    {
+      "n": "maximize-2"
+    },
+    {
+      "n": "church"
+    },
+    {
+      "n": "message-circle"
+    },
+    {
+      "n": "message-square"
+    },
+    {
+      "n": "message-square-text"
+    },
+    {
+      "n": "ellipsis-vertical"
+    },
+    {
+      "n": "replace-all"
+    },
+    {
+      "n": "redo-2"
+    },
+    {
+      "n": "server-crash"
+    },
+    {
+      "n": "traffic-cone"
+    },
+    {
+      "n": "monitor-dot"
+    },
+    {
+      "n": "banknote-x"
+    },
+    {
+      "n": "contrast"
+    },
+    {
+      "n": "message-circle-code"
+    },
+    {
+      "n": "message-square-code"
+    },
+    {
+      "n": "arrow-down-right"
+    },
+    {
+      "n": "arrow-up-left"
+    },
+    {
+      "n": "arrow-up-right"
+    },
+    {
+      "n": "step-forward"
+    },
+    {
+      "n": "copy-minus"
+    },
+    {
+      "n": "pen"
+    },
+    {
+      "n": "arrow-right-from-line"
+    },
+    {
+      "n": "message-circle-dashed"
+    },
+    {
+      "n": "message-square-dashed"
+    },
+    {
+      "n": "sigma"
+    },
+    {
+      "n": "square-sigma"
+    },
+    {
+      "n": "lock-open"
+    },
+    {
+      "n": "file-box"
+    },
+    {
+      "n": "briefcase-business"
+    },
+    {
+      "n": "coins"
+    },
+    {
+      "n": "radiation"
+    },
+    {
+      "n": "headphone-off"
+    },
+    {
+      "n": "shield-minus"
+    },
+    {
+      "n": "wifi-pen"
+    },
+    {
+      "n": "rotate-cw-square"
+    },
+    {
+      "n": "signpost-big"
+    },
+    {
+      "n": "helicopter"
+    },
+    {
+      "n": "layers-2"
+    },
+    {
+      "n": "database-plus"
+    },
+    {
+      "n": "move-diagonal"
+    },
+    {
+      "n": "move-diagonal-2"
+    },
+    {
+      "n": "move-horizontal"
+    },
+    {
+      "n": "move-vertical"
+    },
+    {
+      "n": "panel-left"
+    },
+    {
+      "n": "bold"
+    },
+    {
+      "n": "pen-line"
+    },
+    {
+      "n": "recycle"
+    },
+    {
+      "n": "cuboid"
+    },
+    {
+      "n": "tag-plus"
+    },
+    {
+      "n": "astroid"
+    },
+    {
+      "n": "import"
+    },
+    {
+      "n": "square-chart-gantt"
+    },
+    {
+      "n": "globe"
+    },
+    {
+      "n": "book-open-check"
+    },
+    {
+      "n": "book-check"
+    },
+    {
+      "n": "phone"
+    },
+    {
+      "n": "phone-incoming"
+    },
+    {
+      "n": "phone-outgoing"
+    },
+    {
+      "n": "italic"
+    },
+    {
+      "n": "door-stairwell"
+    },
+    {
+      "n": "panels-left-bottom"
+    },
+    {
+      "n": "square-off"
+    },
+    {
+      "n": "diff"
+    },
+    {
+      "n": "ligature"
+    },
+    {
+      "n": "panels-right-bottom"
+    },
+    {
+      "n": "earth"
+    },
+    {
+      "n": "database-minus"
+    },
+    {
+      "n": "panel-bottom"
+    },
+    {
+      "n": "square-kanban"
+    },
+    {
+      "n": "section"
+    },
+    {
+      "n": "pilcrow-left"
+    },
+    {
+      "n": "pilcrow-right"
+    },
+    {
+      "n": "star-minus"
+    },
+    {
+      "n": "pilcrow"
+    },
+    {
+      "n": "square-pilcrow"
+    },
+    {
+      "n": "map-pin-search"
+    },
+    {
+      "n": "house-wifi"
+    },
+    {
+      "n": "pointer"
+    },
+    {
+      "n": "pc-case"
+    },
+    {
+      "n": "server-off"
+    },
+    {
+      "n": "pencil"
+    },
+    {
+      "n": "car-battery"
+    },
+    {
+      "n": "redo"
+    },
+    {
+      "n": "undo"
+    },
+    {
+      "n": "calendar-plus"
+    },
+    {
+      "n": "calendar-plus-2"
+    },
+    {
+      "n": "wallet-cards"
+    },
+    {
+      "n": "square-arrow-up-left"
+    },
+    {
+      "n": "square-pen"
+    },
+    {
+      "n": "chart-no-axes-gantt"
+    },
+    {
+      "n": "pencil-line"
+    },
+    {
+      "n": "calendar-arrow-down"
+    },
+    {
+      "n": "calendar-arrow-up"
+    },
+    {
+      "n": "earth-lock"
+    },
+    {
+      "n": "globe-lock"
+    },
+    {
+      "n": "square-arrow-out-up-right"
+    },
+    {
+      "n": "message-circle-warning"
+    },
+    {
+      "n": "message-square-warning"
+    },
+    {
+      "n": "star-plus"
+    },
+    {
+      "n": "pen-off"
+    },
+    {
+      "n": "circle-arrow-up"
+    },
+    {
+      "n": "user-search"
+    },
+    {
+      "n": "text-align-center"
+    },
+    {
+      "n": "robot-arm"
+    },
+    {
+      "n": "tower-control"
+    },
+    {
+      "n": "squares-exclude"
+    },
+    {
+      "n": "star-check"
+    },
+    {
+      "n": "ticket-plus"
+    },
+    {
+      "n": "book-plus"
+    },
+    {
+      "n": "message-square-share"
+    },
+    {
+      "n": "message-circle-check"
+    },
+    {
+      "n": "message-square-check"
+    },
+    {
+      "n": "ambulance"
+    },
+    {
+      "n": "card-sim"
+    },
+    {
+      "n": "undo-dot"
+    },
+    {
+      "n": "bell-plus"
+    },
+    {
+      "n": "squares-intersect"
+    },
+    {
+      "n": "strikethrough"
+    },
+    {
+      "n": "circle-minus"
+    },
+    {
+      "n": "radio-receiver"
+    },
+    {
+      "n": "percent"
+    },
+    {
+      "n": "cloud-alert"
+    },
+    {
+      "n": "book-dashed"
+    },
+    {
+      "n": "star"
+    },
+    {
+      "n": "diamond"
+    },
+    {
+      "n": "flag-triangle-left"
+    },
+    {
+      "n": "flag-triangle-right"
+    },
+    {
+      "n": "qr-code"
+    },
+    {
+      "n": "folders"
+    },
+    {
+      "n": "vibrate"
+    },
+    {
+      "n": "map-pin-minus"
+    },
+    {
+      "n": "map-pin-minus-inside"
+    },
+    {
+      "n": "map-pin-x"
+    },
+    {
+      "n": "map-pin-x-inside"
+    },
+    {
+      "n": "file-headphone"
+    },
+    {
+      "n": "headphones"
+    },
+    {
+      "n": "circle-question-mark"
+    },
+    {
+      "n": "align-horizontal-distribute-start"
+    },
+    {
+      "n": "align-horizontal-justify-start"
+    },
+    {
+      "n": "align-start-vertical"
+    },
+    {
+      "n": "nfc"
+    },
+    {
+      "n": "file-digit"
+    },
+    {
+      "n": "message-square-lock"
+    },
+    {
+      "n": "thumbs-up"
+    },
+    {
+      "n": "pencil-off"
+    },
+    {
+      "n": "file-search-corner"
+    },
+    {
+      "n": "ampersand"
+    },
+    {
+      "n": "parking-meter"
+    },
+    {
+      "n": "kanban"
+    },
+    {
+      "n": "git-pull-request-create"
+    },
+    {
+      "n": "git-pull-request-create-arrow"
+    },
+    {
+      "n": "target"
+    },
+    {
+      "n": "archive-x"
+    },
+    {
+      "n": "monitor-stop"
+    },
+    {
+      "n": "ellipse"
+    },
+    {
+      "n": "feather"
+    },
+    {
+      "n": "bring-to-front"
+    },
+    {
+      "n": "rewind"
+    },
+    {
+      "n": "pencil-ruler"
+    },
+    {
+      "n": "replace"
+    },
+    {
+      "n": "arrow-up-from-dot"
+    },
+    {
+      "n": "navigation-off"
+    },
+    {
+      "n": "car-front"
+    },
+    {
+      "n": "piano"
+    },
+    {
+      "n": "arrow-big-left"
+    },
+    {
+      "n": "folder-up"
+    },
+    {
+      "n": "repeat"
+    },
+    {
+      "n": "monitor-up"
+    },
+    {
+      "n": "globe-off"
+    },
+    {
+      "n": "hourglass"
+    },
+    {
+      "n": "mic"
+    },
+    {
+      "n": "file-up"
+    },
+    {
+      "n": "map-pin-off"
+    },
+    {
+      "n": "face-slightly-smiling"
+    },
+    {
+      "n": "car"
+    },
+    {
+      "n": "arrow-up-to-line"
+    },
+    {
+      "n": "cloud-sync"
+    },
+    {
+      "n": "square-arrow-up-right"
+    },
+    {
+      "n": "server"
+    },
+    {
+      "n": "cloud-backup"
+    },
+    {
+      "n": "philippine-peso"
+    },
+    {
+      "n": "turkish-lira"
+    },
+    {
+      "n": "megaphone-off"
+    },
+    {
+      "n": "minimize-2"
+    },
+    {
+      "n": "mic-vocal"
+    },
+    {
+      "n": "app-window"
+    },
+    {
+      "n": "heart-handshake"
+    },
+    {
+      "n": "copy"
+    },
+    {
+      "n": "toggle-right"
+    },
+    {
+      "n": "file-type"
+    },
+    {
+      "n": "file-type-corner"
+    },
+    {
+      "n": "type"
+    },
+    {
+      "n": "calendar-heart"
+    },
+    {
+      "n": "database-arrow-up"
+    },
+    {
+      "n": "panel-top"
+    },
+    {
+      "n": "superscript"
+    },
+    {
+      "n": "subscript"
+    },
+    {
+      "n": "wrench-off"
+    },
+    {
+      "n": "signature"
+    },
+    {
+      "n": "vector-square"
+    },
+    {
+      "n": "repeat-2"
+    },
+    {
+      "n": "calendar-sync"
+    },
+    {
+      "n": "wallet"
+    },
+    {
+      "n": "folder-kanban"
+    },
+    {
+      "n": "layout-freeform"
+    },
+    {
+      "n": "dot"
+    },
+    {
+      "n": "arrow-down-from-line"
+    },
+    {
+      "n": "messages-square"
+    },
+    {
+      "n": "cloud-upload"
+    },
+    {
+      "n": "file-search"
+    },
+    {
+      "n": "motorbike"
+    },
+    {
+      "n": "bus"
+    },
+    {
+      "n": "brush"
+    },
+    {
+      "n": "piggy-bank"
+    },
+    {
+      "n": "hard-drive"
+    },
+    {
+      "n": "square-chevron-up"
+    },
+    {
+      "n": "receipt-cent"
+    },
+    {
+      "n": "arrows-up-from-line"
+    },
+    {
+      "n": "calendar-days"
+    },
+    {
+      "n": "columns-2"
+    },
+    {
+      "n": "mic-off"
+    },
+    {
+      "n": "bus-front"
+    },
+    {
+      "n": "mouse-off"
+    },
+    {
+      "n": "monitor"
+    },
+    {
+      "n": "arrow-big-right-dash"
+    },
+    {
+      "n": "notepad-text-dashed"
+    },
+    {
+      "n": "hand-grab"
+    },
+    {
+      "n": "underline"
+    },
+    {
+      "n": "circle-pile"
+    },
+    {
+      "n": "origami"
+    },
+    {
+      "n": "road"
+    },
+    {
+      "n": "logs"
+    },
+    {
+      "n": "arrow-left"
+    },
+    {
+      "n": "scooter"
+    },
+    {
+      "n": "calendar-clock"
+    },
+    {
+      "n": "car-taxi-front"
+    },
+    {
+      "n": "brackets"
+    },
+    {
+      "n": "asterisk"
+    },
+    {
+      "n": "mouse-left"
+    },
+    {
+      "n": "mouse-right"
+    },
+    {
+      "n": "calendar-range"
+    },
+    {
+      "n": "map-pin-plus"
+    },
+    {
+      "n": "map-pin-plus-inside"
+    },
+    {
+      "n": "ticket-percent"
+    },
+    {
+      "n": "redo-dot"
+    },
+    {
+      "n": "calendar"
+    },
+    {
+      "n": "square-square"
+    },
+    {
+      "n": "share"
+    },
+    {
+      "n": "save"
+    },
+    {
+      "n": "door-closed-locked"
+    },
+    {
+      "n": "bell-off"
+    },
+    {
+      "n": "circle-arrow-right"
+    },
+    {
+      "n": "file-play"
+    },
+    {
+      "n": "file-video-camera"
+    },
+    {
+      "n": "credit-card-plus"
+    },
+    {
+      "n": "shapes"
+    },
+    {
+      "n": "arrow-big-down"
+    },
+    {
+      "n": "folder-input"
+    },
+    {
+      "n": "folder-output"
+    },
+    {
+      "n": "wand"
+    },
+    {
+      "n": "hard-hat"
+    },
+    {
+      "n": "briefcase-conveyor-belt"
+    },
+    {
+      "n": "monitor-down"
+    },
+    {
+      "n": "hard-drive-download"
+    },
+    {
+      "n": "hard-drive-upload"
+    },
+    {
+      "n": "image-up"
+    },
+    {
+      "n": "monitor-off"
+    },
+    {
+      "n": "diameter"
+    },
+    {
+      "n": "folder-down"
+    },
+    {
+      "n": "wallpaper"
+    },
+    {
+      "n": "reply-all"
+    },
+    {
+      "n": "git-pull-request-draft"
+    },
+    {
+      "n": "file-down"
+    },
+    {
+      "n": "chart-area"
+    },
+    {
+      "n": "luggage"
+    },
+    {
+      "n": "arrow-down"
+    },
+    {
+      "n": "list-tree"
+    },
+    {
+      "n": "network"
+    },
+    {
+      "n": "share-2"
+    },
+    {
+      "n": "calendar-fold"
+    },
+    {
+      "n": "sticky-notes"
+    },
+    {
+      "n": "archive"
+    },
+    {
+      "n": "clipboard"
+    },
+    {
+      "n": "clipboard-copy"
+    },
+    {
+      "n": "clipboard-paste"
+    },
+    {
+      "n": "clipboard-pen-line"
+    },
+    {
+      "n": "save-all"
+    },
+    {
+      "n": "backpack"
+    },
+    {
+      "n": "square-arrow-down-right"
+    },
+    {
+      "n": "move-left"
+    },
+    {
+      "n": "circle-arrow-down"
+    },
+    {
+      "n": "arrow-up"
+    },
+    {
+      "n": "minimize"
+    },
+    {
+      "n": "arrow-left-from-line"
+    },
+    {
+      "n": "forklift"
+    },
+    {
+      "n": "arrow-left-to-line"
+    },
+    {
+      "n": "scan"
+    },
+    {
+      "n": "trailer"
+    },
+    {
+      "n": "lamp-ceiling"
+    },
+    {
+      "n": "lamp-floor"
+    },
+    {
+      "n": "square-arrow-up"
+    },
+    {
+      "n": "notebook-tabs"
+    },
+    {
+      "n": "panel-top-close"
+    },
+    {
+      "n": "chart-bar"
+    },
+    {
+      "n": "chart-bar-big"
+    },
+    {
+      "n": "chart-column"
+    },
+    {
+      "n": "chart-column-big"
+    },
+    {
+      "n": "chart-line"
+    },
+    {
+      "n": "chart-no-axes-column"
+    },
+    {
+      "n": "chart-scatter"
+    },
+    {
+      "n": "message-circle-off"
+    },
+    {
+      "n": "message-circle-x"
+    },
+    {
+      "n": "message-square-off"
+    },
+    {
+      "n": "message-square-x"
+    },
+    {
+      "n": "notebook-pen"
+    },
+    {
+      "n": "notebook-text"
+    },
+    {
+      "n": "notepad-text"
+    },
+    {
+      "n": "ticket-slash"
+    },
+    {
+      "n": "message-circle-reply"
+    },
+    {
+      "n": "message-square-reply"
+    },
+    {
+      "n": "handbag"
+    },
+    {
+      "n": "monitor-cloud"
+    },
+    {
+      "n": "receipt-text"
+    },
+    {
+      "n": "fence"
+    },
+    {
+      "n": "fishing-hook"
+    },
+    {
+      "n": "skip-back"
+    },
+    {
+      "n": "chevron-down"
+    },
+    {
+      "n": "newspaper"
+    },
+    {
+      "n": "printer"
+    },
+    {
+      "n": "cone"
+    },
+    {
+      "n": "panel-left-close"
+    },
+    {
+      "n": "music-3"
+    },
+    {
+      "n": "monitor-x"
+    },
+    {
+      "n": "folder-sync"
+    },
+    {
+      "n": "folder-tree"
+    },
+    {
+      "n": "message-circle-heart"
+    },
+    {
+      "n": "message-square-heart"
+    },
+    {
+      "n": "monitor-speaker"
+    },
+    {
+      "n": "circle-fading-plus"
+    },
+    {
+      "n": "list-video"
+    },
+    {
+      "n": "chevrons-up"
+    },
+    {
+      "n": "separator-horizontal"
+    },
+    {
+      "n": "separator-vertical"
+    },
+    {
+      "n": "cross"
+    },
+    {
+      "n": "tablet"
+    },
+    {
+      "n": "database-arrow-down"
+    },
+    {
+      "n": "move-3d"
+    },
+    {
+      "n": "list-minus"
+    },
+    {
+      "n": "monitor-pause"
+    },
+    {
+      "n": "smartphone"
+    },
+    {
+      "n": "square-round-corner"
+    },
+    {
+      "n": "gift"
+    },
+    {
+      "n": "ticket-minus"
+    },
+    {
+      "n": "cloud-cog"
+    },
+    {
+      "n": "cookie"
+    },
+    {
+      "n": "clapperboard"
+    },
+    {
+      "n": "chart-bar-stacked"
+    },
+    {
+      "n": "chart-column-stacked"
+    },
+    {
+      "n": "store"
+    },
+    {
+      "n": "square-plus"
+    },
+    {
+      "n": "cassette-tape"
+    },
+    {
+      "n": "scan-barcode"
+    },
+    {
+      "n": "receipt-turkish-lira"
+    },
+    {
+      "n": "pyramid"
+    },
+    {
+      "n": "scan-line"
+    },
+    {
+      "n": "rotate-ccw-square"
+    },
+    {
+      "n": "star-off"
+    },
+    {
+      "n": "columns-3"
+    },
+    {
+      "n": "external-link"
+    },
+    {
+      "n": "mails"
+    },
+    {
+      "n": "database-backup"
+    },
+    {
+      "n": "columns-4"
+    },
+    {
+      "n": "equal-not"
+    },
+    {
+      "n": "minus"
+    },
+    {
+      "n": "ev-charger"
+    },
+    {
+      "n": "calendars"
+    },
+    {
+      "n": "text-wrap"
+    },
+    {
+      "n": "receipt-pound-sterling"
+    },
+    {
+      "n": "diamond-minus"
+    },
+    {
+      "n": "square-minus"
+    },
+    {
+      "n": "volume-1"
+    },
+    {
+      "n": "volume-2"
+    },
+    {
+      "n": "receipt-russian-ruble"
+    },
+    {
+      "n": "equal-approximately"
+    },
+    {
+      "n": "can"
+    },
+    {
+      "n": "file-signal"
+    },
+    {
+      "n": "file-volume"
+    },
+    {
+      "n": "ban"
+    },
+    {
+      "n": "square-dashed-mouse-pointer"
+    },
+    {
+      "n": "square-mouse-pointer"
+    },
+    {
+      "n": "file-chart-column"
+    },
+    {
+      "n": "file-chart-line"
+    },
+    {
+      "n": "file-chart-pie"
+    },
+    {
+      "n": "radar"
+    },
+    {
+      "n": "zodiac-ophiuchus"
+    },
+    {
+      "n": "square-arrow-left"
+    },
+    {
+      "n": "user-minus"
+    },
+    {
+      "n": "user-round-minus"
+    },
+    {
+      "n": "book-alert"
+    },
+    {
+      "n": "zoom-in"
+    },
+    {
+      "n": "mouse"
+    },
+    {
+      "n": "tractor"
+    },
+    {
+      "n": "files"
+    },
+    {
+      "n": "circle-power"
+    },
+    {
+      "n": "square-power"
+    },
+    {
+      "n": "hand-coins"
+    },
+    {
+      "n": "timeline"
+    },
+    {
+      "n": "scroll"
+    },
+    {
+      "n": "git-merge-conflict"
+    },
+    {
+      "n": "chart-pie"
+    },
+    {
+      "n": "square-arrow-down"
+    },
+    {
+      "n": "warehouse"
+    },
+    {
+      "n": "chart-gantt"
+    },
+    {
+      "n": "boxes"
+    },
+    {
+      "n": "map-pin-pen"
+    },
+    {
+      "n": "trending-up"
+    },
+    {
+      "n": "refresh-cw-off"
+    },
+    {
+      "n": "globe-x"
+    },
+    {
+      "n": "cloud"
+    },
+    {
+      "n": "rotate-ccw-clock"
+    },
+    {
+      "n": "undo-2"
+    },
+    {
+      "n": "film"
+    },
+    {
+      "n": "circle-gauge"
+    },
+    {
+      "n": "command"
+    },
+    {
+      "n": "power"
+    },
+    {
+      "n": "camera"
+    },
+    {
+      "n": "square-arrow-right"
+    },
+    {
+      "n": "graduation-cap"
+    },
+    {
+      "n": "wallet-minimal"
+    },
+    {
+      "n": "webcam"
+    },
+    {
+      "n": "scaling"
+    },
+    {
+      "n": "blocks"
+    },
+    {
+      "n": "table-properties"
+    },
+    {
+      "n": "wifi-high"
+    },
+    {
+      "n": "wifi-low"
+    },
+    {
+      "n": "wifi-zero"
+    },
+    {
+      "n": "chart-bar-increasing"
+    },
+    {
+      "n": "chart-column-increasing"
+    },
+    {
+      "n": "chart-no-axes-column-increasing"
+    },
+    {
+      "n": "chart-no-axes-combined"
+    },
+    {
+      "n": "barcode"
+    },
+    {
+      "n": "scan-qr-code"
+    },
+    {
+      "n": "power-off"
+    },
+    {
+      "n": "scroll-text"
+    },
+    {
+      "n": "school"
+    },
+    {
+      "n": "square-scissors"
+    },
+    {
+      "n": "credit-card-x"
+    },
+    {
+      "n": "layout-list"
+    },
+    {
+      "n": "combine"
+    },
+    {
+      "n": "usb"
+    },
+    {
+      "n": "git-pull-request"
+    },
+    {
+      "n": "git-pull-request-arrow"
+    },
+    {
+      "n": "paperclip"
+    },
+    {
+      "n": "arrow-big-left-dash"
+    },
+    {
+      "n": "folder-open"
+    },
+    {
+      "n": "chevron-last"
+    },
+    {
+      "n": "message-square-quote"
+    },
+    {
+      "n": "gauge"
+    },
+    {
+      "n": "arrow-up-from-line"
+    },
+    {
+      "n": "tag"
+    },
+    {
+      "n": "file-scan"
+    },
+    {
+      "n": "hand-fist"
+    },
+    {
+      "n": "circle-arrow-left"
+    },
+    {
+      "n": "monitor-smartphone"
+    },
+    {
+      "n": "paper-bag"
+    },
+    {
+      "n": "move-right"
+    },
+    {
+      "n": "shield-lock"
+    },
+    {
+      "n": "folder-pen"
+    },
+    {
+      "n": "computer"
+    },
+    {
+      "n": "volume-x"
+    },
+    {
+      "n": "circle-fading-arrow-up"
+    },
+    {
+      "n": "siren"
+    },
+    {
+      "n": "phone-call"
+    },
+    {
+      "n": "file-music"
+    },
+    {
+      "n": "arrow-down-to-line"
+    },
+    {
+      "n": "spade"
+    },
+    {
+      "n": "van"
+    },
+    {
+      "n": "university"
+    },
+    {
+      "n": "zoom-out"
+    },
+    {
+      "n": "file-chart-column-increasing"
+    },
+    {
+      "n": "x-line-top"
+    },
+    {
+      "n": "map-pinned"
+    },
+    {
+      "n": "receipt"
+    },
+    {
+      "n": "moon-star"
+    },
+    {
+      "n": "file-spreadsheet"
+    },
+    {
+      "n": "heart-x"
+    },
+    {
+      "n": "database-zap"
+    },
+    {
+      "n": "timer-off"
+    },
+    {
+      "n": "speaker"
+    },
+    {
+      "n": "stretch-horizontal"
+    },
+    {
+      "n": "stretch-vertical"
+    },
+    {
+      "n": "video"
+    },
+    {
+      "n": "octagon-minus"
+    },
+    {
+      "n": "clipboard-list"
+    },
+    {
+      "n": "unlink-2"
+    },
+    {
+      "n": "arrow-big-up-dash"
+    },
+    {
+      "n": "music"
+    },
+    {
+      "n": "hand"
+    },
+    {
+      "n": "file-archive"
+    },
+    {
+      "n": "gap-vertical"
+    },
+    {
+      "n": "book-type"
+    },
+    {
+      "n": "database"
+    },
+    {
+      "n": "between-vertical-end"
+    },
+    {
+      "n": "image"
+    },
+    {
+      "n": "image-off"
+    },
+    {
+      "n": "vault"
+    },
+    {
+      "n": "circle-plus"
+    },
+    {
+      "n": "credit-card-minus"
+    },
+    {
+      "n": "crop"
+    },
+    {
+      "n": "chart-spline"
+    },
+    {
+      "n": "database-search"
+    },
+    {
+      "n": "squares-unite"
+    },
+    {
+      "n": "book-a"
+    },
+    {
+      "n": "calendar-1"
+    },
+    {
+      "n": "arrow-down-left"
+    },
+    {
+      "n": "table-cells-merge"
+    },
+    {
+      "n": "table-cells-split"
+    },
+    {
+      "n": "star-half"
+    },
+    {
+      "n": "text-search"
+    },
+    {
+      "n": "circle-arrow-out-down-right"
+    },
+    {
+      "n": "circle-arrow-out-up-right"
+    },
+    {
+      "n": "square-arrow-out-down-right"
+    },
+    {
+      "n": "square-arrow-out-up-left"
+    },
+    {
+      "n": "align-horizontal-space-between"
+    },
+    {
+      "n": "radio"
+    },
+    {
+      "n": "tickets"
+    },
+    {
+      "n": "align-vertical-justify-end"
+    },
+    {
+      "n": "table-2"
+    },
+    {
+      "n": "book"
+    },
+    {
+      "n": "book-text"
+    },
+    {
+      "n": "badge-cent"
+    },
+    {
+      "n": "badge-dollar-sign"
+    },
+    {
+      "n": "badge-euro"
+    },
+    {
+      "n": "badge-indian-rupee"
+    },
+    {
+      "n": "badge-japanese-yen"
+    },
+    {
+      "n": "badge-swiss-franc"
+    },
+    {
+      "n": "book-open-text"
+    },
+    {
+      "n": "book-open"
+    },
+    {
+      "n": "git-branch-minus"
+    },
+    {
+      "n": "badge-pound-sterling"
+    },
+    {
+      "n": "layer-arrow-down"
+    },
+    {
+      "n": "hd"
+    },
+    {
+      "n": "ticket"
+    },
+    {
+      "n": "notebook"
+    },
+    {
+      "n": "closed-caption"
+    },
+    {
+      "n": "circle-arrow-out-up-left"
+    },
+    {
+      "n": "align-end-horizontal"
+    },
+    {
+      "n": "align-vertical-distribute-end"
+    },
+    {
+      "n": "between-vertical-start"
+    },
+    {
+      "n": "align-horizontal-space-around"
+    },
+    {
+      "n": "align-vertical-justify-center"
+    },
+    {
+      "n": "align-vertical-space-around"
+    },
+    {
+      "n": "align-vertical-space-between"
+    },
+    {
+      "n": "focus"
+    },
+    {
+      "n": "repeat-off"
+    },
+    {
+      "n": "between-horizontal-start"
+    },
+    {
+      "n": "phone-forwarded"
+    },
+    {
+      "n": "wrench"
+    },
+    {
+      "n": "videotape"
+    },
+    {
+      "n": "phone-missed"
+    },
+    {
+      "n": "face-angry"
+    },
+    {
+      "n": "square-asterisk"
+    },
+    {
+      "n": "table-of-contents"
+    },
+    {
+      "n": "between-horizontal-end"
+    },
+    {
+      "n": "fast-forward"
+    },
+    {
+      "n": "languages"
+    },
+    {
+      "n": "circle-dashed"
+    },
+    {
+      "n": "circle-dot-dashed"
+    },
+    {
+      "n": "braces"
+    },
+    {
+      "n": "square-arrow-down-left"
+    },
+    {
+      "n": "book-heart"
+    },
+    {
+      "n": "trophy"
+    },
+    {
+      "n": "album"
+    },
+    {
+      "n": "router"
+    },
+    {
+      "n": "book-marked"
+    },
+    {
+      "n": "credit-card-reader"
+    },
+    {
+      "n": "shield-ellipsis"
+    },
+    {
+      "n": "cast"
+    },
+    {
+      "n": "text-quote"
+    },
+    {
+      "n": "mailbox"
+    },
+    {
+      "n": "screen-share-off"
+    },
+    {
+      "n": "award"
+    },
+    {
+      "n": "file-badge"
+    },
+    {
+      "n": "badge-russian-ruble"
+    },
+    {
+      "n": "align-horizontal-justify-center"
+    },
+    {
+      "n": "file-image"
+    },
+    {
+      "n": "align-horizontal-distribute-center"
+    },
+    {
+      "n": "align-vertical-distribute-center"
+    },
+    {
+      "n": "hat-glasses"
+    },
+    {
+      "n": "sheet"
+    },
+    {
+      "n": "radio-off"
+    },
+    {
+      "n": "plus"
+    },
+    {
+      "n": "orbit"
+    },
+    {
+      "n": "rows-2"
+    },
+    {
+      "n": "unlink"
+    },
+    {
+      "n": "brain"
+    },
+    {
+      "n": "keyboard-music"
+    },
+    {
+      "n": "sunrise"
+    },
+    {
+      "n": "diamond-plus"
+    },
+    {
+      "n": "dock"
+    },
+    {
+      "n": "maximize"
+    },
+    {
+      "n": "slash"
+    },
+    {
+      "n": "signal"
+    },
+    {
+      "n": "rows-3"
+    },
+    {
+      "n": "rows-4"
+    },
+    {
+      "n": "arrow-big-down-dash"
+    },
+    {
+      "n": "book-audio"
+    },
+    {
+      "n": "book-headphones"
+    },
+    {
+      "n": "shield-keyhole"
+    },
+    {
+      "n": "align-center-horizontal"
+    },
+    {
+      "n": "align-center-vertical"
+    },
+    {
+      "n": "volume"
+    },
+    {
+      "n": "shield-plus"
+    },
+    {
+      "n": "signal-high"
+    },
+    {
+      "n": "signal-low"
+    },
+    {
+      "n": "signal-medium"
+    },
+    {
+      "n": "battery-plus"
+    },
+    {
+      "n": "list-restart"
+    },
+    {
+      "n": "workflow"
+    },
+    {
+      "n": "music-2"
+    },
+    {
+      "n": "list-plus"
+    },
+    {
+      "n": "memory-stick"
+    },
+    {
+      "n": "plane"
+    },
+    {
+      "n": "square-chevron-right"
+    },
+    {
+      "n": "lamp"
+    },
+    {
+      "n": "drum"
+    },
+    {
+      "n": "book-lock"
+    },
+    {
+      "n": "headset"
+    },
+    {
+      "n": "tv-minimal-play"
+    },
+    {
+      "n": "hand-helping"
+    },
+    {
+      "n": "message-square-diff"
+    },
+    {
+      "n": "chevrons-down"
+    },
+    {
+      "n": "guitar"
+    },
+    {
+      "n": "map-pin"
+    },
+    {
+      "n": "git-branch-plus"
+    },
+    {
+      "n": "sunset"
+    },
+    {
+      "n": "wifi"
+    },
+    {
+      "n": "wifi-sync"
+    },
+    {
+      "n": "link-2-off"
+    },
+    {
+      "n": "signal-zero"
+    },
+    {
+      "n": "align-vertical-justify-start"
+    },
+    {
+      "n": "gpu"
+    },
+    {
+      "n": "bike"
+    },
+    {
+      "n": "heart-minus"
+    },
+    {
+      "n": "toggle-left"
+    },
+    {
+      "n": "folder-archive"
+    },
+    {
+      "n": "zodiac-aquarius"
+    },
+    {
+      "n": "medal"
+    },
+    {
+      "n": "circle-star"
+    },
+    {
+      "n": "square-star"
+    },
+    {
+      "n": "cpu"
+    },
+    {
+      "n": "radio-tower"
+    },
+    {
+      "n": "trending-down"
+    },
+    {
+      "n": "clipboard-pen"
+    },
+    {
+      "n": "boom-box"
+    },
+    {
+      "n": "lamp-wall-down"
+    },
+    {
+      "n": "lamp-wall-up"
+    },
+    {
+      "n": "list-music"
+    },
+    {
+      "n": "image-play"
+    },
+    {
+      "n": "concierge-bell"
+    },
+    {
+      "n": "circle-dashed-check"
+    },
+    {
+      "n": "align-start-horizontal"
+    },
+    {
+      "n": "align-vertical-distribute-start"
+    },
+    {
+      "n": "pickaxe"
+    },
+    {
+      "n": "microchip"
+    },
+    {
+      "n": "rabbit"
+    },
+    {
+      "n": "zodiac-capricorn"
+    },
+    {
+      "n": "refresh-ccw"
+    },
+    {
+      "n": "refresh-cw"
+    },
+    {
+      "n": "book-minus"
+    },
+    {
+      "n": "face-slightly-smiling-plus"
+    },
+    {
+      "n": "drafting-compass"
+    },
+    {
+      "n": "arrow-down-to-dot"
+    },
+    {
+      "n": "shrink"
+    },
+    {
+      "n": "solar-panel"
+    },
+    {
+      "n": "book-x"
+    },
+    {
+      "n": "chart-bar-decreasing"
+    },
+    {
+      "n": "chart-column-decreasing"
+    },
+    {
+      "n": "chart-no-axes-column-decreasing"
+    },
+    {
+      "n": "skip-forward"
+    },
+    {
+      "n": "table"
+    },
+    {
+      "n": "tally-5"
+    },
+    {
+      "n": "move-down"
+    },
+    {
+      "n": "ice-cream-cone"
+    },
+    {
+      "n": "chevrons-left"
+    },
+    {
+      "n": "chevrons-right"
+    },
+    {
+      "n": "group"
+    },
+    {
+      "n": "wifi-off"
+    },
+    {
+      "n": "stethoscope"
+    },
+    {
+      "n": "bookmark-off"
+    },
+    {
+      "n": "divide"
+    },
+    {
+      "n": "ampersands"
+    },
+    {
+      "n": "link-2"
+    },
+    {
+      "n": "construction"
+    },
+    {
+      "n": "banknote-arrow-down"
+    },
+    {
+      "n": "shield-x"
+    },
+    {
+      "n": "square-arrow-right-exit"
+    },
+    {
+      "n": "archive-restore"
+    },
+    {
+      "n": "user-round-x"
+    },
+    {
+      "n": "user-x"
+    },
+    {
+      "n": "signpost"
+    },
+    {
+      "n": "expand"
+    },
+    {
+      "n": "aperture"
+    },
+    {
+      "n": "bot-message-square"
+    },
+    {
+      "n": "bot-off"
+    },
+    {
+      "n": "tent-tree"
+    },
+    {
+      "n": "volume-off"
+    },
+    {
+      "n": "route"
+    },
+    {
+      "n": "tags"
+    },
+    {
+      "n": "square-dashed-top-solid"
+    },
+    {
+      "n": "ice-cream-bowl"
+    },
+    {
+      "n": "squirrel"
+    },
+    {
+      "n": "line-dot-right-horizontal"
+    },
+    {
+      "n": "drill"
+    },
+    {
+      "n": "image-upscale"
+    },
+    {
+      "n": "ship-cargo"
+    },
+    {
+      "n": "equal"
+    },
+    {
+      "n": "blend"
+    },
+    {
+      "n": "venetian-mask"
+    },
+    {
+      "n": "squares-subtract"
+    },
+    {
+      "n": "plane-landing"
+    },
+    {
+      "n": "bot"
+    },
+    {
+      "n": "folder-code"
+    },
+    {
+      "n": "badge-turkish-lira"
+    },
+    {
+      "n": "repeat-1"
+    },
+    {
+      "n": "tablet-smartphone"
+    },
+    {
+      "n": "move-up"
+    },
+    {
+      "n": "sparkles"
+    },
+    {
+      "n": "brush-cleaning"
+    },
+    {
+      "n": "ear"
+    },
+    {
+      "n": "door-closed"
+    },
+    {
+      "n": "door-open"
+    },
+    {
+      "n": "chart-candlestick"
+    },
+    {
+      "n": "gallery-horizontal"
+    },
+    {
+      "n": "gallery-vertical"
+    },
+    {
+      "n": "utility-pole"
+    },
+    {
+      "n": "layers-arrow-down"
+    },
+    {
+      "n": "sparkle"
+    },
+    {
+      "n": "goal"
+    },
+    {
+      "n": "list-ordered"
+    },
+    {
+      "n": "cloud-download"
+    },
+    {
+      "n": "plug-zap"
+    },
+    {
+      "n": "video-off"
+    },
+    {
+      "n": "git-commit-horizontal"
+    },
+    {
+      "n": "git-commit-vertical"
+    },
+    {
+      "n": "heart"
+    },
+    {
+      "n": "compass"
+    },
+    {
+      "n": "tv-minimal"
+    },
+    {
+      "n": "hotel"
+    },
+    {
+      "n": "mic-signal"
+    },
+    {
+      "n": "cooking-pot"
+    },
+    {
+      "n": "circle-off"
+    },
+    {
+      "n": "circle-slash"
+    },
+    {
+      "n": "chevron-right"
+    },
+    {
+      "n": "save-pen"
+    },
+    {
+      "n": "virus-off"
+    },
+    {
+      "n": "drama"
+    },
+    {
+      "n": "arrow-big-up"
+    },
+    {
+      "n": "pin-off"
+    },
+    {
+      "n": "germ"
+    },
+    {
+      "n": "germ-off"
+    },
+    {
+      "n": "circle-ellipsis"
+    },
+    {
+      "n": "ellipsis"
+    },
+    {
+      "n": "martini"
+    },
+    {
+      "n": "accessibility"
+    },
+    {
+      "n": "sun-moon"
+    },
+    {
+      "n": "tv"
+    },
+    {
+      "n": "file-code"
+    },
+    {
+      "n": "file-code-corner"
+    },
+    {
+      "n": "book-key"
+    },
+    {
+      "n": "antenna"
+    },
+    {
+      "n": "book-search"
+    },
+    {
+      "n": "audio-lines"
+    },
+    {
+      "n": "audio-waveform"
+    },
+    {
+      "n": "factory"
+    },
+    {
+      "n": "rss"
+    },
+    {
+      "n": "bug"
+    },
+    {
+      "n": "egg-fried"
+    },
+    {
+      "n": "arrow-up-down"
+    },
+    {
+      "n": "spotlight"
+    },
+    {
+      "n": "gamepad-2"
+    },
+    {
+      "n": "camera-off"
+    },
+    {
+      "n": "life-buoy"
+    },
+    {
+      "n": "phone-off"
+    },
+    {
+      "n": "alarm-clock"
+    },
+    {
+      "n": "alarm-clock-off"
+    },
+    {
+      "n": "scale"
+    },
+    {
+      "n": "folder-git"
+    },
+    {
+      "n": "folder-git-2"
+    },
+    {
+      "n": "folder-root"
+    },
+    {
+      "n": "rectangle-ellipsis"
+    },
+    {
+      "n": "decimals-arrow-right"
+    },
+    {
+      "n": "gap-horizontal"
+    },
+    {
+      "n": "disc-2"
+    },
+    {
+      "n": "disc-3"
+    },
+    {
+      "n": "plane-takeoff"
+    },
+    {
+      "n": "gem"
+    },
+    {
+      "n": "building-2"
+    },
+    {
+      "n": "sticker"
+    },
+    {
+      "n": "podium"
+    },
+    {
+      "n": "zodiac-sagittarius"
+    },
+    {
+      "n": "cctv-off"
+    },
+    {
+      "n": "zap-off"
+    },
+    {
+      "n": "grid-3x3"
+    },
+    {
+      "n": "folder-open-dot"
+    },
+    {
+      "n": "mic-audio-lines"
+    },
+    {
+      "n": "triangle-right"
+    },
+    {
+      "n": "beef"
+    },
+    {
+      "n": "cctv"
+    },
+    {
+      "n": "book-copy"
+    },
+    {
+      "n": "square-function"
+    },
+    {
+      "n": "table-columns-split"
+    },
+    {
+      "n": "table-rows-split"
+    },
+    {
+      "n": "toolbox"
+    },
+    {
+      "n": "chef-hat"
+    },
+    {
+      "n": "paw-print"
+    },
+    {
+      "n": "moon"
+    },
+    {
+      "n": "list-clock"
+    },
+    {
+      "n": "tickets-plane"
+    },
+    {
+      "n": "weight-tilde"
+    },
+    {
+      "n": "rocket"
+    },
+    {
+      "n": "sun"
+    },
+    {
+      "n": "circuit-board"
+    },
+    {
+      "n": "zap"
+    },
+    {
+      "n": "shield-half"
+    },
+    {
+      "n": "battery"
+    },
+    {
+      "n": "battery-full"
+    },
+    {
+      "n": "circle-arrow-out-down-left"
+    },
+    {
+      "n": "square-arrow-out-down-left"
+    },
+    {
+      "n": "battery-low"
+    },
+    {
+      "n": "battery-charging"
+    },
+    {
+      "n": "battery-medium"
+    },
+    {
+      "n": "bandage"
+    },
+    {
+      "n": "cloud-lightning"
+    },
+    {
+      "n": "arrow-left-right"
+    },
+    {
+      "n": "arrow-right-left"
+    },
+    {
+      "n": "zodiac-cancer"
+    },
+    {
+      "n": "mountain"
+    },
+    {
+      "n": "cloud-moon"
+    },
+    {
+      "n": "layers-arrow-up"
+    },
+    {
+      "n": "castle"
+    },
+    {
+      "n": "calculator"
+    },
+    {
+      "n": "bell-electric"
+    },
+    {
+      "n": "battery-warning"
+    },
+    {
+      "n": "ghost"
+    },
+    {
+      "n": "gallery-thumbnails"
+    },
+    {
+      "n": "list-end"
+    },
+    {
+      "n": "shuffle"
+    },
+    {
+      "n": "mouse-pointer-ban"
+    },
+    {
+      "n": "square-slash"
+    },
+    {
+      "n": "send-to-back"
+    },
+    {
+      "n": "screen-share"
+    },
+    {
+      "n": "loader-circle"
+    },
+    {
+      "n": "lightbulb"
+    },
+    {
+      "n": "refresh-ccw-dot"
+    },
+    {
+      "n": "milestone"
+    },
+    {
+      "n": "parentheses"
+    },
+    {
+      "n": "trees"
+    },
+    {
+      "n": "toy-brick"
+    },
+    {
+      "n": "square-m"
+    },
+    {
+      "n": "anchor"
+    },
+    {
+      "n": "turtle"
+    },
+    {
+      "n": "gamepad"
+    },
+    {
+      "n": "beer-off"
+    },
+    {
+      "n": "decimals-arrow-left"
+    },
+    {
+      "n": "wind"
+    },
+    {
+      "n": "microscope"
+    },
+    {
+      "n": "tornado"
+    },
+    {
+      "n": "footprints"
+    },
+    {
+      "n": "dam"
+    },
+    {
+      "n": "zodiac-taurus"
+    },
+    {
+      "n": "shield-cog"
+    },
+    {
+      "n": "shield-cog-corner"
+    },
+    {
+      "n": "file-terminal"
+    },
+    {
+      "n": "spell-check-2"
+    },
+    {
+      "n": "roller-coaster"
+    },
+    {
+      "n": "crown"
+    },
+    {
+      "n": "shield"
+    },
+    {
+      "n": "pill"
+    },
+    {
+      "n": "scissors-line-dashed"
+    },
+    {
+      "n": "ad"
+    },
+    {
+      "n": "brick-wall-shield"
+    },
+    {
+      "n": "kayak"
+    },
+    {
+      "n": "tally-2"
+    },
+    {
+      "n": "sun-snow"
+    },
+    {
+      "n": "binoculars"
+    },
+    {
+      "n": "drone"
+    },
+    {
+      "n": "eject"
+    },
+    {
+      "n": "whistle"
+    },
+    {
+      "n": "equal-approximately-not"
+    },
+    {
+      "n": "zodiac-gemini"
+    },
+    {
+      "n": "ham"
+    },
+    {
+      "n": "tally-3"
+    },
+    {
+      "n": "disc"
+    },
+    {
+      "n": "disc-album"
+    },
+    {
+      "n": "snail"
+    },
+    {
+      "n": "circle-divide"
+    },
+    {
+      "n": "square-divide"
+    },
+    {
+      "n": "square-equal"
+    },
+    {
+      "n": "nut"
+    },
+    {
+      "n": "layer-arrow-up"
+    },
+    {
+      "n": "cat"
+    },
+    {
+      "n": "lighthouse"
+    },
+    {
+      "n": "puzzle"
+    },
+    {
+      "n": "drumstick"
+    },
+    {
+      "n": "ear-off"
+    },
+    {
+      "n": "pill-bottle"
+    },
+    {
+      "n": "terminal"
+    },
+    {
+      "n": "heading"
+    },
+    {
+      "n": "droplet"
+    },
+    {
+      "n": "git-fork"
+    },
+    {
+      "n": "git-merge"
+    },
+    {
+      "n": "thermometer-sun"
+    },
+    {
+      "n": "droplets"
+    },
+    {
+      "n": "ungroup"
+    },
+    {
+      "n": "droplet-off"
+    },
+    {
+      "n": "tree-deciduous"
+    },
+    {
+      "n": "tree-pine"
+    },
+    {
+      "n": "soup"
+    },
+    {
+      "n": "projector"
+    },
+    {
+      "n": "switch-camera"
+    },
+    {
+      "n": "palette"
+    },
+    {
+      "n": "bug-play"
+    },
+    {
+      "n": "arrow-down-up"
+    },
+    {
+      "n": "tent"
+    },
+    {
+      "n": "heading-1"
+    },
+    {
+      "n": "heading-2"
+    },
+    {
+      "n": "heading-3"
+    },
+    {
+      "n": "heading-4"
+    },
+    {
+      "n": "heading-5"
+    },
+    {
+      "n": "heading-6"
+    },
+    {
+      "n": "square-bottom-dashed-scissors"
+    },
+    {
+      "n": "chevron-up"
+    },
+    {
+      "n": "midi-port"
+    },
+    {
+      "n": "usb-c-port"
+    },
+    {
+      "n": "magnet"
+    },
+    {
+      "n": "umbrella"
+    },
+    {
+      "n": "fish"
+    },
+    {
+      "n": "banana"
+    },
+    {
+      "n": "cherry"
+    },
+    {
+      "n": "cable"
+    },
+    {
+      "n": "fish-symbol"
+    },
+    {
+      "n": "face-neutral"
+    },
+    {
+      "n": "audio-lines-off"
+    },
+    {
+      "n": "thermometer"
+    },
+    {
+      "n": "candy"
+    },
+    {
+      "n": "fish-off"
+    },
+    {
+      "n": "sport-shoe"
+    },
+    {
+      "n": "cloudy"
+    },
+    {
+      "n": "zodiac-pisces"
+    },
+    {
+      "n": "satellite-dish"
+    },
+    {
+      "n": "gallery-horizontal-end"
+    },
+    {
+      "n": "gallery-vertical-end"
+    },
+    {
+      "n": "audio-lines-x"
+    },
+    {
+      "n": "loader-pinwheel"
+    },
+    {
+      "n": "wind-arrow-down"
+    },
+    {
+      "n": "loader"
+    },
+    {
+      "n": "shield-off"
+    },
+    {
+      "n": "shield-question-mark"
+    },
+    {
+      "n": "rectangle-goggles"
+    },
+    {
+      "n": "images"
+    },
+    {
+      "n": "beer"
+    },
+    {
+      "n": "thermometer-snowflake"
+    },
+    {
+      "n": "shield-ban"
+    },
+    {
+      "n": "washing-machine"
+    },
+    {
+      "n": "swatch-book"
+    },
+    {
+      "n": "egg"
+    },
+    {
+      "n": "cloud-moon-rain"
+    },
+    {
+      "n": "croissant"
+    },
+    {
+      "n": "grid-2x2-check"
+    },
+    {
+      "n": "grid-2x2-plus"
+    },
+    {
+      "n": "grid-2x2-x"
+    },
+    {
+      "n": "face-slightly-frowning"
+    },
+    {
+      "n": "infinity"
+    },
+    {
+      "n": "crosshair"
+    },
+    {
+      "n": "zodiac-virgo"
+    },
+    {
+      "n": "hand-platter"
+    },
+    {
+      "n": "bluetooth"
+    },
+    {
+      "n": "bottle-wine"
+    },
+    {
+      "n": "sun-medium"
+    },
+    {
+      "n": "sandwich"
+    },
+    {
+      "n": "quote"
+    },
+    {
+      "n": "blender"
+    },
+    {
+      "n": "soap-dispenser-droplet"
+    },
+    {
+      "n": "axis-3d"
+    },
+    {
+      "n": "package"
+    },
+    {
+      "n": "hammer"
+    },
+    {
+      "n": "scale-3d"
+    },
+    {
+      "n": "utensils"
+    },
+    {
+      "n": "beaker"
+    },
+    {
+      "n": "square-stack"
+    },
+    {
+      "n": "package-open"
+    },
+    {
+      "n": "brain-circuit"
+    },
+    {
+      "n": "brain-cog"
+    },
+    {
+      "n": "popsicle"
+    },
+    {
+      "n": "zodiac-aries"
+    },
+    {
+      "n": "angle"
+    },
+    {
+      "n": "rotate-3d"
+    },
+    {
+      "n": "torus"
+    },
+    {
+      "n": "donut"
+    },
+    {
+      "n": "joystick"
+    },
+    {
+      "n": "popcorn"
+    },
+    {
+      "n": "train-front-tunnel"
+    },
+    {
+      "n": "umbrella-off"
+    },
+    {
+      "n": "cloud-drizzle"
+    },
+    {
+      "n": "bird"
+    },
+    {
+      "n": "beef-off"
+    },
+    {
+      "n": "broom"
+    },
+    {
+      "n": "file-stack"
+    },
+    {
+      "n": "git-branch"
+    },
+    {
+      "n": "binary"
+    },
+    {
+      "n": "cloud-sun"
+    },
+    {
+      "n": "library-big"
+    },
+    {
+      "n": "square-library"
+    },
+    {
+      "n": "library"
+    },
+    {
+      "n": "code"
+    },
+    {
+      "n": "package-2"
+    },
+    {
+      "n": "tram-front"
+    },
+    {
+      "n": "cloud-sun-rain"
+    },
+    {
+      "n": "flask-conical"
+    },
+    {
+      "n": "flask-conical-off"
+    },
+    {
+      "n": "flask-round"
+    },
+    {
+      "n": "test-tubes"
+    },
+    {
+      "n": "mars"
+    },
+    {
+      "n": "spray-can"
+    },
+    {
+      "n": "face-expressionless"
+    },
+    {
+      "n": "bath"
+    },
+    {
+      "n": "shower-head"
+    },
+    {
+      "n": "face-grinning"
+    },
+    {
+      "n": "snowflake"
+    },
+    {
+      "n": "tally-4"
+    },
+    {
+      "n": "touchpad-off"
+    },
+    {
+      "n": "cloud-hail"
+    },
+    {
+      "n": "cloud-rain"
+    },
+    {
+      "n": "cloud-rain-wind"
+    },
+    {
+      "n": "candy-cane"
+    },
+    {
+      "n": "scissors"
+    },
+    {
+      "n": "broom-sparkles"
+    },
+    {
+      "n": "thumbs-down"
+    },
+    {
+      "n": "train-front"
+    },
+    {
+      "n": "balloon"
+    },
+    {
+      "n": "hospital"
+    },
+    {
+      "n": "panda"
+    },
+    {
+      "n": "party-popper"
+    },
+    {
+      "n": "plug-2"
+    },
+    {
+      "n": "heart-off"
+    },
+    {
+      "n": "pizza"
+    },
+    {
+      "n": "flame"
+    },
+    {
+      "n": "parasol"
+    },
+    {
+      "n": "cloud-snow"
+    },
+    {
+      "n": "square-dimensions"
+    },
+    {
+      "n": "cloud-fog"
+    },
+    {
+      "n": "sun-dim"
+    },
+    {
+      "n": "shrimp"
+    },
+    {
+      "n": "circle-dot"
+    },
+    {
+      "n": "book-image"
+    },
+    {
+      "n": "code-xml"
+    },
+    {
+      "n": "waves-ladder"
+    },
+    {
+      "n": "brick-wall-fire"
+    },
+    {
+      "n": "git-compare"
+    },
+    {
+      "n": "git-compare-arrows"
+    },
+    {
+      "n": "galaxy"
+    },
+    {
+      "n": "book-up"
+    },
+    {
+      "n": "dumbbell"
+    },
+    {
+      "n": "ruler"
+    },
+    {
+      "n": "waves-arrow-down"
+    },
+    {
+      "n": "cake"
+    },
+    {
+      "n": "ruler-dimension-line"
+    },
+    {
+      "n": "inspection-panel"
+    },
+    {
+      "n": "waves-arrow-up"
+    },
+    {
+      "n": "mop-sparkles"
+    },
+    {
+      "n": "git-graph"
+    },
+    {
+      "n": "lollipop"
+    },
+    {
+      "n": "flip-horizontal-2"
+    },
+    {
+      "n": "flip-vertical-2"
+    },
+    {
+      "n": "square-centerline-dashed-horizontal"
+    },
+    {
+      "n": "square-centerline-dashed-vertical"
+    },
+    {
+      "n": "rainbow"
+    },
+    {
+      "n": "wand-sparkles"
+    },
+    {
+      "n": "zodiac-scorpio"
+    },
+    {
+      "n": "apple"
+    },
+    {
+      "n": "cup-soda"
+    },
+    {
+      "n": "route-off"
+    },
+    {
+      "n": "milk"
+    },
+    {
+      "n": "coffee"
+    },
+    {
+      "n": "bubbles"
+    },
+    {
+      "n": "grape"
+    },
+    {
+      "n": "tree-palm"
+    },
+    {
+      "n": "milk-off"
+    },
+    {
+      "n": "book-up-2"
+    },
+    {
+      "n": "slice"
+    },
+    {
+      "n": "heart-pulse"
+    },
+    {
+      "n": "spell-check"
+    },
+    {
+      "n": "hash"
+    },
+    {
+      "n": "hop"
+    },
+    {
+      "n": "briefcase-medical"
+    },
+    {
+      "n": "virus"
+    },
+    {
+      "n": "shrimp-off"
+    },
+    {
+      "n": "file-axis-3d"
+    },
+    {
+      "n": "square-code"
+    },
+    {
+      "n": "tally-1"
+    },
+    {
+      "n": "candy-off"
+    },
+    {
+      "n": "theater"
+    },
+    {
+      "n": "square-activity"
+    },
+    {
+      "n": "activity"
+    },
+    {
+      "n": "leaf"
+    },
+    {
+      "n": "fire-extinguisher"
+    },
+    {
+      "n": "bug-off"
+    },
+    {
+      "n": "bone-fracture"
+    },
+    {
+      "n": "pocket-knife"
+    },
+    {
+      "n": "flower-2"
+    },
+    {
+      "n": "shell"
+    },
+    {
+      "n": "weight"
+    },
+    {
+      "n": "paint-bucket"
+    },
+    {
+      "n": "flame-kindling"
+    },
+    {
+      "n": "voicemail"
+    },
+    {
+      "n": "dessert"
+    },
+    {
+      "n": "trending-up-down"
+    },
+    {
+      "n": "handshake"
+    },
+    {
+      "n": "shrub"
+    },
+    {
+      "n": "square-terminal"
+    },
+    {
+      "n": "heart-crack"
+    },
+    {
+      "n": "turntable"
+    },
+    {
+      "n": "lectern"
+    },
+    {
+      "n": "book-down"
+    },
+    {
+      "n": "mirror-rectangular"
+    },
+    {
+      "n": "rocking-chair"
+    },
+    {
+      "n": "nut-off"
+    },
+    {
+      "n": "bed-double"
+    },
+    {
+      "n": "bed-single"
+    },
+    {
+      "n": "tablets"
+    },
+    {
+      "n": "bed"
+    },
+    {
+      "n": "test-tube-diagonal"
+    },
+    {
+      "n": "syringe"
+    },
+    {
+      "n": "test-tube"
+    },
+    {
+      "n": "playing-cards"
+    },
+    {
+      "n": "utensils-crossed"
+    },
+    {
+      "n": "plug"
+    },
+    {
+      "n": "barrel"
+    },
+    {
+      "n": "pen-tool"
+    },
+    {
+      "n": "dog"
+    },
+    {
+      "n": "cable-car"
+    },
+    {
+      "n": "baby"
+    },
+    {
+      "n": "bean"
+    },
+    {
+      "n": "file-pen"
+    },
+    {
+      "n": "zodiac-libra"
+    },
+    {
+      "n": "clover"
+    },
+    {
+      "n": "scan-heart"
+    },
+    {
+      "n": "mountain-snow"
+    },
+    {
+      "n": "skull"
+    },
+    {
+      "n": "mirror-round"
+    },
+    {
+      "n": "chess-knight"
+    },
+    {
+      "n": "waypoints"
+    },
+    {
+      "n": "chess-queen"
+    },
+    {
+      "n": "chess-king"
+    },
+    {
+      "n": "waves-horizontal"
+    },
+    {
+      "n": "heater"
+    },
+    {
+      "n": "chess-rook"
+    },
+    {
+      "n": "proportions"
+    },
+    {
+      "n": "flower"
+    },
+    {
+      "n": "touchpad"
+    },
+    {
+      "n": "gavel"
+    },
+    {
+      "n": "ratio"
+    },
+    {
+      "n": "chess-pawn"
+    },
+    {
+      "n": "armchair"
+    },
+    {
+      "n": "sofa"
+    },
+    {
+      "n": "zodiac-leo"
+    },
+    {
+      "n": "ferris-wheel"
+    },
+    {
+      "n": "sprout"
+    },
+    {
+      "n": "split"
+    },
+    {
+      "n": "square-split-horizontal"
+    },
+    {
+      "n": "square-split-vertical"
+    },
+    {
+      "n": "ship"
+    },
+    {
+      "n": "ship-wheel"
+    },
+    {
+      "n": "brick-wall"
+    },
+    {
+      "n": "captions"
+    },
+    {
+      "n": "bomb"
+    },
+    {
+      "n": "file-braces"
+    },
+    {
+      "n": "file-braces-corner"
+    },
+    {
+      "n": "captions-off"
+    },
+    {
+      "n": "waves-vertical"
+    },
+    {
+      "n": "non-binary"
+    },
+    {
+      "n": "playing-card"
+    },
+    {
+      "n": "air-vent"
+    },
+    {
+      "n": "dice-3"
+    },
+    {
+      "n": "mop"
+    },
+    {
+      "n": "biceps-flexed"
+    },
+    {
+      "n": "unplug"
+    },
+    {
+      "n": "mosque"
+    },
+    {
+      "n": "transgender"
+    },
+    {
+      "n": "toilet"
+    },
+    {
+      "n": "hamburger"
+    },
+    {
+      "n": "axe"
+    },
+    {
+      "n": "salad"
+    },
+    {
+      "n": "pipette"
+    },
+    {
+      "n": "rose"
+    },
+    {
+      "n": "cake-slice"
+    },
+    {
+      "n": "anvil"
+    },
+    {
+      "n": "circle-parking"
+    },
+    {
+      "n": "circle-parking-off"
+    },
+    {
+      "n": "square-parking"
+    },
+    {
+      "n": "square-parking-off"
+    },
+    {
+      "n": "fishing-rod"
+    },
+    {
+      "n": "copyright"
+    },
+    {
+      "n": "venus"
+    },
+    {
+      "n": "bone"
+    },
+    {
+      "n": "carrot"
+    },
+    {
+      "n": "pointer-off"
+    },
+    {
+      "n": "lens-concave"
+    },
+    {
+      "n": "lens-convex"
+    },
+    {
+      "n": "ribbon"
+    },
+    {
+      "n": "dices"
+    },
+    {
+      "n": "cloud-off"
+    },
+    {
+      "n": "circle-slash-2"
+    },
+    {
+      "n": "hop-off"
+    },
+    {
+      "n": "chess-bishop"
+    },
+    {
+      "n": "mars-stroke"
+    },
+    {
+      "n": "venus-and-mars"
+    },
+    {
+      "n": "dice-2"
+    },
+    {
+      "n": "towel-rack"
+    },
+    {
+      "n": "dice-1"
+    },
+    {
+      "n": "bean-off"
+    },
+    {
+      "n": "glasses"
+    },
+    {
+      "n": "dice-4"
+    },
+    {
+      "n": "amphora"
+    },
+    {
+      "n": "dice-6"
+    },
+    {
+      "n": "dice-5"
+    },
+    {
+      "n": "sailboat"
+    },
+    {
+      "n": "rat"
+    },
+    {
+      "n": "volleyball"
+    },
+    {
+      "n": "paint-roller"
+    },
+    {
+      "n": "bluetooth-searching"
+    },
+    {
+      "n": "save-off"
+    },
+    {
+      "n": "wheat"
+    },
+    {
+      "n": "egg-off"
+    },
+    {
+      "n": "vegan"
+    },
+    {
+      "n": "caravan"
+    },
+    {
+      "n": "refrigerator"
+    },
+    {
+      "n": "spool"
+    },
+    {
+      "n": "cannabis"
+    },
+    {
+      "n": "cannabis-off"
+    },
+    {
+      "n": "microwave"
+    },
+    {
+      "n": "fuel"
+    },
+    {
+      "n": "bow-arrow"
+    },
+    {
+      "n": "creative-commons"
+    },
+    {
+      "n": "broccoli"
+    },
+    {
+      "n": "citrus"
+    },
+    {
+      "n": "atom"
+    },
+    {
+      "n": "fan"
+    },
+    {
+      "n": "playing-cards-fan"
+    },
+    {
+      "n": "file-diff"
+    },
+    {
+      "n": "bluetooth-connected"
+    },
+    {
+      "n": "haze"
+    },
+    {
+      "n": "bluetooth-off"
+    },
+    {
+      "n": "cigarette"
+    },
+    {
+      "n": "cigarette-off"
+    },
+    {
+      "n": "wheat-off"
+    },
+    {
+      "n": "satellite"
+    },
+    {
+      "n": "square-dot"
+    },
+    {
+      "n": "sword"
+    },
+    {
+      "n": "dna"
+    },
+    {
+      "n": "swords"
+    },
+    {
+      "n": "shovel"
+    },
+    {
+      "n": "worm"
+    },
+    {
+      "n": "lightbulb-off"
+    },
+    {
+      "n": "layout-dashboard"
+    },
+    {
+      "n": "dna-off"
+    },
+    {
+      "n": "leafy-green"
+    },
+    {
+      "n": "copyleft"
+    },
+    {
+      "n": "hand-metal"
+    }
+  ]
+}
